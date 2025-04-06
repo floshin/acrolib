@@ -23,6 +23,57 @@ We divide the Acrobatic terms into the following categories according to the str
     * Statics
     * Tumbling
 
+---
+
+## Partner work
+
+* Partner(s)
+* Fomation
+* Pair
+* Group
+* Mixed Pair
+* Womens Pair
+* Mens Pair
+* Womens Group
+* Mens Group
+
+
+### Balance
+
+* Balance
+* Point(s) of Support
+* Hand to Hand
+* Foot to Hand
+* Foot to Foot
+* Hand to Foot
+* Head to Hand
+* One on One
+* One on Two
+* Two on One
+* Mono
+* Short
+* Extended
+* Bent Arms
+* Straight Arms
+* One Arm
+* Two Arms
+* Knot
+
+
+#### Handstands
+
+* Handstand
+* Inversion
+
+
+##### Supports
+
+
+#### Footstands
+
+
+
+##### Levers
 
 
 * Handstand
