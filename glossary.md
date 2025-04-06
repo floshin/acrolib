@@ -71,6 +71,8 @@ We divide the Acrobatic terms into the following categories according to the str
 * Category C: Piked Handstands
 * Category D: Flags
 * Category D1: Gripped Flags
+* Uncategorized Handstands:
+  * Visulka / Deep Pike / Icycle
 
 
 ##### Supports
