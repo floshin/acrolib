@@ -59,6 +59,14 @@ We divide the Acrobatic terms into the following categories according to the str
 ### Balance
 
 * Balance
+* Balance Categories of Elements
+  * Handstands
+  * Headstands
+  * Supports
+  * Footstands
+  * Splits
+  * Cross
+  * Levers
 * Point(s) of Support
 * Hand to Hand
 * Foot to Hand
