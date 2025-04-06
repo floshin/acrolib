@@ -55,6 +55,8 @@ We divide the Acrobatic terms into the following categories according to the str
 * Extended
 * Bent Arms
 * Straight Arms
+* Half Arm
+* High Arm
 * One Arm
 * Two Arms
 * Knot
@@ -71,6 +73,11 @@ We divide the Acrobatic terms into the following categories according to the str
 
 #### Footstands
 
+* Footstand
+* Standing Split
+* Free Standing Split
+* Needle
+* Scorpion
 
 
 ##### Levers
