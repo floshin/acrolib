@@ -8,6 +8,10 @@ We divide the Acrobatic terms into the following categories according to the str
 
 * Partner work
     * Balance
+       * Handstands
+         * Supports 
+       * Footstands
+       * Levers
     * Dynamics
     * Mounts
     * Motions
