@@ -116,10 +116,13 @@ We divide the Acrobatic terms into the following categories according to the str
 #### Footstands
 
 * Footstand
-* Standing Split
-* Free Standing Split
-* Needle
-* Scorpion
+* Category A: Regular Footstand
+* Category B: Standing Backbends/Arch
+* Category C: One footed Stands
+* Category D: Scorpions
+* Category E: Standing Splits
+* Category F: Needles
+* Categorg G: One footed Backbends/Arches
 
 
 ##### Levers
