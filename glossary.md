@@ -25,6 +25,7 @@ We divide the Acrobatic terms into the following categories according to the str
 
 ---
 
+
 ## General
 
 * Acrobatics
@@ -99,7 +100,6 @@ We divide the Acrobatic terms into the following categories according to the str
 
 
 ##### Levers
-
 
 * Handstand
 * Arch Handstands or Mexicans
