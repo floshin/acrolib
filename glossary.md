@@ -17,7 +17,6 @@ We divide the Acrobatic terms into the following categories according to the str
     * Motions
     * Choreography
 * Individual work
-    * Balance
     * Agility
     * Flexibility
     * Statics
