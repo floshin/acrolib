@@ -25,6 +25,15 @@ We divide the Acrobatic terms into the following categories according to the str
 
 ---
 
+## General
+
+* Acrobatics
+* Acro
+* Acrobatic Gymnastics
+* Element
+* Trick
+
+
 ## Partner work
 
 * Partner(s)
@@ -76,6 +85,8 @@ We divide the Acrobatic terms into the following categories according to the str
 
 
 ##### Supports
+
+* Supports are categorized in the ToD as "miscellaneous elements". We are suggesting to describe them as supports and consider them as a subcategory of handstands, since they are also performed on hands and have been termed as Supports in artistic gymnastics. A support is thereby defined as a balance element that is held on hands, but 
 
 
 #### Footstands
