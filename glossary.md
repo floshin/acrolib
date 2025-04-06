@@ -66,6 +66,11 @@ We divide the Acrobatic terms into the following categories according to the str
 
 * Handstand
 * Inversion
+* Category A: "Normal" Handstands
+* Category B: Arch Handstands
+* Category C: Piked Handstands
+* Category D: Flags
+* Category D1: Gripped Flags
 
 
 ##### Supports
