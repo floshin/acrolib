@@ -13,7 +13,7 @@ We divide the Acrobatic terms into the following categories according to the str
        * Footstands
        * Levers
     * Dynamics
-    * Mounts
+    * Mounts/Dismounts
     * Motions
     * Choreography
 * Individual work
@@ -32,7 +32,15 @@ We divide the Acrobatic terms into the following categories according to the str
 * Acro
 * Acrobatic Gymnastics
 * Element
+  * Partner Elements
+  * Individual Elements
 * Trick
+* Choreography
+* Artistic
+* Execution
+* Technique
+* 
+
 
 
 ## Partner work
@@ -87,7 +95,15 @@ We divide the Acrobatic terms into the following categories according to the str
 
 ##### Supports
 
-* Supports are categorized in the ToD as "miscellaneous elements". We are suggesting to describe them as supports and consider them as a subcategory of handstands, since they are also performed on hands and have been termed as Supports in artistic gymnastics. A support is thereby defined as a balance element that is held on hands, but 
+* Supports are categorized in the ToD among "miscellaneous elements". We are suggesting to describe them as supports and consider them as a subcategory of handstands, since they are also performed on hands and have been termed as Supports in artistic gymnastics. A support is thereby defined as a balance element that is held on hands, but in which the upper body is *not* in an inverted position, as in regular handstands, and not held above the shoulders.
+
+* Tuck-Support is a balance element held on the hands with the body in a vertically tucked up position (not in a horizontally tucked up position, which would be a tuck planche). Less precisely it described as a "Tuck Sit", which we prefer to name the element if actually seated on the floor.  
+* L-Support is a balance element held on the hands with the body in an L-Shape, where the upper body is in a vertical position and the legs are held straight and at least horizontally to the floor. Commonly also called L-Sit, which we prefer to name the position in which one is actually sitting on the floor. Another name for this element is "Pike Lever", as the body is held in a piked position. We do not prefer this description, because the body can be held in a piked position in these three different ways; a V-Support would also be a piked lever, just as the Visulka as the other extreme. Therefore we would choose "Pike Levers" as a categorisation of different Support Holds in a piked position. There are two variations and progression forms of the L-Support which are both useful and important for higher level skills: 
+   * L-Support with higher compression, where the legs are horizontally to the floor, but both the hips and legs are in more distance to the floor, e.g. at the elbow level. This progression develops the necessary compression strength for L-Press to Handstand on the floor.
+   * L-Support with higher feet, where the legs are not held horizontally, and the hips are not raised significantly compared to a basic L-Support, but the feet are raised significantly higher, away from the floor in an upward angle. This progression leads towards the V-Support.  
+* V-Support
+* Manna, "Over-Support" or Russian Lever
+* Planche
 
 
 #### Footstands
