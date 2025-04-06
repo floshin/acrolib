@@ -1,6 +1,6 @@
 # International Dictionary of Acrobatic Terms
 
-In this dictionary you will find all kinds of terms known from or associated with acrobatic gymnastics and acrobatics in general. Over time we will add terms of all kinds of different languages and associate them with the related terms from other languages in order to reduce the confusion and find a more common language. On the basis on this research we try to suggest a terminology based on the most precise and most commonly used terms. 
+In this dictionary you will find all kinds of terms known from or associated with acrobatic gymnastics and acrobatics in general. Over time we will add terms of diverse languages and associate them with the related terms from other languages in order to reduce the current confusion when talking about elements with people from another country or even just a different acrobatic school. On the basis on this research we may try to suggest a terminology, a common language, based on the most precise and most commonly used terms. 
 
 We will later include a search function so that you can search for terms you heard of but don't know what they mean or to search for terms you already know in order to learn how they are called in other languages. 
 
@@ -8,19 +8,17 @@ We divide the Acrobatic terms into the following categories according to the str
 
 * Partner work
     * Balance
-       * Handstands
-         * Supports 
-       * Footstands
-       * Levers
     * Dynamics
     * Mounts/Dismounts
     * Motions
-    * Choreography
 * Individual work
     * Agility
     * Flexibility
     * Statics
     * Tumbling
+* Dance
+    * Leaps
+    * Lifts
 
 ---
 
@@ -33,13 +31,11 @@ We divide the Acrobatic terms into the following categories according to the str
 * Element
   * Partner Elements
   * Individual Elements
-* Trick
-* Choreography
+* Trick, Stunt
+* Dance/Choreography
 * Artistic
 * Execution
 * Technique
-* 
-
 
 
 ## Partner work
