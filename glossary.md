@@ -107,7 +107,9 @@ We divide the Acrobatic terms into the following categories according to the str
    * L-Support with higher feet, where the legs are not held horizontally, and the hips are not raised significantly compared to a basic L-Support, but the feet are raised significantly higher, away from the floor in an upward angle. This progression leads towards the V-Support.  
 * **V-Support**
 * **Manna**, "Over-Support" or Russian Lever
-* **Planche**
+* **Planche**, ..., A Planche with the hands being apart by at least three times the shoulder width is called a Wide Planche. A Planche where the Arms are completely in a horizontal line alongside the body is called a "Maltese" or "Deep Planche". 
+* One Arm Planche. A planche on one arm. According to the ToD of the FIG a one arm planche is not possible and can therefore not be performed. One arm planches as performed in Calisthenics are not considered actual planches by gymnastic standards due to bent arms and many other technical shortcomings. The element is said to be impossible because it is assumed that it can either only be performed with a bent arm and/or with the body heavily twisted or not completely horizontal; in the past and for many years the only person in the world who came close to a clean one arm planche was a handbalancer called ???, who performed it like this. In recent years though, handbalancers like ??? have shown one arm planches with a technique and such lines that gymnastic standards could be considered as given. 
+* Lever
 
 
 #### Footstands
@@ -122,26 +124,6 @@ We divide the Acrobatic terms into the following categories according to the str
 * Categorg G: One footed Backbends/Arches
 
 
-
-
-
-
-
-
-
-* Footstand
-* Support or Lever
-
-* Straddle Sit or Straddle Support
-* L-Sit or L-Support
-* V-Sit, V-Support or Russian Lever 
-* Manna 
-* Planche is a lever 
-A Planche with the hands being apart in at least about 3 times the shoulder width is called a Wide Planche. 
-A Planche where the Arms are completely in a horizontal line alongside the body is called a Maltese.
-
-
-
 ## Individual Work
 
 ### Flexibility
@@ -149,8 +131,8 @@ A Planche where the Arms are completely in a horizontal line alongside the body 
 * Splits are a flexibility display and a position in which the legs form one line with the hips in the middle; the legs being 180° apart, either by sitting in a split or by actively holding the legs apart; Splits can be performed frontal (one leg forwards - in flexion - and one leg backwards - in extension) or sagittal, with both legs to the side (in abduction), thus being differentiated in *Front Split* and *Side Split*. The Side Split is also known as *Middle Split*, *Horizontal Split* or *Sagittal Split*.  
 In German the Front Split is known as "Frauenspagat" (Women's Split), while the Side Split is known as "Herrenspagat" or "Männerspagat" (Men's Splits) based on antiquated rules in gymnastics according to which Girls were not allowed to perform Side Splits as it was considered inappropriate to sit with legs apart. 
 A Split with the legs apart wider than 180° is called an *Oversplit* (German: Überspagat). 
-
-* Bridge 
+* Bridge
+* Backbend
 * Pike 
 * Pancake 
 
