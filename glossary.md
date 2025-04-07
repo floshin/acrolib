@@ -162,6 +162,19 @@ We divide the Acrobatic terms into the following categories according to the cat
 * **Diamidov**, sometimes shortened to "Diamid", is a mount similar to the Podsechka, but with one hand rotated as in the Dislocate, in order for the top to be able to release the second hand and perform a 360° rotation on one arm before catching it with the second hand again. An advanced variation is the Diamidov to One Arm, where the second hand is released during the acceleration and the rotation is performed without regripping the second hand; it is especially difficult due to the tendency of over-rotation. Another advanced variation is to turn the hands additionally in to enable a Diamidov with a 720° turn, which is very rarely performed; exceptional shoulder and wrist mobility and stability are required.
 * ...
 
+## Dynamic
+
+* Salto
+* Twist
+* Tuck
+* Pike(d)
+* Straight
+* Tsukahara
+* Arabian
+* Gainer
+* 
+
+
 
 ## Individual Work
 
@@ -176,9 +189,29 @@ A Split with the legs apart wider than 180° is called an *Oversplit* (German: �
 * **Pancake** 
 
 
+### Agility
+
+* ...
+
+
+### Statics
+
+* ....
+
+
+### Tumbling 
+
+* Round-Off
+* Rondat
+* Salto
+* Tuck
+* Piked
+* Straight
+
+
 ## Dance
 
-* **Dancing Styles**, different styles of dancing. A very particular characteristics of Acro, which contributes to the amount of creativity in the sports, is the incorporation of diverse different styles of dance. There are no rules in which way one has to dance in ones compositions (other than forbidding obscene moves). This enables acrobats and coaches to utilise all kinds of styles as they wish and deem fitting, mixing traditional and modern forms, from folklore to ballett or even hip hop (if excluding its obscene aspects). But the styles most commonly seen are Contemporary and Acro Dance, mixed with various partner lifts from different traditions, which are rewarded by the rules as they are one way of expressing partnership between the athletes. 
+* **Dancing Styles**, different styles of dancing. A very particular characteristics of Acro, which contributes to the amount of creativity in the sports, is the incorporation of diverse different styles of dance. There are no rules in which way one has to dance in ones compositions (other than forbidding obscene moves). This enables acrobats and coaches to utilise all kinds of styles as they wish and deem fitting, mixing traditional and modern forms, from folklore to ballett or even hip hop (if excluding the aspects considered as obscene). The styles most commonly seen are Contemporary and Acro Dance, mixed with various partner lifts from different traditions, which are rewarded by the rules as they are one way of expressing partnership between the athletes, floor acrobatics and choreographic jumps or "leaps". We therefore include the most important dance terms from Ballett, Contemporary, Acro Dance and other traditions of moves that are most commonly seen in Acro. 
 
 
 ### Steps
