@@ -185,7 +185,8 @@ A Split with the legs apart wider than 180° is called an *Oversplit* (German: �
 * **Butterfly Kick**, short **B-Kick**, ...
 * **Butterfly Twist**, short **B-Twist**, ...
 * **Split Leap**, see Grand jeté.
-* **Grand jeté**, "great jump", is a frontal split jump, in which the legs are thrown into a frontal split during the flight phase. An advanced variation is a split leap with a 180° rotation, which is called ... .
+* **Grand jeté**, "great throw", is a frontal split jump, in which the legs are thrown into a frontal split during the flight phase. An advanced variation is a split leap with a half turn, see *Grand jeté en tournant*.
+* **Grand jeté en tournant**, "Great throw and turn", is a *Grand jeté* with a half turn (180° twist). 
 * **Scissor Leap**, a jump where both legs are thrown straight up in front of the upper body, but not at the same time, but after another, crossing each other in the middle; an advanced variatiom is a Scissor Leap with 180° rotation, which is also known in Ballet as the "Grand Jête". 
 * Straddle Jump
 * Piriouette Jump
