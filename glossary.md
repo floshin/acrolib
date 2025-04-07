@@ -1,10 +1,12 @@
 # International Dictionary of Acrobatic Terms
 
-In this dictionary you will find all kinds of terms known from or associated with acrobatic gymnastics and acrobatics in general. Over time we will add terms of diverse languages and associate them with the related terms from other languages in order to reduce the current confusion when talking about elements with people from another country or even just a different acrobatic school. On the basis on this research we may try to suggest a terminology, a common language, based on the most precise and most commonly used terms. 
+In this dictionary, which is an ongoing work in progress (you can contribute on [GitHub]((https://github.com/floshin/acrolib/edit/main/glossary.md), you will find all kinds of acrobatic terms known from or associated with acrobatic gymnastics (short "acro") and acrobatics in general. 
 
-We will later include a search function so that you can search for terms you heard of but don't know what they mean or to search for terms you already know in order to learn how they are called in other languages. 
+Over time we will add terms of diverse languages, associate them with the related terms from other languages in order to reduce the current confusion when talking about elements with people from another country (or even just a different acrobatic school). On the basis on this research we may try to suggest a terminology, a common language, based on the most precise and most commonly used terms. 
 
-We divide the Acrobatic terms into the following categories according to the structure in the table of difficulty of Acrobatic Gymnastics:  
+We may later include a search function so that you can search for terms you heard of but don't know what they mean or to search for terms you already know in order to learn how they are called in other languages. In the meanwhile you can just use the default search function in your browser. 
+
+We divide the Acrobatic terms into the following categories according to the categorising terms in the "Table of Difficulty" of Acrobatic Gymnastics, adding "Dance* and *Conditioning* as additional categories of relevance.
 
 * Partner work
     * Balance
