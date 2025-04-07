@@ -131,6 +131,21 @@ We divide the Acrobatic terms into the following categories according to the cat
 * Categorg G: One footed Backbends/Arches
 
 
+### Mounts
+
+* Climb-up
+* Jump-up
+* Podsechka
+* Inlocate
+* Drag-Up
+* Dislocate
+* Cannonball
+* Capriol
+* Diamidov
+* 
+
+
+
 ## Individual Work
 
 ### Flexibility
