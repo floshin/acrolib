@@ -1,6 +1,6 @@
 # International Dictionary of Acrobatic Terms
 
-In this dictionary, which is an ongoing work in progress (you can contribute on [GitHub](https://github.com/floshin/acrolib/edit/main/glossary.md), you will find all kinds of acrobatic terms known from or associated with acrobatic gymnastics (short "acro") and acrobatics in general. 
+In this dictionary, which is an ongoing work in progress (you can contribute on [GitHub](https://github.com/floshin/acrolib/edit/main/glossary.md)), you will find all kinds of acrobatic terms known from or associated with acrobatic gymnastics (short "acro") and acrobatics in general. 
 
 Over time we will add terms of diverse languages, associate them with the related terms from other languages in order to reduce the current confusion when talking about elements with people from another country (or even just a different acrobatic school). On the basis on this research we may try to suggest a terminology, a common language, based on the most precise and most commonly used terms. 
 
