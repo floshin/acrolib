@@ -1,0 +1,18 @@
+title: AcroLib
+description: Acrobatic Gymnastics Library
+author: Flosha
+include:
+  - "_img"
+theme: null
+
+livereload: true # Rebuilds the site and reloads the page.
+
+# Here only plugins are included, which will be used during local development, GitHub Pages itself uses some plugins that are enabled by default and cannot be disabled - https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll#plugins.
+plugins:
+ - jekyll-default-layout
+ - jekyll-optional-front-matter
+ - jekyll-titles-from-headings
+
+# Remove original markdown files from the output.
+optional_front_matter:
+  remove_originals: true
