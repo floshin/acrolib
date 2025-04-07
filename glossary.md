@@ -157,6 +157,8 @@ We divide the Acrobatic terms into the following categories according to the cat
 * **Dislocate**
 * **Cannonball**, see Capriol.
 * **Capriol**, ...
+* **Half Podsechka into Cannonball**, is an advanced entry into Cannonball, where the partners perform a motion similar to a Podsechka, but do not enter a handstand and the top does not move through the arms and over the head of the base; they accelerate upwards and the top moves into the tucked or piked position, in front of the bases head, then swinging down in the Cannonball and then through the cannonball motion upwards into the actual position. 
+* **Podsechka into Cannonball** is an advanced entry into Cannonball, by first performing a full podsechka into handstand, but then immediately swinging down from the handstand into the Cannonball and then entering the actual position through the Cannonball Mount. 
 * **Diamidov**, sometimes shortened to "Diamid", is a mount similar to the Podsechka, but with one hand rotated as in the Dislocate, in order for the top to be able to release the second hand and perform a 360° rotation on one arm before catching it with the second hand again. An advanced variation is the Diamidov to One Arm, where the second hand is released during the acceleration and the rotation is performed without regripping the second hand; it is especially difficult due to the tendency of over-rotation. Another advanced variation is to turn the hands additionally in to enable a Diamidov with a 720° turn, which is very rarely performed; exceptional shoulder and wrist mobility and stability are required.
 * ...
 
