@@ -147,6 +147,11 @@ A Planche with the hands being apart in at least about 3 times the shoulder widt
 A Planche where the Arms are completely in a horizontal line alongside the body is called a Maltese.
 
 
+
+## Individual Work
+
+### Flexibility
+
 * Splits are a flexibility display and a position in which the legs form one line with the hips in the middle; the legs being 180° apart, either by sitting in a split or by actively holding the legs apart; Splits can be performed frontal (one leg forwards - in flexion - and one leg backwards - in extension) or sagittal, with both legs to the side (in abduction), thus being differentiated in *Front Split* and *Side Split*. The Side Split is also known as *Middle Split*, *Horizontal Split* or *Sagittal Split*.  
 In German the Front Split is known as "Frauenspagat" (Women's Split), while the Side Split is known as "Herrenspagat" or "Männerspagat" (Men's Splits) based on antiquated rules in gymnastics according to which Girls were not allowed to perform Side Splits as it was considered inappropriate to sit with legs apart. 
 A Split with the legs apart wider than 180° is called an *Oversplit* (German: Überspagat). 
@@ -154,12 +159,11 @@ A Split with the legs apart wider than 180° is called an *Oversplit* (German: �
 * Bridge 
 * Pike 
 * Pancake 
-* Table 
 
 
-Conditioning
+## Conditioning
+
 * (Body) Shaping
-* 
 * Arch Body Hold
 * Hollow Body Hold
 
