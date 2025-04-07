@@ -1,0 +1,27 @@
+*,
+::before,
+::after {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+:root {
+  color-scheme: dark;
+
+  --black: #000;
+  --dark: #1f1f1f;
+  --darker: #121212;
+  --light: #dddddd;
+}
+
+body {
+  font-style: Helvetica, arial, sans-serif;
+}
+
+ul {
+  list-style: none;
+}
+
+hr {
+  margin: 25px 0 50px;
+}
