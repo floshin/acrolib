@@ -166,6 +166,9 @@ A Split with the legs apart wider than 180° is called an *Oversplit* (German: �
 
 ## Dance
 
+* **Dancing Styles**, different styles of dancing. A very particular characteristics of Acro, which contributes to the amount of creativity in the sports, is the incorporation of diverse different styles of dance. There are no rules in which way one has to dance in ones compositions (other than forbidding obscene moves). This enables acrobats and coaches to utilise all kinds of styles as they wish and deem fitting, mixing traditional and modern forms, from folklore to ballett or even hip hop (if excluding its obscene aspects). But the styles most commonly seen are Contemporary and Acro Dance, mixed with various partner lifts from different traditions, which are rewarded by the rules as they are one way of expressing partnership between the athletes. 
+
+
 ### Steps
 
 * **Chassé**, ...
