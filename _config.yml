@@ -17,5 +17,5 @@ plugins:
 optional_front_matter:
   remove_originals: true
 
+baseurl: /
 url: http://floshin.github.io
-root: /
