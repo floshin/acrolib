@@ -18,3 +18,4 @@ optional_front_matter:
   remove_originals: true
 
 url: http://floshin.github.io
+root: /
