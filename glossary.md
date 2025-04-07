@@ -6,7 +6,7 @@ Over time we will add terms of diverse languages, associate them with the relate
 
 We may later include a search function so that you can search for terms you heard of but don't know what they mean or to search for terms you already know in order to learn how they are called in other languages. In the meanwhile you can just use the default search function in your browser. 
 
-We divide the Acrobatic terms into the following categories according to the categorising terms in the "Table of Difficulty" of Acrobatic Gymnastics, adding "Dance* and *Conditioning* as additional categories of relevance.
+We divide the Acrobatic terms into the following categories according to the categorising terms in the "Table of Difficulty" of Acrobatic Gymnastics, adding *Dance* and *Conditioning* as additional categories of relevance.
 
 * Partner work
     * Balance
