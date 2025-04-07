@@ -145,10 +145,11 @@ We divide the Acrobatic terms into the following categories according to the cat
 * **Climb-up**, climbing from the floor over the legs of the base on the shoulders of the base. 
 * **Shoulder-Jump**, a jump into Handstand from standing on the shoulders of the Base. A variation is the One-Arm Shoulder-Jump, where the top jumps from the shoulders of the base unto one arm of the base.
 * **Shoulder Jump to Head**, a variation of the shoulder jump, often performed by Mens Pairs and Groups, where the top jumps sideways from the shoulder of the Base with one leg, swinging the other leg, into a One Arm on the Head of the Base.
-* **Jump-up to Back Support** is a jump of the top from behind the base into *Back Support*. 
+* **Jump-up to Back Support** is a jump of the top from behind the base into *Back Support*.
+* **Shoulder-Plank-Up** is a mount in which the top is lying on one shoulder of the base with the hips, facing down, in H2H; the base performs a squat with a short, explosive upward motion in order for the top to use the momentum to move up into H2H. 
 * **Shoulder-Press**, a press into Handstand from standing on the shoulders of the base.
 * **Jump-up**, ...
-* **Podsechka**
+* **Podsechka**, ... There are different variations of podsechkas. The easiest variation is performed with bent legs, tucking through the arms of the base and into the handstand, which gives the least value. The variation seen most commonly is performed with straight legs which are pulled through the arms of the base, over the base's head, then opened up when passing the arms into or through a straddle handstand, like done in a Press-Handstand, which has to be mastered before. The most difficult variation is to perform it with straight and closed legs throughout, where the legs are kept together when passing through the arms of the base, then basically entering the Handstand via a Pike-Press motion. 
 * **Inlocate**, another name for Podsechka commonly used in english-speaking countries. We do not recommend to use it since it is not descriptive for the element. See Podsechka.
 * **Cut-Back**, a better translation of Podsechka that is rarely used. See Podsechka.
 * **Drag-Up**
