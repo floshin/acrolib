@@ -84,33 +84,35 @@ We divide the Acrobatic terms into the following categories according to the str
 
 #### Handstands
 
-* Handstand
-* Inversion
+* **Handstand**
+* **Inversion**
 * Category A: "Normal" Handstands
-* Category B: Arch Handstands
-* Category C: Piked Handstands
-* Category D: Flags
+* Category B: Arch Handstands, ..., an Arch of more than X° is called a Deep Arch.
+* Category C: Piked Handstands, also called L-Handstands, since the body forms an inverted L, in english most often called "Seven", since the body has the form of a "7". A variation of the Seven is the "4", which is like a seven, but with one leg bent, resulting in a shape remeniscient of the "4".
+* Category D: Flags, ... A Flag with the legs oriented downwards in an angle of 30-45° is called a Deep Flag.
 * Category D1: Gripped Flags
 * Uncategorized Handstands:
   * Visulka / Deep Pike / Icycle
+  * Over-Figa
+* Figa is a One Arm Handstand from the category of piked handstands with a 45° rotation of the back with the legs held horizontally to the floor. A Figa where the back is twisted so much that the legs are not oriented sideways but behind the body we refer to as an Over-Figa. A Figa in which the legs are not held horizontally but pointing downwards as in a "Deep Pike" (Visulka or Icycle), we refer to as a "Deep Figa". Both Over-Figa and Deep-Figa are not yet categorized as unique handstands in the ToD. 
 
 
 ##### Supports
 
-* Supports are categorized in the ToD among "miscellaneous elements". We are suggesting to describe them as supports and consider them as a subcategory of handstands, since they are also performed on hands and have been termed as Supports in artistic gymnastics. A support is thereby defined as a balance element that is held on hands, but in which the upper body is *not* in an inverted position, as in regular handstands, and not held above the shoulders.
+* **Supports** are categorized in the ToD among "miscellaneous elements". We are suggesting to describe them as supports and consider them as a subcategory of handstands, since they are also performed on hands and have been termed as Supports in artistic gymnastics. A support is thereby defined as a balance element that is held on hands, but in which the upper body is *not* in an inverted position, as in regular handstands, and not held above the shoulders.
 
-* Tuck-Support is a balance element held on the hands with the body in a vertically tucked up position (not in a horizontally tucked up position, which would be a tuck planche). Less precisely it is described as a "Tuck Sit", which we prefer to name a similar position if actually seated on the floor.  
-* L-Support is a balance element held on the hands with the body in an L-Shape, where the upper body is in a vertical position and the legs are held straight and at least horizontally to the floor. Commonly also called L-Sit, which we prefer to name the position in which one is actually sitting on the floor. Another name for this element is "Pike Lever", as the body is held in a piked position. We do not prefer this description, because the body can be held in a piked position in these three different ways; a V-Support would also be a piked lever, just as the Visulka as the other extreme. Therefore we would choose "Pike Levers" as a categorisation of different Support Holds in a piked position. There are two variations and progression forms of the L-Support which are both useful and important for higher level skills: 
+* **Tuck-Support** is a balance element held on the hands with the body in a vertically tucked up position (not in a horizontally tucked up position, which would be a tuck planche). Less precisely it is described as a "Tuck Sit", which we prefer to name a similar position if actually seated on the floor.  
+* **L-Support** is a balance element held on the hands with the body in an L-Shape, where the upper body is in a vertical position and the legs are held straight and at least horizontally to the floor. Commonly also called L-Sit, which we prefer to name the position in which one is actually sitting on the floor. Another name for this element is "Pike Lever", as the body is held in a piked position. We do not prefer this description, because the body can be held in a piked position in these three different ways; a V-Support would also be a piked lever, just as the Visulka as the other extreme. Therefore we would choose "Pike Levers" as a categorisation of different Support Holds in a piked position. There are two variations and progression forms of the L-Support which are both useful and important for higher level skills: 
    * L-Support with higher compression, where the legs are horizontally to the floor, but both the hips and legs are in more distance to the floor, e.g. at the elbow level. This progression develops the necessary compression strength for L-Press to Handstand on the floor.
    * L-Support with higher feet, where the legs are not held horizontally, and the hips are not raised significantly compared to a basic L-Support, but the feet are raised significantly higher, away from the floor in an upward angle. This progression leads towards the V-Support.  
-* V-Support
-* Manna, "Over-Support" or Russian Lever
-* Planche
+* **V-Support**
+* **Manna**, "Over-Support" or Russian Lever
+* **Planche**
 
 
 #### Footstands
 
-* Footstand
+* **Footstand**
 * Category A: Regular Footstand
 * Category B: Standing Backbends/Arch
 * Category C: One footed Stands
@@ -120,18 +122,11 @@ We divide the Acrobatic terms into the following categories according to the str
 * Categorg G: One footed Backbends/Arches
 
 
-##### Levers
 
-* Handstand
-* Arch Handstands or Mexicans
-An Arch of more than X° is called a Deep Arch
-* Seven Handstands, also known as L-Handstands, 
-A variation of the Seven is the "4", which is a seven with one leg bent. 
-* Flags
-A Flag with the legs oriented downwards in an angle of 30-45° is called a Deep Flag.
-* Figa is a One Arm Handstand with a 45° rotation of the legs held horizontal to the floor
-A Figa where the back is twisted so much that the legs are not oriented sideways but behind the body is called an Over-Figa. 
-* One Arm Handstand
+
+
+
+
 
 
 * Footstand
