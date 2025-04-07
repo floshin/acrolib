@@ -133,15 +133,20 @@ We divide the Acrobatic terms into the following categories according to the cat
 
 ### Mounts
 
-* Climb-up
-* Jump-up
-* Podsechka
-* Inlocate
-* Drag-Up
-* Dislocate
-* Cannonball
-* Capriol
-* Diamidov
+* **Climb-up**, climbing from the floor over the legs of the base on the shoulders of the base. 
+* **Shoulder-Jump**, a jump into Handstand from standing on the shoulders of the Base. A variation is the One-Arm Shoulder-Jump, where the top jumps from the shoulders of the base unto one arm of the base.
+* **Shoulder-Press**, a press into Handstand from standing on the shoulders of the base.
+* 
+* 
+* **Jump-up**, ...
+* **Podsechka**
+* **Inlocate**, another name for Podsechka commonly used in english-speaking countries. We do not recommend to use it since it is not descriptive for the element. See Podsechka.
+* **Cut-Back**, a better translation of Podsechka that is rarely used. See Podsechka.
+* **Drag-Up**
+* **Dislocate**
+* **Cannonball**, see Capriol.
+* **Capriol**, ...
+* **Diamidov**, sometimes shortened to "Diamid", is a mount similar to the Podsechka, but with one hand rotated as in the Dislocate, in order for the top to be able to release the second hand and perform a 360° rotation on one arm before catching it with the second hand again. An advanced variation is the Diamidov to One Arm, where the second hand is released during the acceleration and the rotation is performed without regripping the second hand; it is especially difficult due to the tendency of over-rotation. Another advanced variation is to turn the hands additionally in to enable a Diamidov with a 720° turn, which is very rarely performed; exceptional shoulder and wrist mobility and stability are required.
 * 
 
 
@@ -163,10 +168,10 @@ A Split with the legs apart wider than 180° is called an *Oversplit* (German: �
 
 ### Leaps & Jumps
 
-* Butterfly Kick, short B-Kick
-* Butterfly Twist, short B-Twist
-* Split Leap
-* Scissor Leap
+* **Butterfly Kick**, short **B-Kick**, ...
+* **Butterfly Twist**, short **B-Twist**, ...
+* **Split Leap**, a jump in which the legs are thrown into a frontal split during the flight phase. An advanced variation is a split leap with a 180° rotation. 
+* **Scissor Leap**, a jump where both legs are thrown straight up in front of the upper body, but not at the same time, but after another, crossing each other in the middle; an advanced variatiom is a Scissor Leap with 180° rotation, which is also known in Ballet as the "Grand Jête". 
 * Straddle Jump
 * Piriouette Jump
 * 540°
