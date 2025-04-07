@@ -33,7 +33,7 @@ We divide the Acrobatic terms into the following categories according to the cat
 * Acrobatics
 * Acro
 * Acrobatic Gymnastics
-* Element
+* Element, .... Elements can either be performed on their own in seperation or be part of a *Sequence*. Balance elements can be seemlessly connected via *Motions*. Dynamic elements can be seemlessly connected via *Links*.
   * Partner Elements
   * Individual Elements
 * Trick, Stunt
@@ -41,6 +41,7 @@ We divide the Acrobatic terms into the following categories according to the cat
 * Artistic
 * Execution
 * Technique
+* Sequence
 
 
 ## Partner work
@@ -129,6 +130,14 @@ We divide the Acrobatic terms into the following categories according to the cat
 * Category E: Standing Splits
 * Category F: Needles
 * Categorg G: One footed Backbends/Arches
+
+
+### Dynamics
+
+* Dynamic
+* Dynamics
+* **Link** is the technical term for when two dynamic elements are fluidly performed in immediate succession, without pausing and without a "reset", e.g. by a re-adjustment step or an additional squat/plié or any other initiation of force from zero. For instance: When catching a *Salto* back into *F2H*, decelerating the top through a squat, it would be a link if another salto is thrown from F2H by accelerating from the bottom of that very squat; it would not be a link if the first Salto is catched and the Base straightens the legs first and only throws the second Salto by squatting down again. This way a link can be part of an *Element Sequence*, but a sequence does not necessarily contain any link.
+
 
 
 ### Mounts
