@@ -16,3 +16,5 @@ plugins:
 # Remove original markdown files from the output.
 optional_front_matter:
   remove_originals: true
+
+url: http://floshin.github.io
