@@ -92,9 +92,9 @@ We divide the Acrobatic terms into the following categories according to the str
 * Category D: Flags, ... A Flag with the legs oriented downwards in an angle of 30-45° is called a Deep Flag.
 * Category D1: Gripped Flags
 * Uncategorized Handstands:
-  * Visulka / Deep Pike / Icycle
-  * Over-Figa
-* Figa is a One Arm Handstand from the category of piked handstands with a 45° rotation of the back with the legs held horizontally to the floor. A Figa where the back is twisted so much that the legs are not oriented sideways but behind the body we refer to as an Over-Figa. A Figa in which the legs are not held horizontally but pointing downwards as in a "Deep Pike" (Visulka or Icycle), we refer to as a "Deep Figa". Both Over-Figa and Deep-Figa are not yet categorized as unique handstands in the ToD. 
+  * **Visulka / Deep Pike / Icycle**
+  * **Over-Figa**
+* **Figa** is a One Arm Handstand from the category of piked handstands with a 45° rotation of the back with the legs held horizontally to the floor. A Figa where the back is twisted so much that the legs are not oriented sideways but behind the body we refer to as an Over-Figa. A Figa in which the legs are not held horizontally but pointing downwards as in a "Deep Pike" (Visulka or Icycle), we refer to as a "Deep Figa". Both Over-Figa and Deep-Figa are not yet categorized as unique handstands in the ToD. 
 
 
 ##### Supports
@@ -110,7 +110,7 @@ We divide the Acrobatic terms into the following categories according to the str
 * **Planche**, ..., A Planche with the hands being apart by at least three times the shoulder width is called a Wide Planche. A Planche where the Arms are completely in a horizontal line alongside the body is called a "Maltese" or "Deep Planche". 
 * **One Arm Planche** is a planche on one arm. According to the ToD of the FIG a one arm planche is not possible and can therefore not be performed. One arm planches as performed in Calisthenics are not considered actual planches by gymnastic standards due to bent arms and many other technical shortcomings. The element is said to be impossible because it is assumed that it can either only be performed with a bent arm and/or with the body heavily twisted or not completely horizontal; in the past and for many years the only person known who came close to a clean one arm planche was a handbalancer called Professor Paulinetti, who performed it like this; as can be seen the arm is still very visibly bent. In recent years some handbalancers such as ??? and calisthenics athletes such as [Valentin Blanc]() have shown one arm planches with an almost straight arm, but a microbend remains. We think that in the future the possibility of one arm planches may have to be reconsidered, but the difficulty is so extreme that it is unlikely to be performed. A different element that sometimes is confused with a One Arm Planche is a "One Arm Airbaby".
 * **One Arm Airbaby**, like the one arm planche, is also a balance on one arm with the body in a horizontal position, but the body is turned sideways and it is considered a base position; it was performed in the past by a chinese pair with the top in a one arm handstand on the free arm of the base. 
-* Lever
+* **Lever**
 
 
 #### Footstands
@@ -141,9 +141,11 @@ A Split with the legs apart wider than 180° is called an *Oversplit* (German: �
 ## Conditioning
 
 * (Body) Shaping
-* Arch Body Hold
-* Hollow Body Hold
-
+* **Arch Body Hold**
+* **Hollow Body Hold** or **Dish**. In German it is called "Schiffchen", which is a diminutive form of "Schiff" (boat), meaning "little boat"; it is described as such due to the curved shape which reminds of the shape of a boat with the lower back, which rests flat on the floor as the deepest position (like the lowest point of the boat below the water). The hollow body is a crucial position to master especially for handstands. A specific utilisation of the "Hollow Body" Shape are "Hollow Body Rocks", which consists of holding a hollow body shape while rocking back and forth. Another common utilisation of the hollow body are transitions from Hollow to Arch (and Side Arch) Body Holds by rolling over the side.
+* Plank
+* Reverse Plank
+* Table
 * Push-up
 * Handstand Push-up
 * Pike Push-up, also called *Drinking Deer Push-up*
