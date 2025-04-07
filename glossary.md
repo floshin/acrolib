@@ -108,7 +108,8 @@ We divide the Acrobatic terms into the following categories according to the str
 * **V-Support**
 * **Manna**, "Over-Support" or Russian Lever
 * **Planche**, ..., A Planche with the hands being apart by at least three times the shoulder width is called a Wide Planche. A Planche where the Arms are completely in a horizontal line alongside the body is called a "Maltese" or "Deep Planche". 
-* One Arm Planche. A planche on one arm. According to the ToD of the FIG a one arm planche is not possible and can therefore not be performed. One arm planches as performed in Calisthenics are not considered actual planches by gymnastic standards due to bent arms and many other technical shortcomings. The element is said to be impossible because it is assumed that it can either only be performed with a bent arm and/or with the body heavily twisted or not completely horizontal; in the past and for many years the only person known who came close to a clean one arm planche was a handbalancer called Professor Paulinetti, who performed it like this; as can be seen the arm is still very visibly bent. In recent years though, several handbalancers, such as ??? have shown one arm planches with a really straight arm and with a technique and lines that could be considered as sufficient by gymnastic standards. We think that the possibility of one arm planches may have to be reconsidered. 
+* **One Arm Planche** is a planche on one arm. According to the ToD of the FIG a one arm planche is not possible and can therefore not be performed. One arm planches as performed in Calisthenics are not considered actual planches by gymnastic standards due to bent arms and many other technical shortcomings. The element is said to be impossible because it is assumed that it can either only be performed with a bent arm and/or with the body heavily twisted or not completely horizontal; in the past and for many years the only person known who came close to a clean one arm planche was a handbalancer called Professor Paulinetti, who performed it like this; as can be seen the arm is still very visibly bent. In recent years some handbalancers such as ??? and calisthenics athletes such as [Valentin Blanc]() have shown one arm planches with an almost straight arm, but a microbend remains. We think that in the future the possibility of one arm planches may have to be reconsidered, but the difficulty is so extreme that it is unlikely to be performed. A different element that sometimes is confused with a One Arm Planche is a "One Arm Airbaby".
+* **One Arm Airbaby**, like the one arm planche, is also a balance on one arm with the body in a horizontal position, but the body is turned sideways and it is considered a base position; it was performed in the past by a chinese pair with the top in a one arm handstand on the free arm of the base. 
 * Lever
 
 
@@ -128,13 +129,13 @@ We divide the Acrobatic terms into the following categories according to the str
 
 ### Flexibility
 
-* Splits are a flexibility display and a position in which the legs form one line with the hips in the middle; the legs being 180° apart, either by sitting in a split or by actively holding the legs apart; Splits can be performed frontal (one leg forwards - in flexion - and one leg backwards - in extension) or sagittal, with both legs to the side (in abduction), thus being differentiated in *Front Split* and *Side Split*. The Side Split is also known as *Middle Split*, *Horizontal Split* or *Sagittal Split*.  
+* **Splits** are a flexibility display and a position in which the legs form one line with the hips in the middle; the legs being 180° apart, either by sitting in a split or by actively holding the legs apart; Splits can be performed frontal (one leg forwards - in flexion - and one leg backwards - in extension) or sagittal, with both legs to the side (in abduction), thus being differentiated in *Front Split* and *Side Split*. The Side Split is also known as *Middle Split*, *Horizontal Split* or *Sagittal Split*.  
 In German the Front Split is known as "Frauenspagat" (Women's Split), while the Side Split is known as "Herrenspagat" or "Männerspagat" (Men's Splits) based on antiquated rules in gymnastics according to which Girls were not allowed to perform Side Splits as it was considered inappropriate to sit with legs apart. 
 A Split with the legs apart wider than 180° is called an *Oversplit* (German: Überspagat). 
-* Bridge
-* Backbend
-* Pike 
-* Pancake 
+* **Bridge**
+* **Backbend**
+* **Pike** 
+* **Pancake** 
 
 
 ## Conditioning
