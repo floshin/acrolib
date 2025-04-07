@@ -144,6 +144,20 @@ A Split with the legs apart wider than 180° is called an *Oversplit* (German: �
 * **Pancake** 
 
 
+## Dance
+
+### Leaps & Jumps
+
+* Butterfly Kick, short B-Kick
+* Butterfly Twist, short B-Twist
+* Split Leap
+* Scissor Leap
+* Straddle Jump
+* Piriouette Jump
+* 540°
+* ...
+
+
 ## Conditioning
 
 * (Body) Shaping
