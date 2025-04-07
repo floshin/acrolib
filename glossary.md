@@ -19,11 +19,10 @@ We divide the Acrobatic terms into the following categories according to the str
 * Dance
     * Leaps
     * Lifts
+* Conditioning
 
 ---
 
-
-## General
 
 * Acrobatics
 * Acro
