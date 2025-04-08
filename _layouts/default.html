@@ -124,5 +124,62 @@ footer {
      display: flex;
      gap: 5px;
    }  
+
+#menu-toggle,
+label[for="menu-toggle"]  {
+  display: none;
+}
+
+@media (max-width: 1200px) {
+  
+  /* add mobile menu */
+  label[for="menu-toggle"] {
+    display: block;
+    position: absolute;
+    right: 0;
+    color: white;
+    font-size: 42px;
+    font-weight: 500;
+    /*border: 1px solid;*/
+    width: 70px;
+    user-select: none;
+    /*margin-left: calc(50vw - 60px);*/
+    cursor: pointer;
+    padding-bottom: 2px;
+    padding-left: 0.7em;
+    
+    top: 25px;
+    z-index: 21;
+    /*background: #000000e0;*/
+  }
+
+  label:hover[for="menu-toggle"] {
+    /*color: black;*/
+    /*background-color: white;*/
+    transition: all 0.3s ease-out;
+    -webkit-transition: all 0.3s ease-out;
+    -moz-transition: all 0.3s ease-out;
+    -o-transition: all 0.3s ease-out;
+  }
+
+  label[for="menu-toggle"]::selection {
+    background-color: transparent;
+    color: inherit;
+  }
+
+  label[for="menu-toggle"] > .menu-icon {
+    font-size: 150%;
+    top: 3px;
+  }
+
+  #menu-toggle:not(:checked) ~ *:not(label[for="menu-toggle"]) {
+    display: none;
+  }
+
+  #menu-toggle:checked ~ label[for="menu-toggle"]{
+    margin-bottom: 81px;
+  }
+
+}
     
 </style>
