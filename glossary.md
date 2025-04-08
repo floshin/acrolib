@@ -289,11 +289,37 @@ In German the Front Split is also commonly referred to as "Frauenspagat" (Womens
 * **Leg Extension**
 * **Reverse Leg Extension**
 * **Over-Sit-up**
-* **Cheststand-Pull**
-* **Split-Pull**
+
 * **Shoulder Press**, short Press, ...
 * **Pull-up**
 * **Row**
+
+
+## Flexibility Drills
+
+* **Tricep Stretches**
+* **Shoulder Capsule Stretches**
+* **Standing Leg Lifts**
+* **Seated Leg Lifts**
+* **Wrist Stretches**
+* **Bridge Push-ups**
+* **Bridge Rocks**
+* **Bridge Walks**
+* **Split Glides**
+* **Split Holds**
+* **Frog Stretch**
+* **Standing Piriformis Stretch**
+* **Lying Piriformis Stretch**
+* **Couch Stretch** is a quadrizeps and/or hip-flexor/psoas stretch in a kneeling position with the back to the wall. 
+* **Lying Quad Stretch** is a quadrizeps stretch while lying on the back, with one or both feet under or close to the hips; depending on flexibility it can be done supported on straight arms behind the back, supported on elbows or lying on the back. When done with both legs simultaneously and wihout any kind of hand support and not lying down, but actively holding the position and hovering over the ground, it is called "Heroes Pose" (the closer to the ground the harder).
+* **Heroes Pose**
+* **Tailors Pose**
+* **Butterfly**
+* **Split-Pull**
+* **Cheststand-Pull**
+* **Latissimus Stretches**
+* **Calf Stretches**
+* **Hamstring Stretches**
 
 
 ## Partner Conditioning
@@ -311,7 +337,7 @@ In German the Front Split is also commonly referred to as "Frauenspagat" (Womens
 ### About
 
 **Idea, text, webdesign, photography:** [Flosha](https://flosh.in)  
-**Models**: Yefrosiniiya Kryvytska, Ivan Labunets, Vlasa Hoshoba, Nikita Kryvytski, Florian Pontius, Alena Rau
+**Models**: Yevfrosynïa Kryvytska, Ivan Labunets, Vlasa Hoshoba, Nikita Kryvytski, Florian Pontius, Alena Rau
 
 Special thanks to Frosya, Vanya, Olya and my coach Galina Sinyavskaya.
 
