@@ -22,6 +22,22 @@ We divide the Acrobatic terms into the following categories according to the cat
 
 -->
 
+[Acrobatics](#acrobatics) [Balance](#balance) [Mounts](#mounts) [Motions](#motions) [Dynamic](#dynamic) [Individual](#individual) [Exercises](#exercises) [Dance](#dance)
+
+<!--
+<ul>
+  <li><a href="/">AcroLib</a></li>
+  <li><a href="#about">About</a></li> 
+  <li><a href="#balance">Balance</a></li>
+  <li><a href="#mounts">Mounts</a></li>
+  <li><a href="#motions">Motions</a></li>
+  <li><a href="#dynamic">Dynamic</a></li>
+  <li><a href="#individual">Individual</a></li>
+  <li><a href="#exercises">Exercises</a></li>
+  <li><a href="#dance">Dance</a></li>
+</ul>
+-->
+
 ## Acrobatics
 
 * **Acro**, shortcut for *Acrobatic Gymnastics*
