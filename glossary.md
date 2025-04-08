@@ -92,6 +92,7 @@ We divide the Acrobatic terms into the following categories according to the cat
 #### Handstands
 
 * **Handstand**
+* **HS**, shortcut for "Handstand".
 * **Inversion**
 * Category A: "Normal" Handstands
 * Category B: Arch Handstands, ..., an Arch of more than X° is called a Deep Arch.
@@ -155,7 +156,7 @@ We divide the Acrobatic terms into the following categories according to the cat
 * **Shoulder Jump to Head**, a variation of the shoulder jump, often performed by Mens Pairs and Groups, where the top jumps sideways from the shoulder of the Base with one leg, swinging the other leg, into a One Arm on the Head of the Base.
 * **Jump-up to Back Support** is a jump of the top from behind the base into *Back Support*.
 * **Shoulder-Plank-Up** is a mount in which the top is lying on one shoulder of the base with the hips, facing down, in H2H; the base performs a squat with a short, explosive upward motion in order for the top to use the momentum to move up into H2H. 
-* **Shoulder-Press**, a press into Handstand from standing on the shoulders of the base.
+* **Shoulder Press (HS)**, a press into Handstand from standing on the shoulders of the base.
 * **Jump-up** is a mount where the top jumps from behind of the base, from the base's calves, close to the knee, unto the shoulders or immediately into H2H.
 * **Lift-up** is a mount where base and top are facing each other and hold their hands as for a Climb-Up, but instead of climbing, the base squats down and lifts the top from in front of him into a *Back Support* or any other support via a half turn around his body; the weight of the top is thereby held mostly on one arm only, while the other arm helps to stabilise the move.  
 * **Podsechka** is a mount where the top is standing in front of the base, both facing the same directions, holding hands behind the back of the top. The base squats down, while the top jumps; they first move through a front support and then either by using the momentum of the base or by strength or by a combination of both the top moves her legs through the arms of the base and into a handstand. There are different variations of podsechkas. The easiest variation is performed with bent legs, tucking through the arms of the base and into the handstand, which gives the least value. The variation seen most commonly is performed with straight legs which are pulled through the arms of the base, over the base's head, then opened up when passing the arms into or through a straddle handstand, like done in a Press-Handstand, which has to be mastered before. The most difficult variation is to perform it with straight and closed legs throughout, where the legs are kept together when passing through the arms of the base, then basically entering the Handstand via a Pike-Press motion. Podsechkas can also be initiated from a *Front Support* instead of from the floor, as well as from a *Kneestand* (same value as if done from the floor). 
@@ -170,6 +171,7 @@ We divide the Acrobatic terms into the following categories according to the cat
 * **Diamidov**, sometimes shortened to "Diamid", is a mount similar to the Podsechka, but with one hand rotated as in the Dislocate, in order for the top to be able to release the second hand and perform a 360° rotation on one arm before catching it with the second hand again. An advanced variation is the Diamidov to One Arm, where the second hand is released during the acceleration and the rotation is performed without regripping the second hand; it is especially difficult due to the tendency of over-rotation. Another advanced variation is to turn the hands additionally in to enable a Diamidov with a 720° turn, which is very rarely performed; exceptional shoulder and wrist mobility and stability are required.
 * ...
 
+
 ## Dynamic
 
 * Salto
@@ -178,10 +180,13 @@ We divide the Acrobatic terms into the following categories according to the cat
 * Pike(d)
 * Straight
 * Tsukahara
+* Double
+* Triple
 * Arabian
 * Gainer
-* 
-
+* Nakat
+* Ridocula
+* ...
 
 
 ## Individual Work
@@ -212,12 +217,12 @@ In German the Front Split is also commonly referred to as "Frauenspagat" (Womens
 
 ### Tumbling 
 
-* Round-Off
-* Rondat
-* Salto
-* Tuck
-* Piked
-* Straight
+* **Round-Off**
+* **Rondat**, see Round-Off
+* **Salto**, ...
+* **Tuck**, ...
+* **Piked**, ...
+* **Straight**, ...
 
 
 ## Dance
@@ -245,9 +250,9 @@ In German the Front Split is also commonly referred to as "Frauenspagat" (Womens
 * **Grand jeté**, "great throw", is a frontal split jump, in which the legs are thrown into a frontal split during the flight phase. An advanced variation is a split leap with a half turn, see *Grand jeté en tournant*.
 * **Grand jeté en tournant**, "Great throw and turn", is a *Grand jeté* with a half turn (180° twist). 
 * **Scissor Leap**, a jump where both legs are thrown straight up in front of the upper body, but not at the same time, but after another, crossing each other in the middle; an advanced variatiom is a Scissor Leap with 180° rotation, which is also known in Ballet as the "Grand Jête". 
-* Straddle Jump
-* Piriouette Jump
-* 540°
+* **Straddle Jump** ...
+* **Piriouette Jump** ...
+* **540°** ...
 * ...
 
 
@@ -256,19 +261,19 @@ In German the Front Split is also commonly referred to as "Frauenspagat" (Womens
 * (Body) Shaping
 * **Arch Body Hold**
 * **Hollow Body Hold** or **Dish**. In German it is called "Schiffchen", which is a diminutive form of "Schiff" (boat), meaning "little boat"; it is described as such due to the curved shape which reminds of the shape of a boat with the lower back, which rests flat on the floor as the deepest position (like the lowest point of the boat below the water). The hollow body is a crucial position to master especially for handstands. A specific utilisation of the "Hollow Body" Shape are "Hollow Body Rocks", which consists of holding a hollow body shape while rocking back and forth. Another common utilisation of the hollow body are transitions from Hollow to Arch (and Side Arch) Body Holds by rolling over the side.
-* Plank
-* Reverse Plank
-* Table
-* Push-up
-* Handstand Push-up
-* Pike Push-up, also called *Drinking Deer Push-up*
+* **Plank** is a static position on all fours with straight legs. We refer to a Plank as the position performed on straight arms. When performed on the elbows we refer to it as an *Elbow Plank*. It is a crucial position to master and condition to prepare the wrists and develop static tension in the core. It is also the upper position of a Push-up. The lower position of a Push-up we refer to as a *Bent-Arm Plank*. 
+* **Reverse Plank** is like a Plank but in reverse, by facing upwards. When the same is done with bent legs instead of straight, it is called a *Table*. 
+* **Table** is a static position on all fours, but facing upwards, with the legs bent 90° and the hips and arms in extension. Some refer to it as a "Bench". It is also used as a base position in trios. Little children without training background often make a table when asked to do a bridge, before having learned how to position the hands or lacking the strength to push up from this position. Independent from that it is an effective beginners exercise for preparation of the required hip extension and to strengthen the arms in extension; in this way it is an easier variation of the *Reverse Plank*. 
+* **Push-up**, ...
+* **Handstand Push-up**, ...
+* **Pike Push-up**, also called *Drinking Deer Push-up*, ...
 
 
 ---
 
-## Credits
+## About
 
-**Idea, text, webdesign, photography:** [Flosha](https://flosh.in)
+**Idea, text, webdesign, photography:** [Flosha](https://flosh.in)  
 **Models**: Yefrosiniiya Kryvytska, Ivan Labunets, Vlasa Hoshoba, Nikita Kryvytski, Florian Pontius, Alena Rau
 
 Special thanks to Frosya, Vanya, Olya and my coach Galina Sinyavskaya.
