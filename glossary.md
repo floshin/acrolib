@@ -22,7 +22,8 @@ We divide the Acrobatic terms into the following categories according to the cat
 
 -->
 
-[Acrobatics](#acrobatics) [Balance](#balance) [Mounts](#mounts) [Motions](#motions) [Dynamic](#dynamic) [Individual](#individual) [Exercises](#exercises) [Dance](#dance)
+[Acrobatics](#acrobatics) [Balance](#balance) [Handstands](#handstands) [Supports](#supports) [Footstands](#footstands) [Base Positions](#base-positions) [Mounts](#mounts) [Motions](#motions) [Dynamic](#dynamic) [Flexibilities](#flexibilities) [Statics](#statics) [Agilities](#agilities) [Tumbling](#tumbling) [Exercises](#exercises) [Dance](#dance)
+{: .categories }
 
 <!--
 <ul>
