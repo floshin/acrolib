@@ -8,6 +8,7 @@ You can use the search function of your browser to search for terms you heard of
 
 Author: [Flosha](https://flosh.in) 
 
+<!--
 ---
 
 We divide the Acrobatic terms into the following categories according to the categorising terms in the "Table of Difficulty" of Acrobatic Gymnastics. In form of *Dance* and *Exercises* we add two additional highly relevant categories for reference.
@@ -26,6 +27,8 @@ We divide the Acrobatic terms into the following categories according to the cat
     * Leaps/Jumps
     * Partner Lifts
 * Exercises
+
+-->
 
 ---
 
