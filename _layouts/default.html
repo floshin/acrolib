@@ -76,13 +76,13 @@
   --light: #dddddd;
 }
 
-heading {
+.heading {
   display: inline-block;
   background: light-dark(black, white);
   color: light-dark(var(--light), black);
   padding: 10px 15px;
 }
-    heading a {
+    .heading a {
       color: inherit;
       text-decoration: none;
     }
@@ -164,10 +164,7 @@ label[for="menu-toggle"]  {
     user-select: none;
     /*margin-left: calc(50vw - 60px);*/
     cursor: pointer;
-    padding-bottom: 2px;
-    padding-left: 0.7em;
-    
-    top: 10px;
+    top: 0;
     z-index: 21;
     /*background: #000000e0;*/
   }
@@ -202,14 +199,14 @@ label[for="menu-toggle"]  {
     
   /* style changes of navi on mobile */
   nav {
-    margin: 0 auto 2em;
+    /*margin: 0 auto 2em;*/
     padding: 1em 2em;
     width: 100%;
     height: 100%;
     font-size: 25px;
     position: fixed;
     background-color: rgba(18 18 18 / 95%)
-    overflow: hidden;
+    /*overflow: hidden;*/
   }
 
   nav ul {
