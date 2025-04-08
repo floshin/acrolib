@@ -1,19 +1,12 @@
 # International Terminology of Acrobatic Gymnastics
 
-In this glossary, which is an ongoing work in progress (you can contribute [here](https://github.com/floshin/acrolib/edit/main/glossary.md)), you will find all kinds of acrobatic terms known from or associated with acrobatic gymnastics (hand to hand) and floor acrobatics. 
+In this glossary (an ongoing work in progress to which you can contribute [here](https://github.com/floshin/acrolib/edit/main/glossary.md)), you will find all kinds of acrobatic terms known from or associated with acrobatic gymnastics (hand to hand) and floor acrobatics. 
 
-Over time we will add terms of diverse languages, associate them with the related terms from other languages in order to reduce the current confusion when talking about elements with people from another country (or even just a different acrobatic school). On the basis on this research we may try to suggest a terminology, a common language, based on the most precise and most commonly used terms. 
+Over time we will add terms of diverse languages and associate them with related terms from other languages in order to reduce the current confusion when talking about elements with people from another country (or even just another acrobatic school). On the basis on this research we may try to suggest a terminology, a common language, based on the most precise and most commonly used terms. 
 
-We may later include a search function so that you can search for terms you heard of but don't know what they mean or to search for terms you already know in order to learn how they are called in other languages. In the meanwhile you can just use the default search function in your browser. 
+You can use the search function of your browser to search for terms you heard of but don't know what they mean or to search for terms you already know (you can also type kyrillic) in order to learn how they are called in other languages.   
 
-Special thanks to Frosya, Vanya, Olya and my Coach Galina Sinyavskaya.
-
-- [Flosha](https://flosh.in)  
-
----
-
-Author: Flosha  
-Models: Yefrosiniiya Kryvytska, Ivan Labunets, Vlasa Hoshoba, Nikita Kryvytski, Florian Pontius, Alena Rau
+Author: [Flosha](https://flosh.in) 
 
 ---
 
@@ -268,3 +261,15 @@ In German the Front Split is also commonly referred to as "Frauenspagat" (Womens
 * Push-up
 * Handstand Push-up
 * Pike Push-up, also called *Drinking Deer Push-up*
+
+
+---
+
+## Credits
+
+**Idea, text, webdesign, photography:** [Flosha](https://flosh.in)
+**Models**: Yefrosiniiya Kryvytska, Ivan Labunets, Vlasa Hoshoba, Nikita Kryvytski, Florian Pontius, Alena Rau
+
+Special thanks to Frosya, Vanya, Olya and my coach Galina Sinyavskaya.
+
+
