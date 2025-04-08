@@ -164,6 +164,12 @@ We divide the Acrobatic terms into the following categories according to the cat
 * Categorg G: One footed Backbends/Arches
 
 
+#### Base Positions
+
+* **Base Position** is the position of a base during the performance of an element, e.g. while holding the top in a static hold, including the particular bases of support. Due to the plethora of possible positions it is difficult to categorise them. One way of differentiation would be to have one category for lying positions, one for sitting, kneeling and standing positions and so forth. The ToD seems to prefer to not categorise them in this way, instead considering bent arms vs. straight arms as the most essential differentiation. 
+
+
+
 #### Motions
 
 * **Motion** is a change of position, going from one position to another. Motions are differentiated into *Base Motions* and *Top Motions*. An example for a base motion is to move from a standing position into a sitting position while holding the partner in a handstand. An example for a top motion is to move from a straight handstand into an arched handstand while standing on the hands of the base. In German a motion is called a "Verwandlung" (transformation). 
