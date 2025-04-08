@@ -73,11 +73,10 @@
   --light: #dddddd;
 }
 
-.heading {
-  display: inline-block;
+nav ul::first-child {
+  /*display: inline-block;*/
   background: light-dark(black, white);
   color: light-dark(var(--light), black);
-  padding: 10px 15px;
 }
     .heading a {
       color: inherit;
@@ -217,10 +216,12 @@ label[for="menu-toggle"]  {
 
   nav ul {
     display: flex;
+    overflow-x: scroll;
   }
 
-  nav li {
+  nav ul li {
     line-height: 2em;
+    padding: 10px 15px;
   }
 
   nav a:hover {
