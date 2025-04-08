@@ -147,6 +147,21 @@ We divide the Acrobatic terms into the following categories according to the cat
 
 * **Motion** is a change of position, going from one position to another. Motions are differentiated into Base Motions and Top Motions. An example for a base motion is to move from a standing position into a sitting position while holding the partner in a handstand. An example for a top motion is to move from a straight handstand into an arched handstand while standing on the hands of the base. In German a motion is called a "Verwandlung" (transformation). 
 
+* **Base Motions**
+  * **Sit-Down**, getting from a standing position into a seated position.
+  * **Stand-Up**, getting from a seated position into a standing position.
+  * **Lunge-Up**, getting from a kneeling position through a lunge into a standing position. 
+  * **Sit-Up (Base-Motion)**, getting from a lying position into a seated position.
+  * **Lie-Down**, getting from a seated position into a lying position.
+  * **Get-Up**, getting from a lying position into a standing position (e.g. as done in a Turkish-Get-up).
+  * **Split-Slide**, sliding from a standing position into a frontal splits or side splits. 
+
+
+* **Top Motions**
+  * **Press Handstand** or **Press to Handstand**, short "Press HS" is a press from a standing position into a Handstand. Can either be performed through straight-straddled legs, which is called a *Straddle Press*, through tucked-closed legs, which is called a *Tuck Press*, through half-tucked-straddled legs, which we call a *Frog Press* or through straight-closed legs, which we call a *Pike Press*.
+  * **Spichag** is the russian name for pressing to handstand from a straddle support, in English it is called "Stalder Press" by some and "Endo" by others, due to a different usage in artistic gymnastics. In German it is called "Aufgrätschen" (literally "Straddle-Up").
+  * ...
+
 
 ### Dynamics
 
