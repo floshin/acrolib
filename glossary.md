@@ -168,7 +168,7 @@ We divide the Acrobatic terms into the following categories according to the cat
 
 * **Motion** is a change of position, going from one position to another. Motions are differentiated into Base Motions and Top Motions. An example for a base motion is to move from a standing position into a sitting position while holding the partner in a handstand. An example for a top motion is to move from a straight handstand into an arched handstand while standing on the hands of the base. In German a motion is called a "Verwandlung" (transformation). 
 
-* **Base Motions**
+* **Base Motions** are changes of position of the base partner or partners while performing a partner element (eg. while holding the top). There are douzens of base motions and many do not have any common term to describe them yet. I am suggesting the following terms:  
   * **Sit-Down**, getting from a standing position into a seated position.
   * **Stand-Up**, getting from a seated position into a standing position.
   * **Lunge-Up**, getting from a kneeling position through a lunge into a standing position. 
