@@ -166,7 +166,16 @@ We divide the Acrobatic terms into the following categories according to the cat
 
 #### Base Positions
 
-* **Base Position** is the position of a base during the performance of an element, e.g. while holding the top in a static hold, including the particular bases of support. Due to the plethora of possible positions it is difficult to categorise them. One way of differentiation would be to have one category for lying positions, one for sitting, kneeling and standing positions and so forth. The ToD seems to prefer to not categorise them in this way, instead considering bent arms vs. straight arms as the most essential differentiation. 
+* **Base Position** is the position of a base during the performance of an element, e.g. while holding the top in a static hold, including the particular bases of support. Due to the plethora of possible positions it is difficult to categorise them. The ToD mostly differs them into these categories:
+  1. Balance on two bent arms or on the head + one arm
+  2. Balance on feet
+  3. Balance on two straight arms
+  4. Balance on one bent arm
+  5. Balance on two straight arms, knotted hands
+  6. Balance on the head
+  7. Balance on one arm
+  8. Balance on one foot
+  9. ....
 
 
 
