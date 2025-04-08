@@ -22,6 +22,8 @@ We divide the Acrobatic terms into the following categories according to the cat
 
 -->
 
+## Acrobatics
+
 * **Acro**, shortcut for *Acrobatic Gymnastics*
 * **Acrobat** is a person that practices and/or performs Acrobatics and/or competes in Acrobatic Gymnastics in particular. 
 * **Acrobatics**, literally "walking on tip toes" generally describes movement that is especially elegant and virtuous, including high degrees of balance, dynamics, flexibility and strength as well as a performance art of displaying these acrobatic moves in the context of shows or competitions in Acrobatic Gymnastics. "Acrobatic" is assigned as an attribute to connote extraordinary physical control. "Acrobatics" is a wide term that contains many different disciplines.
@@ -365,6 +367,6 @@ At the moment we focus on adding English, German and Russian terms. But in the f
 
 **Models**: Yevfrosynïa Kryvytska, Ivan Labunets, Vlasa Hoshoba, Nikita Kryvytski, Florian Pontius, Alena Rau
 
-Special thanks to Frosya, Vanya, Olya and my coach Galina Sinyavskaya.
+Special thanks to Frosya, Vanya, Olya and our coach Galina Sinyavskaya.
 
-[Back to the top](#international-terminology-of-acrobatic-gymnastics)
+[Back to the top](#top)
