@@ -10,7 +10,7 @@ Author: [Flosha](https://flosh.in)
 
 ---
 
-We divide the Acrobatic terms into the following categories according to the categorising terms in the "Table of Difficulty" of Acrobatic Gymnastics, adding *Dance* and *Conditioning* as additional categories of relevance.
+We divide the Acrobatic terms into the following categories according to the categorising terms in the "Table of Difficulty" of Acrobatic Gymnastics. In form of *Dance* and *Exercises* we add two additional highly relevant categories for reference.
 
 * Partner work
     * Balance
