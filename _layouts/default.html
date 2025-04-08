@@ -3,6 +3,7 @@
     <head>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width,initial-scale=1">
+        <meta name="color-scheme">
         <title>{{site.title}} | {{page.title}}</title>
         <!--<link rel="icon" type="image/x-icon" href="---.ico" />-->
     </head>
@@ -16,10 +17,21 @@
     <body>
          
       <main>
-          {{ content }}
+        {{ content }}
       </main>
 
     </body>
+
+    <footer>
+      <p>
+        © Flosha 2025
+      </p>
+      <ul>
+        <li><a href="/">AcroLib</a></li>
+        <li><a href="https://siny.online">SinY</a></li>
+        <li><a href="https://www.gymnastics.sport/site/discipline.php?disc=10">FIG</a></li>
+      </ul>    
+    </footer>
 </html>
 
 <style>
@@ -43,7 +55,7 @@ header {
   display: inline-block;
   background: light-dark(black, white);
   color: light-dark(var(--light), black);
-  padding: 10px;
+  padding: 10px 15px;
 }
     header a {
       color: inherit;
@@ -98,5 +110,15 @@ a:visited {
 
 /* a:focus */
 /* Add a:focus styling for selecting links via tab */
+
+footer {
+  display: flex;
+  border-top: 1px solid;
+  justify-content: space-between;
+  font-size: 14px;
+}
+   footer ul {
+     gap: 20px;
+   }  
     
 </style>
