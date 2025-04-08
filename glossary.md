@@ -23,8 +23,8 @@ We divide the Acrobatic terms into the following categories according to the cat
     * Statics
     * Tumbling
 * Dance
-    * Leaps
-    * Lifts
+    * Leaps/Jumps
+    * Partner Lifts
 * Conditioning
 
 ---
@@ -115,7 +115,10 @@ We divide the Acrobatic terms into the following categories according to the cat
    * L-Support with higher feet, where the legs are not held horizontally, and the hips are not raised significantly compared to a basic L-Support, but the feet are raised significantly higher, away from the floor in an upward angle. This progression leads towards the V-Support.  
 * **V-Support**
 * **Manna**, "Over-Support" or Russian Lever
-* **Planche**, ..., A Planche with the hands being apart by at least three times the shoulder width is called a Wide Planche. A Planche where the Arms are completely in a horizontal line alongside the body is called a "Maltese" or "Deep Planche". 
+* **Crocodile**, short *Croc*, also described as an "Elbow Lever", is a support hold on bent arms with the body is held horizontally but resting on one or both elbows. 
+* **Elbow Lever**, see Crocodile.
+* **Bent Arm Planche** is a Planche/Horizont on bent arms; it looks similar to a Croc on both elbows, but in difference to the Croc the body is not supported on the elbows but freely between the arms, at most supported by the arms by squeezing the elbows together against the body inbetween them; it requires significantly more strength than a Croc. It is not considered an Element in Acro but it is an important position to master in the development of the Planche and the lowest position both in the [Planche-Push-up]() as well as in the [90° Push-up](). 
+* **Planche** is a balance on two hands on completely straight arms and the body held horizontally to the floor; to keep the Centre of Mass at about the hips above the wrists, the shoulders are leaning significantly forward beyond the wrists, which requires significant shoulder and wrist strength. The wrist flexibility requirements and pressure is much higher on the floor than when performed in H2H, because of the different wrist angles, that can be held much more neutral in H2H. Due to excessive strength requirements the element is also called "Krafthandstand" in German, meaning "Strength Handstand". Another German name for the element is "Stützwaage" (Scale Support) or just "Waage" (Scale) due to the body being held evenly like a balanced scale. In Russian the element is described as an horizontal Handstand, short *Horizont*, which we consider the most descriptive term, therefore we suggest using it. In English the element is most commonly known as a "Planche", which is confusing insofar as that the word has basically the same meaning as "Plank" too, which doesn't require any balance; it just describes the rigid body common to both positions. A Horizont with the hands being apart by at least three times the shoulder width is called a Wide Planche. A Planche where the Arms are completely in a horizontal line alongside the body is called a "Maltese" or "Deep Planche". 
 * **One Arm Planche** is a planche on one arm. According to the ToD of the FIG a one arm planche is not possible and can therefore not be performed. One arm planches as performed in Calisthenics are not considered actual planches by gymnastic standards due to bent arms and many other technical shortcomings. The element is said to be impossible because it is assumed that it can either only be performed with a bent arm and/or with the body heavily twisted or not completely horizontal; in the past and for many years the only person known who came close to a clean one arm planche was a handbalancer called [Professor Paulinetti](), who performed it like this; as can be seen the arm is still very visibly bent. In recent years some handbalancers such as ??? and calisthenics athletes such as [Valentin Blanc]() have shown one arm planches with an almost straight arm, but a microbend remains. We think that in the future the possibility of one arm planches may have to be reconsidered, but the difficulty is so extreme that it is unlikely to be performed. A different element that sometimes is confused with a One Arm Planche is a "One Arm Airbaby".
 * **One Arm Airbaby**, like the one arm planche, is also a balance element on one arm with the body in a horizontal position, but the body is turned sideways and it is considered a base position; it was performed in the past by a chinese pair with the top in a one arm handstand on the free arm of the base. 
 * **Lever**
@@ -196,7 +199,11 @@ A Split with the legs apart wider than 180° is called an *Oversplit* (German: �
 
 ### Statics
 
-* ....
+* Statics are basically Balance Elements but held individually. All the handstands, footstands and support holds can be performed as individual static holds too (see [Balance](#Balance). But there are a few static holds which are only or mostly performed individually and not or rarely on partners, such as Forearmstands, Headstands or Cheststands. Additionally we will also list static holds that are not considered as elements in acrobatic gymnastics, but that are useful in course of the development of said elements and are therefore commonly used (or ought to be used as we think) in the strength and balance development of athletes, such as diverse yoga positions.
+* Frogstand, Sanskrit "Bakasana", ...
+* Crowstand, Sanskrit "Kakasana", ...
+* Tuck Planche, Sanskrit "Lolasana", ...
+* 
 
 
 ### Tumbling 
