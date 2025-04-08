@@ -4,7 +4,7 @@ In this glossary (an ongoing work in progress to which you can contribute [here]
 
 Over time we will add terms of diverse languages and associate them with related terms from other languages in order to reduce the current confusion when talking about elements with people from another country (or even just another acrobatic school). On the basis on this research we may try to suggest a terminology, a common language, based on the most precise and most commonly used terms. 
 
-You can use the search function of your browser to search for terms you heard of but don't know what they mean or to search for terms you already know (you can also type kyrillic) in order to learn how they are called in other languages.   
+You can use the search function of your browser to search for terms you heard of but don't know what they mean or to search for terms you already know (you can also type cyrillic) in order to learn how they are called in other languages.   
 
 Author: [Flosha](https://flosh.in) 
 
