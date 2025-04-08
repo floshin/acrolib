@@ -32,44 +32,53 @@ We divide the Acrobatic terms into the following categories according to the cat
 
 ---
 
-
-* Acrobatics
-* Acro
-* Acrobatic Gymnastics
-* Element, .... Elements can either be performed on their own in seperation or be part of a *Sequence*. Balance elements can be seemlessly connected via *Motions*. Dynamic elements can be seemlessly connected via *Links*.
-  * Partner Elements
-  * Individual Elements
-* Trick, Stunt
-* Dance/Choreography
-* Artistic
-* Execution
-* Technique
-* Sequence
+* **Acro**, shortcut for *Acrobatic Gymnastics*
+* **Acrobat** is a person that practices and/or performs Acrobatics and/or competes in Acrobatic Gymnastics in particular. 
+* **Acrobatics**, literally "walking on tip toes" generally describes movement that is especially elegant and virtuous, including high degrees of balance, dynamics, flexibility and strength as well as a performance art of displaying these acrobatic moves in the context of shows or competitions in Acrobatic Gymnastics. "Acrobatic" is assigned as an attribute to connote extraordinary physical control. "Acrobatics" is a wide term that contains many different disciplines.
+  * **Floor Acro** consists of acrobatic motions that are performed individually on the floor.
+  * **Aerial Art** are all forms of acrobatics performed on some kind of apparatus in the air (e.g. Aerial Straps, Silks, Hoop, Trapeze, Chinese Pole etc.), which can be done individually or with a partner.
+  * **Equilibristic** are all forms of acrobatics that require an extraordinary skill to balance; most commonly expressed in form of handbalancing. But there is also the art of headbalancing and other forms.
+  * **Contortion** is an acrobatic discipline that focuses on the display of extreme degrees of flexibility, often shown by genetically gifted girls or women, often combined with handbalancing. In Germany Contortionists were often generally described as "Schlangenmenschen" (snake humans) due to their seemingly unlimited ability to bend their bodies. 
+  * **Object manipulation** is acrobatics performed with some kind of object, for instance different forms of Juggling or Freestyle Skateboarding.
+  * **Hand to Hand** is a particular category of partner acrobatics without any apparatus and without any objects, where the acrobats (at least two) perform acrobatic feats with each other on the floor; it is the only category of acrobatics that is codified in *Acrobatic Gymnastics* in form of the three disciplines: Duo (2), Trio (3) and Group (4). Hand to Hand is also shown in Circus Shows, but is not as widely known and not as frequently performed on stage as other acrobatic disciplines. 
+* **Acrobatic Gymnastics** is one of the official gymnastic disciplines of the FIG (Federation Internationale de Gymnastique), that is focused on partner acrobatics on the floor, hand to hand. Acrobatic gymnasts also perform handbalancing (on their partners) on a high level as well as contortion and floor acrobatics to some degree.  
+* **Element**, .... Elements can either be performed on their own in seperation or be part of a *Sequence*. Balance elements can be seemlessly connected via *Motions*. Dynamic elements can be seemlessly connected via *Links*.
+  * **Partner Elements**
+  * **Individual Elements**
+* **Trick**
+* **Stunt**
+* **Dance**
+* **Choreography**
+* **Artistry**
+* **Execution**
+* **Technique**
+* **Sequence**
 
 
 ## Partner work
 
-* Partner(s)
-* Base
-* Top
-* Middle
-* Fomation
-* Pair
-* Group
-* Duo
-* Trio
-* Quartet
-* Mixed Pair
-* Womens Pair
-* Mens Pair
-* Womens Group
-* Mens Group
+* **Partner(s)**
+* **Base**
+* **Top**
+* **Middle**
+* **Fomation**
+* **Pair**
+* **Group**
+* **Team**
+* **Duo**
+* **Trio**
+* **Quartet**
+* **Mixed Pair**
+* **Womens Pair**
+* **Mens Pair**
+* **Womens Group**
+* **Mens Group**
 
 
 ### Balance
 
-* Balance
-* Balance Categories of Elements
+* **Balance**
+* **Balance Categories of Elements**
   * Handstands
   * Headstands
   * Supports
@@ -77,25 +86,25 @@ We divide the Acrobatic terms into the following categories according to the cat
   * Splits
   * Cross
   * Levers
-* Point(s) of Support
-* Hand to Hand
-* Foot to Hand
-* Foot to Foot
-* Hand to Foot
-* Head to Hand
-* One on One
-* One on Two
-* Two on One
-* Mono
-* Short
-* Extended
-* Bent Arms
-* Straight Arms
-* Half Arm
-* High Arm
-* One Arm
-* Two Arms
-* Knot
+* **Point(s) of Support**
+* **Hand to Hand**
+* **Foot to Hand**
+* **Foot to Foot**
+* **Hand to Foot**
+* **Head to Hand**
+* **One on One**
+* **One on Two**
+* **Two on One**
+* **Mono**
+* **Short**
+* **Extended**
+* **Bent Arms**
+* **Straight Arms**
+* **Half Arm**
+* **High Arm**
+* **One Arm**
+* **Two Arms**
+* **Knot**
 
 
 #### Handstands
