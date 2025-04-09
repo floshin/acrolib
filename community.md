@@ -37,15 +37,35 @@ Below we try to list all of these federations and how to contact them, as well a
 
 #### Baden-Württemberg
 
-* ...
+* TSV Huettlingen 1892 e.V.
+* 
+
 
 #### Berlin
 
-* ...
+* Turngemeinde in Berlin 1848 e. V.
+* TuS Hellersdorf 88
+* 
+
+
 
 #### Bayern
 
-* ...
+* TSV 1860 Weissenburg e.V.
+* 
+
+
+#### Hessen
+
+* SG Goetzenhain 1945 e.V.
+* TV 1844 Idstein e.V.
+
+
+#### Mecklenburg-Vorpommern
+
+* TAV Selmsdorf 2000 e.V.
+* 
+
 
 
 #### Rheinland-Pfalz
@@ -55,11 +75,19 @@ Below we try to list all of these federations and how to contact them, as well a
 
 #### Sachsen
 
+* SC Riesa
+* 
+
 
 #### Sachsen-Anhalt
 
 
-#### ...
+#### Thüringen
+
+* SAC Suhl e.V.
+* 
+
+
 
 
 
