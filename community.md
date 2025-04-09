@@ -38,7 +38,7 @@ Below we try to list all of these federations and how to contact them, as well a
 
 * Acro Saarlouis (TV 1879 Saarlouis-Roden)
 * Sportakrobatik Schwalbach-Griesborn e.V.
-* [TBS Saarbrücken](https://www.tbs-saarbruecken.de/index.php/de/)
+* [TB St. Johann von 1847 e.V. Saarbruecken](https://www.tbs-saarbruecken.de)
 
 
 #### Baden-Württemberg
@@ -49,6 +49,8 @@ Below we try to list all of these federations and how to contact them, as well a
 * [SKG Erbstetten e.V.](http://www.skg-erbstetten.de)
 * [SV Aufhausen](http://www.sv-aufhausen.de)
 * [SV Mergelstetten](http://svmergelstetten.de/)
+* [TSG Backnang Schwerathletik 1920 e.V.] (no link)
+* [TSG Hofherrnweiler-Unterrombach 1899 e.V.](http://www.tsg-hofherrnweiler.de)
 * 
 
 
@@ -91,13 +93,16 @@ Below we try to list all of these federations and how to contact them, as well a
 * [KSV Baunatal e.V.](http://www.sportakrobatik.ksv-baunatal.de)
 * [KSV Weiher 1969 e.V.](http://www.ksv-weiher.com)
 * [Sportgemeinschaft Arheilgen 1876/1945 e.V.](http://sg-arheilgen.de)
+* [SVG Nieder-Liebersbach e.V.](http://www.svg-sportakrobatik.de/)
+* [SVH Kassel 45 e.V.](http://www.sportakrobatik-svhkassel.de/)
+* [TG 1908 Lispenhausen e.V.](http://www.akrobatik-lispenhausen.npage.de/)
 * 
 
 
 #### Mecklenburg-Vorpommern
 
 * TAV Selmsdorf 2000 e.V.
-* 
+* [TSG Wismar e.V.](http://www.tsg-wismar.de/)
 
 
 #### Nordhrein-Westfalen
@@ -109,6 +114,10 @@ Below we try to list all of these federations and how to contact them, as well a
 * [LZSA Duesseldorf](https://lzsa.de/)
 * [PSV Ennepe-Ruhr-Kreis 1970 e.V.](http://www.psv-sportakrobatik.de)
 * [SAV Luenen 05 e.V.](http://www.sav-luenen.de)
+* [TG Neuss](http://www.tg-neuss.de/)
+* [TKV Oberforstbach 1896 e.V.](http://www.tkv-oberforstbach.de/)
+* 
+
 
 
 #### Niedersachsen
@@ -139,6 +148,7 @@ Below we try to list all of these federations and how to contact them, as well a
 * [MSV Bautzen 04 e.V](http://www.msvbautzen04.de)
 * [SAV Gruenhain-Schwarzenberg e.V.](http://www.sav-schwarzenberg.de)
 * [SC Hoyerswerda e.V.](http://www.sportclub-hoyerswerda.de)
+* [SV TUR Dresden e.V.](http://www.sv-tur.de/)
 * 
 
 
