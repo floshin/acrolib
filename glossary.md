@@ -363,10 +363,6 @@ In German the Front Split is also commonly referred to as "Frauenspagat" (Womens
 * **F2H Tempos**
 * **RF2H Tempos**
 
----
-
-[Back to the top](#top)
-
 <style>
 
 main ul { 
