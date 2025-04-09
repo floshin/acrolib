@@ -1,43 +1,12 @@
 # International Terminology of Acrobatic Gymnastics
 
 <!--
----
-
 We divide the Acrobatic terms into the following categories according to the categorising terms in the "Table of Difficulty" of Acrobatic Gymnastics. In form of *Dance* and *Exercises* we add two additional highly relevant categories for reference.
-
-* Partner work
-    * Balance
-      * Motions
-    * Dynamics
-    * Mounts/Dismounts
-* Individual work
-    * Agility
-    * Flexibility
-    * Statics
-    * Tumbling
-* Dance
-    * Leaps/Jumps
-    * Partner Lifts
-* Exercises
-
 -->
 
 [Acrobatics](#acrobatics) [Balance](#balance) [Handstands](#handstands) [Supports](#supports) [Footstands](#footstands) [Base Positions](#base-positions) [Mounts](#mounts) [Motions](#motions) [Dynamic](#dynamic) [Flexibilities](#flexibilities) [Statics](#statics) [Agilities](#agilities) [Tumbling](#tumbling) [Exercises](#exercises) [Dance](#dance)
 {: .categories }
 
-<!--
-<ul>
-  <li><a href="/">AcroLib</a></li>
-  <li><a href="#about">About</a></li> 
-  <li><a href="#balance">Balance</a></li>
-  <li><a href="#mounts">Mounts</a></li>
-  <li><a href="#motions">Motions</a></li>
-  <li><a href="#dynamic">Dynamic</a></li>
-  <li><a href="#individual">Individual</a></li>
-  <li><a href="#exercises">Exercises</a></li>
-  <li><a href="#dance">Dance</a></li>
-</ul>
--->
 
 ## Acrobatics
 
@@ -414,3 +383,16 @@ At the moment we focus on adding English, German and Russian terms. But in the f
 Special thanks to Frosya, Vanya, Olya and our coach Galina Sinyavskaya.
 
 [Back to the top](#top)
+
+
+<style>
+
+ul { 
+  list-style: none;
+}
+   
+ul li::first-line {
+     padding-left: -0.5em;
+   }
+   
+</style>
