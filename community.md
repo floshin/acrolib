@@ -60,8 +60,7 @@ Below we try to list all of these federations and how to contact them, as well a
 * [TV Moegglingen](http://www.tvm-online.de/)
 * [TV Uhingen](http://www.tv-uhingen.de/)
 * [VfL Sindelfingen](http://www.sportakrobatik.vfl-sindelfingen.de/)
-* 
-
+* [FC Röhlingen 1948 e.V.](https://www.fc-roehlingen.de/index.php/showakrobatik/goldies)
 
 
 #### Berlin
@@ -73,8 +72,6 @@ Below we try to list all of these federations and how to contact them, as well a
 * [SV Lichtenberg 47 e.V.](http://www.lichtenberg47.de)
 * [TSV Spandau 1860 e.V.](http://www.tsv-spandau-1860.de/)
 * [TuS Hohenschoenhausen 1990 e.V.](http://www.akrobatikmaeuse.de/)
-* 
-
 
 
 #### Bayern
@@ -87,15 +84,12 @@ Below we try to list all of these federations and how to contact them, as well a
 * [SV DJK Eggolsheim](http://www.sportakrobatik-kersbach.jimdo.com/)
 * [TSV 1862 Friedberg e.V.](http://www.tsv-friedberg.de/)
 * [Turnverein Dettingen 1901 e.V.](http://www.tvdettingen.de/)
-* 
 
 
 #### Brandenburg
 
 * [Sportfreunde Brandenburg 94 e.V.](http://www.sfb-94.de)
 * [SV Motor Babelsberg e.V.](http://www.sportakrobaten-potsdam.de/)
-* 
-
 
 
 #### Hessen
@@ -114,7 +108,7 @@ Below we try to list all of these federations and how to contact them, as well a
 * [TV Babenhausen 1891 e.V.](http://www.tvbabenhausen.de/)
 * [TV Pohl-Goens 1905 e.V.](http://www.sportakrobatik-pohlgoens.de/)
 * Eintracht Frankfurt e.V.
-
+* [VfL Goldstein 1953 e.V.](http://www.vfl-goldstein.de/)
 
 
 #### Mecklenburg-Vorpommern
@@ -123,7 +117,7 @@ Below we try to list all of these federations and how to contact them, as well a
 * [TSG Wismar e.V.](http://www.tsg-wismar.de/)
 * [TSV Empor Goehren e.V.](http://www.sportakrobatik-ruegen.de/)
 * [VfL Schwerin e.V.](http://www.vfl-schwerin.de/)
-* 
+* [SV Warnemünde 1949 e.V.](https://svwarnemuende.de/sportakrobatik/)
 
 
 #### Nordhrein-Westfalen
@@ -139,8 +133,12 @@ Below we try to list all of these federations and how to contact them, as well a
 * [TKV Oberforstbach 1896 e.V.](http://www.tkv-oberforstbach.de/)
 * [TuS Boenen 01 e.V.](https://www.tus-boenen.de/sportangebote/sportakrobatik/)
 * [Werler Turnverein e.V.](http://www.werler-tv.de/)
-* 
+* [Turngemeinde Ennigloh von 1887 e.V.](http://www.tg-ennigloh.de/)
 
+
+#### Hamburg
+
+* [Sportakrobatikverein Hamburg e.V.](https://www.sportakrobatik-verein-hamburg.de/)
 
 
 #### Niedersachsen
@@ -151,6 +149,7 @@ Below we try to list all of these federations and how to contact them, as well a
 * [OSC Damme](http://www.osc-damme.de)
 * [TuS Blau-Weiss Lohne von 1894 e.V.](http://www.blau-weiss-lohne.de/)
 * [VfB Fallersleben e.V.](http://www.vfb-fallersleben.de/)
+* [MTV Pattensen e.V.](https://www.mtv-pattensen.de/)
 
 
 #### Rheinland-Pfalz
@@ -158,7 +157,6 @@ Below we try to list all of these federations and how to contact them, as well a
 * [Sport + Akrobatik 1999 e.V. Mainz-Laubenheim](http://www.sav-laubenheim.de)
 * [TuS 1848 Ober-Ingelheim e.V.](http://www.tus-ober-ingelheim.de/)
 * [TV 1867 Bad Sobernheim e.V.](http://www.tv1867.de/)
-* 
 
 
 #### Sachsen
@@ -186,14 +184,12 @@ Below we try to list all of these federations and how to contact them, as well a
 * [SG Einheit Halle e.V.]()
 * SV 1990 Sangerhausen e.V. (no link)
 * [SV Halle e.V.](http://www.sv-halle.de/)
-* 
 
 
 #### Schleswig-Holstein
 
 * [Moellner SV von 1862](http://www.till-sportakrobaten.de)
-* TSV Seedorf-Sterley
-* 
+* [TSV Seedorf-Sterley](https://tsv-seedorf-sterley.de/sparten/sportakrobatik.html)
 
 
 #### Thüringen
@@ -204,9 +200,6 @@ Below we try to list all of these federations and how to contact them, as well a
 * [SV Concordia Erfurt e.V.](http://www.sv-concordia.de)
 * [SV Motor Arnstadt](http://www.sport-akrobatik.de/)
 * [TSV Motor Gispersleben](http://www.gispi-sport.de/)
-* 
-
-
 
 
 
