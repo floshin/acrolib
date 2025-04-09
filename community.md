@@ -37,7 +37,7 @@ Below we try to list all of these federations and how to contact them, as well a
 * Finland: [Suomen Voimisteluliitto](https://www.voimistelu.fi/)
 * Fédération Française de Gymnastique
 * Deutscher Sportakrobatik Bund e.V.
-* Greece?
+* Greece: [Ελληνική Γυμναστική Ομοσπονδία](https://www.ego-gymnastics.gr/)
 * British Gymnastics
 * Gymnastics Ireland Ltd.
 * [Federazione Ginnastica d’Italia](https://www.federginnastica.it/)
