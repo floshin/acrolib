@@ -97,7 +97,7 @@
 * [MTV Pattensen e.V.](https://www.mtv-pattensen.de/)
 
 
-## Nordhrein-Westfalen
+## Nordrhein-Westfalen
 
 * [Burtscheider TV 1873 e.V.](http://www.btv-aachen.de/)
 * [DJK Oespel-Kley](http://www.djk.oespel-kley.de/)
