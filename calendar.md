@@ -9,9 +9,7 @@ How to contribute? It is very easy to contribute. Just add your own competition 
 ## Upcoming International Events
 
 
-### 2025
-
-#### April
+### April 2025
 
 | Date | City | Country | Name | Info |
 | ---- | ---- | ------- | ---- | ---- |
@@ -19,7 +17,7 @@ How to contribute? It is very easy to contribute. Just add your own competition 
 | 18. - 20.04.2025 | Cesenatico	| ITA | 10th International Acro Cup | for Clubs	| 
 
 
-#### May 
+### May 2025
 
 | Date | City | Country | Name | Info |
 | ---- | ---- | ------- | ---- | ---- |
@@ -29,7 +27,7 @@ How to contribute? It is very easy to contribute. Just add your own competition 
 | 30.05. - 01.06.2025 |	Burgas | BUL | FIG World Cup, 5th Burgas International Acro Cup	| Competition website, FIG Event page |
 
 
-#### June 
+### June 2025
 
 | Date | City | Country | Name | Info |
 | ---- | ---- | ------- | ---- | ---- |
@@ -38,10 +36,10 @@ How to contribute? It is very easy to contribute. Just add your own competition 
 | 19. - 21.06.2025 | Aalen | GER | FIG World Cup, 2025 Limes Cup | Organizers' website, FIG Event page |
 | 23. - 26.06.2025 | TBC | IND | International Judges Course | FIG Event page |
 | 27.05. - 29.06.2025	| Rzeszów	| POL	| FIG World Cup, Rzeszów International Acro Tournament | Organiser's website, FIG Event page |
-27.06. - 29.06.2025	Colchester	GBR	6th Tigers Acro Cup	Organiser's website
+| 27.06. - 29.06.2025	| Colchester	| GBR	| 6th Tigers Acro Cup	| Organiser's website |
 
 
-#### July 
+### July 2025
 
 | Date | City | Country | Name | Info |
 | ---- | ---- | ------- | ---- | ---- |
@@ -49,7 +47,7 @@ How to contribute? It is very easy to contribute. Just add your own competition 
 | 11. - 13.07.2025	| Torino	| ITA	| 11th Turin Acro Cup	| Invitation |
 
 
-#### August
+### August 2025
 
 | Date | City | Country | Name | Info |
 | ---- | ---- | ------- | ---- | ---- |
@@ -57,28 +55,29 @@ How to contribute? It is very easy to contribute. Just add your own competition 
 | 07. - 17.08.2025	| Chengdu |	CHN	| 12. World Games |	International World Games Association |
 
 
-#### September 
+### September 2025
 
 | Date | City | Country | Name | Info |
 | ---- | ---- | ------- | ---- | ---- |
 | 25.09. - 28.09.2025	| Warsaw	POL	Cup "Warsa i Sawy"	| |  
 
 
-#### October
+### October 2025
 
 | Date | City | Country | Name | Info |
 | ---- | ---- | ------- | ---- | ---- |
 | 10. - 12.10.2025	| Sliven |	BUL	| 3rd Stefka Spasova Cup	| |
 
 
-#### November
+### November 2025
 
 | Date | City | Country | Name | Info |
 | ---- | ---- | ------- | ---- | ---- |
 | 21. - 23.11.2025 |	Lancut	| POL |	Grand Prix S. Geronia	| | 
- 
 
-### 2026
+---
+
+### Sometime in 2026
 
 | Date | City | Country | Name | Info |
 | ---- | ---- | ------- | ---- | ---- |
@@ -86,12 +85,13 @@ How to contribute? It is very easy to contribute. Just add your own competition 
 | t.b.d.	| t.b.d.	| ITA	| 30. World Championships	| |
 
 
-#### June
+### June 2026
 
 | Date | City | Country | Name | Info |
 | ---- | ---- | ------- | ---- | ---- |
 | 12.06. - 14.06.2026	| Winterthur	| SUI	| 3. NSW Acro Trophy |	Competition website |
 
+---
  
 ### 2029
 
