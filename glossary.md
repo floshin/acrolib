@@ -152,7 +152,7 @@ We divide the Acrobatic terms into the following categories according to the cat
 
 * **Motion** is a change of position, going from one position to another. Motions are differentiated into *Base Motions* and *Top Motions*. An example for a base motion is to move from a standing position into a sitting position while holding the partner in a handstand. An example for a top motion is to move from a straight handstand into an arched handstand while standing on the hands of the base. In German a motion is called "Verwandlung" (transformation). 
 
-* **Base Motions** are changes of position of the base partner or partners while performing a partner element (e.g. while holding the top). There are douzens of base motions and many do not have any common term to describe them yet. I am suggesting the following terms:  
+* **Base Motions** (Pairs) are changes of position of the base partner while performing a partner element (e.g. while holding the top). There are douzens of base motions and many do not have any common term to describe them yet. For pair motions I am suggesting the following terms:    
   * **Sit-Down**, getting from a standing position into a seated position.
   * **Stand-Up**, getting from a seated position into a standing position.
   * **Kneel-Down**, getting from a standing position into a kneeling position. 
@@ -171,8 +171,9 @@ We divide the Acrobatic terms into the following categories according to the cat
   * **Roll-Down** is an advanced base motion only possible with the top held in one arm, which is a transition from standing or kneeling to lying through a forward roll, while keeping the balancing arm overhead, which requires extraordinary shoulder stability and strength. In its easiest forms it is done with the top held at the hips in a horizontally lying split or scorpion, which doesn't require much balance from the base; in its most extreme form it is done with the top in a 1on1 handstand, which requires tremendous balancing skill. While being hard, the opposite motion, the *Roll-Up*, is much harder to perform.
   * **Roll-Up**, a base motion from lying to kneeling and eventually standing (although one can also move to a different position after reaching the half-kneeling position, e.g. sliding into splits); it is basically a reversed *Roll-Down* and significantly more difficult. 
   * **Lying-Turn-Around** is a motion in which the base holds the top in his hands in a lying position and turns around sideways either from *prone* to *supine* or from *supine* to *prone* (in other words: from belly to back or from back to belly), whereas in the prone position the arms are always bent, while in the supine position the arms can be bent or straight and have to be straightened and bended to some degree during the motion.
-  * 
 
+* **Base Motions** (Groups) are motions of one or more base and middle partners of a group while holding an element (e.g. a motion of the middle in a pyramid while holding the top in a handstand). Base motions may be performed by one of the partners, by two partners in succession or by two or even three partners simultaneously. I am suggesting the following terms:
+  * ...
 
 * **Top Motions**
   * **Press Handstand** or **Press to Handstand**, short "Press HS" is a press from a standing position into a Handstand. Can either be performed through straight-straddled legs, which is called a *Straddle Press*, through tucked-closed legs, which is called a *Tuck Press*, through half-tucked-straddled legs, which we call a *Frog Press* or through straight-closed legs, which we call a *Pike Press*.
