@@ -115,6 +115,7 @@
 
 ## Rheinland-Pfalz
 
+* [KKSV 1954 e.V. Mainz-Finthen e.V](http://www.kksv-finthen.de/)
 * [Sport + Akrobatik 1999 e.V. Mainz-Laubenheim](http://www.sav-laubenheim.de)
 * [TuS 1848 Ober-Ingelheim e.V.](http://www.tus-ober-ingelheim.de/)
 * [TV 1867 Bad Sobernheim e.V.](http://www.tv1867.de/)
