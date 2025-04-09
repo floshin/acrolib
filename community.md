@@ -36,7 +36,7 @@ Below we try to list all of these federations and how to contact them, as well a
 
 #### Saarland
 
-* Acro Saarlouis (TV 1879 Saarlouis-Roden)
+* Acro Saarlouis ([TV 1879 Saarlouis-Roden]((http://www.tv1879roden.de/))
 * Sportakrobatik Schwalbach-Griesborn e.V.
 * [TB St. Johann von 1847 e.V. Saarbruecken](https://www.tbs-saarbruecken.de)
 
@@ -54,7 +54,8 @@ Below we try to list all of these federations and how to contact them, as well a
 * [TSGV Albershausen](http://www.der-akrobat.de/)
 * [TSV Dewangen 1957 e.V.](https://tsv-dewangen.de/abteilungen/akrobatik/)
 * [TSV Grafenau](http://www.tsv-grafenau.de/)
-* 
+* [TV Altenstadt e.V.](http://www.tvaltenstadt.de/)
+* TV Burgberg 1897 e.V (no link)
 
 
 #### Berlin
@@ -65,6 +66,7 @@ Below we try to list all of these federations and how to contact them, as well a
 * [SC Eintracht Berlin e.V.](http://www.akrobatiksternchen.de)
 * [SV Lichtenberg 47 e.V.](http://www.lichtenberg47.de)
 * [TSV Spandau 1860 e.V.](http://www.tsv-spandau-1860.de/)
+* [TuS Hohenschoenhausen 1990 e.V.](http://www.akrobatikmaeuse.de/)
 * 
 
 
@@ -78,6 +80,7 @@ Below we try to list all of these federations and how to contact them, as well a
 * [Sportakrobatik-Verein Augsburg-Hochzoll 1957 e.V.](http://www.sportakrobatik-augsburg.de)
 * [SV DJK Eggolsheim](http://www.sportakrobatik-kersbach.jimdo.com/)
 * [TSV 1862 Friedberg e.V.](http://www.tsv-friedberg.de/)
+* [Turnverein Dettingen 1901 e.V.](http://www.tvdettingen.de/)
 * 
 
 
@@ -102,7 +105,7 @@ Below we try to list all of these federations and how to contact them, as well a
 * [SVH Kassel 45 e.V.](http://www.sportakrobatik-svhkassel.de/)
 * [TG 1908 Lispenhausen e.V.](http://www.akrobatik-lispenhausen.npage.de/)
 * [Turnerschaft 1856 e.V. Frankfurt-Griesheim](http://www.ts-griesheim.de/)
-* 
+* [TV Babenhausen 1891 e.V.](http://www.tvbabenhausen.de/)
 
 
 #### Mecklenburg-Vorpommern
@@ -123,6 +126,7 @@ Below we try to list all of these federations and how to contact them, as well a
 * [SAV Luenen 05 e.V.](http://www.sav-luenen.de)
 * [TG Neuss](http://www.tg-neuss.de/)
 * [TKV Oberforstbach 1896 e.V.](http://www.tkv-oberforstbach.de/)
+* [TuS Boenen 01 e.V.](https://www.tus-boenen.de/sportangebote/sportakrobatik/)
 * 
 
 
@@ -133,12 +137,15 @@ Below we try to list all of these federations and how to contact them, as well a
 * [MTV Ilten von 1896 e.V.](http://www.mtv-ilten.de)
 * [SG Schwarz-Weiß Oldenburg](http://www.sportakrobatik-oldenburg.de)
 * [OSC Damme](http://www.osc-damme.de)
+* [TuS Blau-Weiss Lohne von 1894 e.V.](http://www.blau-weiss-lohne.de/)
 * 
 
 
 #### Rheinland-Pfalz
 
 * [Sport + Akrobatik 1999 e.V. Mainz-Laubenheim](http://www.sav-laubenheim.de)
+* [TuS 1848 Ober-Ingelheim e.V.](http://www.tus-ober-ingelheim.de/)
+* [TV 1867 Bad Sobernheim e.V.](http://www.tv1867.de/)
 * 
 
 
