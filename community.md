@@ -4,14 +4,14 @@ The Acrobatic Gymnastics Community across the globe is organised in local Clubs 
 
 These Clubs and Schools are united in regional Unions, which organise regional competitions. The regional Unions are united in national Federations, which hold national competitions. Those again are united in continental Federations organising continental competitions. 
 
-Finally they are united in the *International Gymnastics Federation*, the *Federation Internationale de Gymnastique* (short FIG), which organises international competitions, courses and events, while the Technical Committee curates the Rules of the sports. 
+Finally they are united in the *International Gymnastics Federation*, the [*Federation Internationale de Gymnastique*](https://www.gymnastics.sport/) (short FIG), which organises international competitions, courses and events, while the Technical Committee curates the Rules of the sports. 
 
 Below we try to list all of these federations and how to contact them, as well as all the local clubs. Please help us by adding your club and make it easy for local people to reach and join you.
 
 
 ## International Federation
 
-...
+* **Official Website:** https://www.gymnastics.sport/
 
 
 ## Continental Federations
@@ -31,13 +31,15 @@ Below we try to list all of these federations and how to contact them, as well a
 
 ## Local Clubs & Schools
 
+
 ### Germany
 
 #### Saarland
 
-* TV 1879 Saarlouis-Roden
-* TV Schwalbach Griesborn
-* TBS Saarbrücken
+* Acro Saarlouis (TV 1879 Saarlouis-Roden)
+* Sportakrobatik Schwalbach-Griesborn e.V.
+* [TBS Saarbrücken](https://www.tbs-saarbruecken.de/index.php/de/)
+
 
 #### Baden-Württemberg
 
@@ -82,7 +84,7 @@ Below we try to list all of these federations and how to contact them, as well a
 
 * Burtscheider TV 1873 e.V.
 * DJK Oespel-Kley
-* 
+* [KSV 02 Guetersloh e.V.](https://ksv02-guetersloh.de/)
 
 
 
@@ -99,6 +101,7 @@ Below we try to list all of these federations and how to contact them, as well a
 * AC Taucha e.V.
 * Akrobatik-Team Niesky e.V.
 * [Doebelner SC 02/90 e.V.](http://www.doebelner-sc.de/)
+* [Krostitzer Sportverein e.V.](http://www.krostitzer-akrobaten.de)
 
 
 #### Sachsen-Anhalt
