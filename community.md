@@ -48,6 +48,8 @@ Below we try to list all of these federations and how to contact them, as well a
 * [MTV Aalen](http://www.mtv-aalen.de)
 * [SKG Erbstetten e.V.](http://www.skg-erbstetten.de)
 * [SV Aufhausen](http://www.sv-aufhausen.de)
+* [SV Mergelstetten](http://svmergelstetten.de/)
+* 
 
 
 #### Berlin
@@ -56,6 +58,7 @@ Below we try to list all of these federations and how to contact them, as well a
 * Turngemeinde in Berlin 1848 e. V.
 * TuS Hellersdorf 88
 * [SC Eintracht Berlin e.V.](http://www.akrobatiksternchen.de)
+* [SV Lichtenberg 47 e.V.](http://www.lichtenberg47.de)
 * 
 
 
@@ -67,12 +70,15 @@ Below we try to list all of these federations and how to contact them, as well a
 * [DJK-TSV Kersbach](http://www.djk-kersbach.de/)
 * TSV 1860 Weissenburg e.V.
 * [Sportakrobatik-Verein Augsburg-Hochzoll 1957 e.V.](http://www.sportakrobatik-augsburg.de)
+* [SV DJK Eggolsheim](http://www.sportakrobatik-kersbach.jimdo.com/)
 * 
 
 
 #### Brandenburg
 
 * [Sportfreunde Brandenburg 94 e.V.](http://www.sfb-94.de)
+* [SV Motor Babelsberg e.V.](http://www.sportakrobaten-potsdam.de/)
+* 
 
 
 
@@ -142,6 +148,8 @@ Below we try to list all of these federations and how to contact them, as well a
 * SC Magdeburg e.V. (no link)
 * [SG Einheit Halle e.V.]()
 * SV 1990 Sangerhausen e.V. (no link)
+* [SV Halle e.V.](http://www.sv-halle.de/)
+* 
 
 
 #### Schleswig-Holstein
@@ -155,6 +163,8 @@ Below we try to list all of these federations and how to contact them, as well a
 * SAC Suhl e.V.
 * [Moebisburger SV](http://www.akro-moebisburg.de)
 * [MTV 1860 Erfurt e.V.](https://mtverfurt.de/akrobatik/)
+* [SV Concordia Erfurt e.V.](http://www.sv-concordia.de)
+* [SV Motor Arnstadt](http://www.sport-akrobatik.de/)
 * 
 
 
