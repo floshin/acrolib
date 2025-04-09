@@ -45,7 +45,7 @@ Below we try to list all of these federations and how to contact them, as well a
 
 * DJK Wasseralfingen
 * TSV Huettlingen 1892 e.V.
-* 
+* [MTV Aalen](http://www.mtv-aalen.de)
 
 
 #### Berlin
@@ -82,6 +82,7 @@ Below we try to list all of these federations and how to contact them, as well a
 * TAV Selmsdorf 2000 e.V.
 * 
 
+
 #### Nordhrein-Westfalen
 
 * Burtscheider TV 1873 e.V.
@@ -89,12 +90,16 @@ Below we try to list all of these federations and how to contact them, as well a
 * [KSV 02 Guetersloh e.V.](https://ksv02-guetersloh.de/)
 * [KSV Kirchlinde 1926 e.V.](http://www.ksv-kirchlinde.de)
 * [LZSA Duesseldorf](https://lzsa.de/)
-* 
+* [PSV Ennepe-Ruhr-Kreis 1970 e.V.](http://www.psv-sportakrobatik.de)
+* [SAV Luenen 05 e.V.](http://www.sav-luenen.de)
 
 
 #### Niedersachsen
 
 * [KTV Lingen e.V. / TV-Jahn Rheine e.V.](http://www.ktv-lingen.jimdo.com)
+* [MTV Ilten von 1896 e.V.](http://www.mtv-ilten.de)
+* [SG Schwarz-Weiß Oldenburg](http://www.sportakrobatik-oldenburg.de)
+* [OSC Damme](http://www.osc-damme.de)
 * 
 
 
@@ -113,6 +118,8 @@ Below we try to list all of these federations and how to contact them, as well a
 * [Doebelner SC 02/90 e.V.](http://www.doebelner-sc.de/)
 * [Krostitzer Sportverein e.V.](http://www.krostitzer-akrobaten.de)
 * [LSV Suedwest Leipzig](http://www.lsvsw.de)
+* [MSV Bautzen 04 e.V](http://www.msvbautzen04.de)
+* [SAV Gruenhain-Schwarzenberg e.V.](http://www.sav-schwarzenberg.de)
 * 
 
 
@@ -128,12 +135,12 @@ Below we try to list all of these federations and how to contact them, as well a
 * 
 
 
-
-
 #### Thüringen
 
 * SAC Suhl e.V.
 * [Moebisburger SV](http://www.akro-moebisburg.de)
+* [MTV 1860 Erfurt e.V.](https://mtverfurt.de/akrobatik/)
+* 
 
 
 
