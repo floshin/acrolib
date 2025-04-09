@@ -2,7 +2,7 @@
 
 ## Baden-Württemberg
 
-* DJK Wasseralfingen
+* [DJK Wasseralfingen](http://www.djkwasseralfingen.de/)
 * [TSV Huettlingen 1892 e.V.](http://www.tsv-huettlingen.de/)
 * [MTV Aalen](http://www.mtv-aalen.de)
 * [SKG Erbstetten e.V.](http://www.skg-erbstetten.de)
@@ -24,8 +24,8 @@
 
 ## Bayern
 
-* Coburger Turnerschaft 1861 e.V.
-* DJK Weiden
+* [Coburger Turnerschaft 1861 e.V.](http://www.coburger-turnerschaft.de/)
+* [DJK Weiden](http://www.djkweiden.de/)
 * [DJK-TSV Kersbach](http://www.djk-kersbach.de/)
 * [TSV 1860 Weissenburg e.V.](http://www.tsv1860weissenburg.de/)
 * [Sportakrobatik-Verein Augsburg-Hochzoll 1957 e.V.](http://www.sportakrobatik-augsburg.de)
@@ -36,7 +36,7 @@
 
 ## Berlin
 
-* BTV Olympia e.V.
+* [BTV Olympia e.V.](http://www.btv-olympia.de/)
 * [Turngemeinde in Berlin 1848 e.V.](http://www.tib1848ev.de/)
 * [TuS Hellersdorf 88](http://www.tus-hellersdorf.de/)
 * [SC Eintracht Berlin e.V.](http://www.akrobatiksternchen.de)
@@ -99,8 +99,8 @@
 
 ## Nordhrein-Westfalen
 
-* Burtscheider TV 1873 e.V.
-* DJK Oespel-Kley
+* [Burtscheider TV 1873 e.V.](http://www.btv-aachen.de/)
+* [DJK Oespel-Kley](http://www.djk.oespel-kley.de/)
 * [KSV 02 Guetersloh e.V.](https://ksv02-guetersloh.de/)
 * [KSV Kirchlinde 1926 e.V.](http://www.ksv-kirchlinde.de)
 * [LZSA Duesseldorf](https://lzsa.de/)
@@ -129,7 +129,7 @@
 
 ## Sachsen
 
-* BC Eintracht Leipzig 02 e.V.
+* [BC Eintracht Leipzig 02 e.V.](http://www.akrobatik-eintracht.de/)
 * [SC Riesa](http://www.sc-riesa.de/)
 * [AC Ottendorf-Okrilla e.V.](http://www.aco-sportakrobatik.de/)
 * [AC Taucha e.V.](http://www.sportakrobatik-taucha.de/)
