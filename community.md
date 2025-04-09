@@ -2,9 +2,9 @@
 
 The Acrobatic Gymnastics Community across the globe is organised in local Clubs or Acrobatic Schools. They are the germ cells organising the training, where Acrobatics is practiced and kept alive. 
 
-These Clubs and Schools are united in regional Unions, which organise regional competitions. The regional Unions are united in national Federations, which hold national competitions. Those again are united in continental Federations organising continental competitions. 
+These Clubs and Schools are united in regional Unions, which organise regional competitions. The regional Unions are united in national Federations, which hold national competitions. Those again are united in continental unions organising continental competitions. 
 
-Finally they are united in international federations, like the *International Gymnastics Federation*, the [*Fédération Internationale de Gymnastique*](https://www.gymnastics.sport/) (short FIG), which organises international competitions, courses and events, while the Technical Committee curates the Rules of the sports. 
+Finally they are organised in international federations, like the *International Gymnastics Federation*, the [*Fédération Internationale de Gymnastique*](https://www.gymnastics.sport/) (short FIG), which organises international competitions, courses and events, while the Technical Committee curates the Rules of the sports. 
 
 Below we try to list all of these federations and how to contact them, as well as all the local clubs. Please help us by adding your club and make it easy for local people to reach and join you.
 
@@ -15,10 +15,13 @@ Below we try to list all of these federations and how to contact them, as well a
 * [IAF: International Acro Foundation](https://www.acrofoundation.com/)
 
 
-## Continental Federations
+## Continental Unions
 
-* [European Gymnastics]
-* ...
+* [AGU: Asian Gymnastics Union](https://agu-gymnastics.com/)
+* [EG: European Gymnastics](https://www.europeangymnastics.com/)
+* OGU: Oceania Gymnastics Union
+* PAGU: Pan-American Gymnastic Union
+* UAG: African Gymnastics Union
 
 
 ## National Federations
@@ -26,12 +29,7 @@ Below we try to list all of these federations and how to contact them, as well a
 ...
 
 
-## Regional Unions
-
-...
-
-
-## Local Clubs & Schools
+## Local Clubs & Schools organised in Regional Unions
 
 * Australia
 * Austria
