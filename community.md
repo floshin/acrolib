@@ -19,14 +19,39 @@ Below we try to list all of these federations and how to contact them, as well a
 
 * [AGU: Asian Gymnastics Union](https://agu-gymnastics.com/)
 * [EG: European Gymnastics](https://www.europeangymnastics.com/)
-* OGU: Oceania Gymnastics Union
-* PAGU: Pan-American Gymnastic Union
-* UAG: African Gymnastics Union
+* [OGU: Oceania Gymnastics Union](https://www.oceaniagymnastics.org/)
+* [PAGU: Pan-American Gymnastic Union](https://upag-pagu.com/)
+* UAG: Union Africaine de Gymnastique
 
 
 ## National Federations
 
-...
+* Gymnastics Australia
+* Austrian Gymnastics Federation
+* Azerbaijan Gymnastics Federation
+* Sports Acrobatics Federation of Belarus
+* Fédération Royale Belge de Gymnastique
+* Brazilian Gymnastics Federation
+* Bulgarian Federation for Sports Acrobatics
+* GymDanmark
+* Fin?
+* Fédération Française de Gymnastique
+* Deutscher Sportakrobatik Bund e.V
+* British Gymnastics
+* Gymnastics Ireland Ltd.
+* Italy?
+* Japanese Gymnastics Federation
+* Kazakhstan?
+* Luxembourg?
+* Koninklijke Nederlandse Gymnastiek
+* Polski Zwiazek Gimnastyczny
+* Federação de Ginástica de Portugal
+* Russian Sports Acrobatics Federation
+* South African Gymnastics Federation
+* Real Federacìon Española de gimnasia
+* Switzerland?
+* Ukrainian FSA
+* USA Gymnastics
 
 
 ## Local Clubs & Schools organised in Regional Unions
