@@ -3,7 +3,6 @@
 Here we list and link all kinds of relevant projects that are not already linked in the Acro Community or Download sections.  
 
 
-
 ## Circus 
 
 * [esac: École Supérieure des Arts du Cirque](https://www.esac.be/en/ecole-2/presentation/)
@@ -11,4 +10,9 @@ Here we list and link all kinds of relevant projects that are not already linked
 * [fontys, Tilburg, NL, Circus and Performance Art](https://www.fontys.nl/en/Study-at-Fontys/Programmes/Circus-and-Performance-Art.htm)
 * Fedec: An international network for professional circus education: [https://www.fedec.eu/en/](https://www.fedec.eu/en/)
 * Circus Studies: [https://circusstudies.com/](https://circusstudies.com/)
-* 
+
+
+## Oldtime Strongmen
+
+* [Oldtime Strongman: The #1 Source For Oldtime Strongman Training Secrets](https://www.oldtimestrongman.com/)
+* [Strongman Project](https://www.strongmanproject.com/)
