@@ -43,6 +43,7 @@ Below we try to list all of these federations and how to contact them, as well a
 
 #### Berlin
 
+* BTV Olympia e.V.
 * Turngemeinde in Berlin 1848 e. V.
 * TuS Hellersdorf 88
 * 
@@ -57,14 +58,21 @@ Below we try to list all of these federations and how to contact them, as well a
 
 #### Hessen
 
+* Alternativer Tanzclub Bad Nauheim e.V.
 * SG Goetzenhain 1945 e.V.
 * TV 1844 Idstein e.V.
+* Varieté Voila
+* 
 
 
 #### Mecklenburg-Vorpommern
 
 * TAV Selmsdorf 2000 e.V.
 * 
+
+#### Nordhrein-Westfalen
+
+* Burtscheider TV 1873 e.V.
 
 
 
@@ -75,8 +83,12 @@ Below we try to list all of these federations and how to contact them, as well a
 
 #### Sachsen
 
+* BC Eintracht Leipzig 02 e.V.
 * SC Riesa
-* 
+* AC Ottendorf-Okrilla e.V.
+* AC Taucha e.V.
+* Akrobatik-Team Niesky e.V.
+
 
 
 #### Sachsen-Anhalt
