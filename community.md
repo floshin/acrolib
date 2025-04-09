@@ -56,6 +56,12 @@ Below we try to list all of these federations and how to contact them, as well a
 * [TSV Grafenau](http://www.tsv-grafenau.de/)
 * [TV Altenstadt e.V.](http://www.tvaltenstadt.de/)
 * TV Burgberg 1897 e.V (no link)
+* [TV Ebersbach e.V.](http://www.tv-ebersbach.de/)
+* [TV Moegglingen](http://www.tvm-online.de/)
+* [TV Uhingen](http://www.tv-uhingen.de/)
+* [VfL Sindelfingen](http://www.sportakrobatik.vfl-sindelfingen.de/)
+* 
+
 
 
 #### Berlin
@@ -106,6 +112,9 @@ Below we try to list all of these federations and how to contact them, as well a
 * [TG 1908 Lispenhausen e.V.](http://www.akrobatik-lispenhausen.npage.de/)
 * [Turnerschaft 1856 e.V. Frankfurt-Griesheim](http://www.ts-griesheim.de/)
 * [TV Babenhausen 1891 e.V.](http://www.tvbabenhausen.de/)
+* [TV Pohl-Goens 1905 e.V.](http://www.sportakrobatik-pohlgoens.de/)
+* Eintracht Frankfurt e.V.
+
 
 
 #### Mecklenburg-Vorpommern
@@ -113,6 +122,8 @@ Below we try to list all of these federations and how to contact them, as well a
 * TAV Selmsdorf 2000 e.V.
 * [TSG Wismar e.V.](http://www.tsg-wismar.de/)
 * [TSV Empor Goehren e.V.](http://www.sportakrobatik-ruegen.de/)
+* [VfL Schwerin e.V.](http://www.vfl-schwerin.de/)
+* 
 
 
 #### Nordhrein-Westfalen
@@ -127,6 +138,7 @@ Below we try to list all of these federations and how to contact them, as well a
 * [TG Neuss](http://www.tg-neuss.de/)
 * [TKV Oberforstbach 1896 e.V.](http://www.tkv-oberforstbach.de/)
 * [TuS Boenen 01 e.V.](https://www.tus-boenen.de/sportangebote/sportakrobatik/)
+* [Werler Turnverein e.V.](http://www.werler-tv.de/)
 * 
 
 
@@ -138,7 +150,7 @@ Below we try to list all of these federations and how to contact them, as well a
 * [SG Schwarz-Weiß Oldenburg](http://www.sportakrobatik-oldenburg.de)
 * [OSC Damme](http://www.osc-damme.de)
 * [TuS Blau-Weiss Lohne von 1894 e.V.](http://www.blau-weiss-lohne.de/)
-* 
+* [VfB Fallersleben e.V.](http://www.vfb-fallersleben.de/)
 
 
 #### Rheinland-Pfalz
@@ -164,7 +176,7 @@ Below we try to list all of these federations and how to contact them, as well a
 * [SC Hoyerswerda e.V.](http://www.sportclub-hoyerswerda.de)
 * [SV TUR Dresden e.V.](http://www.sv-tur.de/)
 * [Turn- und Gymnastikclub Leipzig e.V.](http://www.tug-leipzig.de/)
-* 
+* [VfA Motor Leipzig e.V.](http://www.vfa-leipzig.de/)
 
 
 #### Sachsen-Anhalt
@@ -180,6 +192,7 @@ Below we try to list all of these federations and how to contact them, as well a
 #### Schleswig-Holstein
 
 * [Moellner SV von 1862](http://www.till-sportakrobaten.de)
+* TSV Seedorf-Sterley
 * 
 
 
