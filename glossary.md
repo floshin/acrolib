@@ -387,17 +387,17 @@ Special thanks to Frosya, Vanya, Olya and our coach Galina Sinyavskaya.
 
 <style>
 
-ul { 
+main ul { 
   list-style: none;
   padding: 0.5em 0 1em;
 }
 
-ul li {
+main ul li {
   padding-left: 0.5em;
   padding-bottom: 0.4em;
 }
  
-ul li::first-line {
+main ul li::first-line {
   padding-left: -0.5em;
 }
 
