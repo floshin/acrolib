@@ -150,7 +150,7 @@ We divide the Acrobatic terms into the following categories according to the cat
 
 #### Motions
 
-* **Motion** is a change of position, going from one position to another. Motions are differentiated into *Base Motions* and *Top Motions*. An example for a base motion is to move from a standing position into a sitting position while holding the partner in a handstand. An example for a top motion is to move from a straight handstand into an arched handstand while standing on the hands of the base. In German a motion is called a "Verwandlung" (transformation). 
+* **Motion** is a change of position, going from one position to another. Motions are differentiated into *Base Motions* and *Top Motions*. An example for a base motion is to move from a standing position into a sitting position while holding the partner in a handstand. An example for a top motion is to move from a straight handstand into an arched handstand while standing on the hands of the base. In German a motion is called "Verwandlung" (transformation). 
 
 * **Base Motions** are changes of position of the base partner or partners while performing a partner element (e.g. while holding the top). There are douzens of base motions and many do not have any common term to describe them yet. I am suggesting the following terms:  
   * **Sit-Down**, getting from a standing position into a seated position.
@@ -164,13 +164,13 @@ We divide the Acrobatic terms into the following categories according to the cat
   * **180°** in the context of base motions is a motion performed with a 180° turn of the body. For instance: Standing, then turning to face the other direction while kneeling down, would be a *180° Kneel-Down*. 
   * **270°**, see 180°.
   * **360°**, see 180°. The 360° is most commonly done with a Sit-Down, resulting in a very complex motion of performing a full turn while sitting down, therefore called *360° Sit-Down*, which can be and is done in various styles in different acrobatic schools. I am distinguishing the following major techniques:
-     * Yaroslavl Style: This technique is used most famously by Aleksandr Kurennoi from the Yaroslavl School in Russia; first with his partner Anna Ivaseva, later with Anastasia Gorbatyuk. The major characteristic is that it is done through a wide and deep lunge without ever kneeling down, then as soon as possible straightening the front leg to move it into the seated position; the focus on the wide lunge and the straight lines makes it a very elegant style. 
-     * Gurgenide Style: ...
-     * Sinyavskaya Way: ...
-     * Israelian Style: ...
-  * **Roll-Down** is an advanced base motion only possible with the top held in one arm, which is a transition from standing or kneeling to lying through a forward roll, while keeping the balancing arm overhead, which requires extraordinary shoulder stability and strength. In its easiest forms it is done with the top held at the leg in a lying split or scorpion, which doesn't require much balance from the base; in its most extreme form it is done with the top in a one arm handstand, which requires tremendous balancing skill. While being hard, the opposite motion, the *Roll-Up*, is much harder to do.
-  * **Roll-Up**, a base motion from lying to kneeling and eventually standing (but one can also move to a different position after reaching the half-kneeling position, e.g. sliding into splits); it is basically a reversed *Roll-Down* and significantly more difficult. 
-  * **Turn-Around** is a motion in which the base holds the top in his hands in a lying position and turns around sideways either from *prone* to *supine* or from *supine* to *prone* (in other words: from belly to back or from back to belly), whereas in the prone position the arms are always bent, while in the supine position the arms can be bent or straight and have to be straightened to some degree during the motion.
+     * *Yaroslavl Style*: This technique is used most famously by Aleksandr Kurennoi from the Yaroslavl School in Russia; first with his partner Anna Ivaseva, later with Anastasia Gorbatyuk. The major characteristic is that it is done through a wide and deep lunge without ever kneeling down, then as soon as possible straightening the front leg to move it into the seated position; the focus on the wide lunge and the straight lines makes it a very elegant style. 
+     * *Gurgenidze Style*: ...
+     * *Sinyavskaya Way*: ...
+     * *Israelian Style*: ...
+  * **Roll-Down** is an advanced base motion only possible with the top held in one arm, which is a transition from standing or kneeling to lying through a forward roll, while keeping the balancing arm overhead, which requires extraordinary shoulder stability and strength. In its easiest forms it is done with the top held at the hips in a horizontally lying split or scorpion, which doesn't require much balance from the base; in its most extreme form it is done with the top in a 1on1 handstand, which requires tremendous balancing skill. While being hard, the opposite motion, the *Roll-Up*, is much harder to perform.
+  * **Roll-Up**, a base motion from lying to kneeling and eventually standing (although one can also move to a different position after reaching the half-kneeling position, e.g. sliding into splits); it is basically a reversed *Roll-Down* and significantly more difficult. 
+  * **Lying-Turn-Around** is a motion in which the base holds the top in his hands in a lying position and turns around sideways either from *prone* to *supine* or from *supine* to *prone* (in other words: from belly to back or from back to belly), whereas in the prone position the arms are always bent, while in the supine position the arms can be bent or straight and have to be straightened and bended to some degree during the motion.
   * 
 
 
