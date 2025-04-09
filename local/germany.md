@@ -1,9 +1,9 @@
-# German Clubs & Schools
+# Local Clubs & Schools in Germany
 
 ## Baden-Württemberg
 
 * DJK Wasseralfingen
-* TSV Huettlingen 1892 e.V.
+* [TSV Huettlingen 1892 e.V.](http://www.tsv-huettlingen.de/)
 * [MTV Aalen](http://www.mtv-aalen.de)
 * [SKG Erbstetten e.V.](http://www.skg-erbstetten.de)
 * [SV Aufhausen](http://www.sv-aufhausen.de)
@@ -27,7 +27,7 @@
 * Coburger Turnerschaft 1861 e.V.
 * DJK Weiden
 * [DJK-TSV Kersbach](http://www.djk-kersbach.de/)
-* TSV 1860 Weissenburg e.V.
+* [TSV 1860 Weissenburg e.V.](http://www.tsv1860weissenburg.de/)
 * [Sportakrobatik-Verein Augsburg-Hochzoll 1957 e.V.](http://www.sportakrobatik-augsburg.de)
 * [SV DJK Eggolsheim](http://www.sportakrobatik-kersbach.jimdo.com/)
 * [TSV 1862 Friedberg e.V.](http://www.tsv-friedberg.de/)
@@ -37,8 +37,8 @@
 ## Berlin
 
 * BTV Olympia e.V.
-* Turngemeinde in Berlin 1848 e. V.
-* TuS Hellersdorf 88
+* [Turngemeinde in Berlin 1848 e.V.](http://www.tib1848ev.de/)
+* [TuS Hellersdorf 88](http://www.tus-hellersdorf.de/)
 * [SC Eintracht Berlin e.V.](http://www.akrobatiksternchen.de)
 * [SV Lichtenberg 47 e.V.](http://www.lichtenberg47.de)
 * [TSV Spandau 1860 e.V.](http://www.tsv-spandau-1860.de/)
@@ -58,10 +58,10 @@
 
 ## Hessen
 
-* Alternativer Tanzclub Bad Nauheim e.V.
-* SG Goetzenhain 1945 e.V.
-* TV 1844 Idstein e.V.
-* Varieté Voila
+* [Alternativer Tanzclub Bad Nauheim e.V.](http://www.alternativer-tanzclub.de/)
+* [SG Goetzenhain 1945 e.V.](http://www.sggoetzenhain.de/)
+* [TV 1844 Idstein e.V.](http://www.sportakro.de/)
+* [Varieté Voila](http://www.varietevoila.de/)
 * [KSV Baunatal e.V.](http://www.sportakrobatik.ksv-baunatal.de)
 * [KSV Weiher 1969 e.V.](http://www.ksv-weiher.com)
 * [Sportgemeinschaft Arheilgen 1876/1945 e.V.](http://sg-arheilgen.de)
@@ -77,7 +77,7 @@
 
 ## Mecklenburg-Vorpommern
 
-* TAV Selmsdorf 2000 e.V.
+* [TAV Selmsdorf 2000 e.V.](http://www.selmsdorf-live.de/)
 * [TSG Wismar e.V.](http://www.tsg-wismar.de/)
 * [TSV Empor Goehren e.V.](http://www.sportakrobatik-ruegen.de/)
 * [VfL Schwerin e.V.](http://www.vfl-schwerin.de/)
@@ -86,6 +86,8 @@
 
 ## Niedersachsen
 
+* [TSR Olympia](http://www.tsr-ts-whv.de/)
+* [VfL Weisse Elf Nordhorn 1919 e.V.](http://www.vfl-weisse-elf.de/)
 * [KTV Lingen e.V. / TV-Jahn Rheine e.V.](http://www.ktv-lingen.jimdo.com)
 * [MTV Ilten von 1896 e.V.](http://www.mtv-ilten.de)
 * [SG Schwarz-Weiß Oldenburg](http://www.sportakrobatik-oldenburg.de)
@@ -118,7 +120,6 @@
 * [TV 1867 Bad Sobernheim e.V.](http://www.tv1867.de/)
 
 
-
 ## Saarland
 
 * Acro Saarlouis ([TV 1879 Saarlouis-Roden]((http://www.tv1879roden.de/))
@@ -129,10 +130,10 @@
 ## Sachsen
 
 * BC Eintracht Leipzig 02 e.V.
-* SC Riesa
-* AC Ottendorf-Okrilla e.V.
-* AC Taucha e.V.
-* Akrobatik-Team Niesky e.V.
+* [SC Riesa](http://www.sc-riesa.de/)
+* [AC Ottendorf-Okrilla e.V.](http://www.aco-sportakrobatik.de/)
+* [AC Taucha e.V.](http://www.sportakrobatik-taucha.de/)
+* [Akrobatik-Team Niesky e.V.](https://www.facebook.com/akrobatikteamniesky)
 * [Doebelner SC 02/90 e.V.](http://www.doebelner-sc.de/)
 * [Krostitzer Sportverein e.V.](http://www.krostitzer-akrobaten.de)
 * [LSV Suedwest Leipzig](http://www.lsvsw.de)
@@ -161,7 +162,7 @@
 
 ## Thüringen
 
-* SAC Suhl e.V.
+* [SAC Suhl e.V.](http://www.sac-suhl.de/)
 * [Moebisburger SV](http://www.akro-moebisburg.de)
 * [MTV 1860 Erfurt e.V.](https://mtverfurt.de/akrobatik/)
 * [SV Concordia Erfurt e.V.](http://www.sv-concordia.de)
