@@ -46,6 +46,8 @@ Below we try to list all of these federations and how to contact them, as well a
 * DJK Wasseralfingen
 * TSV Huettlingen 1892 e.V.
 * [MTV Aalen](http://www.mtv-aalen.de)
+* [SKG Erbstetten e.V.](http://www.skg-erbstetten.de)
+* 
 
 
 #### Berlin
@@ -53,6 +55,7 @@ Below we try to list all of these federations and how to contact them, as well a
 * BTV Olympia e.V.
 * Turngemeinde in Berlin 1848 e. V.
 * TuS Hellersdorf 88
+* [SC Eintracht Berlin e.V.](http://www.akrobatiksternchen.de)
 * 
 
 
@@ -63,7 +66,14 @@ Below we try to list all of these federations and how to contact them, as well a
 * DJK Weiden
 * [DJK-TSV Kersbach](http://www.djk-kersbach.de/)
 * TSV 1860 Weissenburg e.V.
+* [Sportakrobatik-Verein Augsburg-Hochzoll 1957 e.V.](http://www.sportakrobatik-augsburg.de)
 * 
+
+
+#### Brandenburg
+
+* [Sportfreunde Brandenburg 94 e.V.](http://www.sfb-94.de)
+
 
 
 #### Hessen
@@ -105,7 +115,8 @@ Below we try to list all of these federations and how to contact them, as well a
 
 #### Rheinland-Pfalz
 
-* ...
+* [Sport + Akrobatik 1999 e.V. Mainz-Laubenheim](http://www.sav-laubenheim.de)
+* 
 
 
 #### Sachsen
@@ -120,13 +131,15 @@ Below we try to list all of these federations and how to contact them, as well a
 * [LSV Suedwest Leipzig](http://www.lsvsw.de)
 * [MSV Bautzen 04 e.V](http://www.msvbautzen04.de)
 * [SAV Gruenhain-Schwarzenberg e.V.](http://www.sav-schwarzenberg.de)
+* [SC Hoyerswerda e.V.](http://www.sportclub-hoyerswerda.de)
 * 
 
 
 #### Sachsen-Anhalt
 
 * [Magdeburger SV 90 e.V.](http://www.msv90.de)
-* 
+* SC Magdeburg e.V. (no link)
+* [SG Einheit Halle e.V.](
 
 
 #### Schleswig-Holstein
