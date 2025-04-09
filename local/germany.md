@@ -8,13 +8,13 @@
 * [SKG Erbstetten e.V.](http://www.skg-erbstetten.de)
 * [SV Aufhausen](http://www.sv-aufhausen.de)
 * [SV Mergelstetten](http://svmergelstetten.de/)
-* [TSG Backnang Schwerathletik 1920 e.V.] (no link)
+* [TSG Backnang Schwerathletik 1920 e.V.](https://tsg-schwerathletik.de/)
 * [TSG Hofherrnweiler-Unterrombach 1899 e.V.](http://www.tsg-hofherrnweiler.de)
 * [TSGV Albershausen](http://www.der-akrobat.de/)
 * [TSV Dewangen 1957 e.V.](https://tsv-dewangen.de/abteilungen/akrobatik/)
 * [TSV Grafenau](http://www.tsv-grafenau.de/)
 * [TV Altenstadt e.V.](http://www.tvaltenstadt.de/)
-* TV Burgberg 1897 e.V (no link)
+* [TV Burgberg 1897 e.V.](http://www.tvburgberg.de/)
 * [TV Ebersbach e.V.](http://www.tv-ebersbach.de/)
 * [TV Moegglingen](http://www.tvm-online.de/)
 * [TV Uhingen](http://www.tv-uhingen.de/)
@@ -71,7 +71,7 @@
 * [Turnerschaft 1856 e.V. Frankfurt-Griesheim](http://www.ts-griesheim.de/)
 * [TV Babenhausen 1891 e.V.](http://www.tvbabenhausen.de/)
 * [TV Pohl-Goens 1905 e.V.](http://www.sportakrobatik-pohlgoens.de/)
-* Eintracht Frankfurt e.V.
+* [Eintracht Frankfurt e.V.](https://sportakrobatik.eintracht.de/)
 * [VfL Goldstein 1953 e.V.](http://www.vfl-goldstein.de/)
 
 
@@ -148,9 +148,9 @@
 ## Sachsen-Anhalt
 
 * [Magdeburger SV 90 e.V.](http://www.msv90.de)
-* SC Magdeburg e.V. (no link)
+* [SC Magdeburg e.V.](https://www.sc-magdeburg.de/turnen/akrobatik/)
 * [SG Einheit Halle e.V.]()
-* SV 1990 Sangerhausen e.V. (no link)
+* [SV 1990 Sangerhausen e.V.](https://www.instagram.com/sportakrobatensangerhausen?igsh=ZDNseWc0YzV6bXMw)
 * [SV Halle e.V.](http://www.sv-halle.de/)
 
 
