@@ -163,7 +163,9 @@ We divide the Acrobatic terms into the following categories according to the cat
   * **Lie-Down**, getting from a seated position into a lying position.
   * **Get-Up**, getting from a lying position into a standing position (e.g. as done in a Turkish-Get-up).
   * **Torch-Up**, is a motion when lying in ??? (lying on the back, legs up slightly straddled) and pushing oneself up into a Torch position.
-  * **Torch-Down**, opposite motion of the *Torch-Up*, when lowering from a Torch into a position lying on the back while keeping the legs vertical. 
+  * **Torch-Down**, opposite motion of the *Torch-Up*, when lowering from a Torch into a position lying on the back while keeping the legs vertical.
+  * **Plough-Down**, is a move from *Torch* to *Plough*, by lowering the legs from a vertical position in the *Torch* down to the floor into the diagonally downward position of the *Plough*.
+  * **Plough-Over**, is a motion from lying on the back into the *Plough* position by lifting the legs over ones body towards the floor. 
   * **Split-Slide**, sliding from a standing position into a frontal splits (*Front Split Slide*) or side splits (*Side Split Slide*).
   * **180°** in the context of base motions is a motion performed with a 180° turn of the body. For instance: Standing, then turning to face the other direction while kneeling down, would be a *180° Kneel-Down*. 
   * **270°**, see 180°.
