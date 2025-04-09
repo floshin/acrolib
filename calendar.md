@@ -113,7 +113,7 @@ How to contribute? It is very easy to contribute. Just add your own competition 
 ...
 
 
-## Upcoming Regional Events
+## Upcoming Inter-Regional Events
 
 ...
 
