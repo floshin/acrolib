@@ -31,6 +31,18 @@ Below we try to list all of these federations and how to contact them, as well a
 
 ## Local Clubs & Schools
 
+Australia Austria Azerbaijan  
+Belarus Belgium  
+Finland France   
+[Germany] Great Britain  
+Ireland Italy  
+Khazakhstan  
+Poland  
+Russia  
+Ukraine  
+   
+
+
 
 ### Germany
 
