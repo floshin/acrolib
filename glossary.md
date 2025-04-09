@@ -389,10 +389,16 @@ Special thanks to Frosya, Vanya, Olya and our coach Galina Sinyavskaya.
 
 ul { 
   list-style: none;
+  padding: 0.5em 0 1em;
 }
-   
+
+ul li {
+  padding-left: 0.5em;
+  padding-bottom: 0.4em;
+}
+ 
 ul li::first-line {
-     padding-left: -0.5em;
-   }
-   
+  padding-left: -0.5em;
+}
+
 </style>
