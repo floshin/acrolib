@@ -34,22 +34,23 @@ Below we try to list all of these federations and how to contact them, as well a
 * Brazilian Gymnastics Federation
 * Bulgarian Federation for Sports Acrobatics
 * GymDanmark
-* Fin?
+* Finland: [Suomen Voimisteluliitto](https://www.voimistelu.fi/)
 * Fédération Française de Gymnastique
-* Deutscher Sportakrobatik Bund e.V
+* Deutscher Sportakrobatik Bund e.V.
+* Greece?
 * British Gymnastics
 * Gymnastics Ireland Ltd.
-* Italy?
+* [Federazione Ginnastica d’Italia](https://www.federginnastica.it/)
 * Japanese Gymnastics Federation
 * Kazakhstan?
-* Luxembourg?
 * Koninklijke Nederlandse Gymnastiek
 * Polski Zwiazek Gimnastyczny
 * Federação de Ginástica de Portugal
+* Romania: [Federatia romana de gimnastica](https://frgimnastica.com/general-pages/istoria-gimnasticii)
 * Russian Sports Acrobatics Federation
 * South African Gymnastics Federation
 * Real Federacìon Española de gimnasia
-* Switzerland?
+* [Schweizerischer Verband Akrobatikturnen](https://acrosuisse.ch/)
 * Ukrainian FSA
 * USA Gymnastics
 
@@ -67,6 +68,7 @@ Below we try to list all of these federations and how to contact them, as well a
 * Finland
 * France
 * [Germany](local/germany)
+* Greece
 * Great Britain
 * Ireland
 * Italy
@@ -76,6 +78,7 @@ Below we try to list all of these federations and how to contact them, as well a
 * Netherlands
 * Poland
 * Portugal
+* Romania
 * Russia
 * South Africa
 * Spain
