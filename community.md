@@ -37,6 +37,7 @@ Below we try to list all of these federations and how to contact them, as well a
 
 #### Baden-Württemberg
 
+* DJK Wasseralfingen
 * TSV Huettlingen 1892 e.V.
 * 
 
@@ -52,6 +53,9 @@ Below we try to list all of these federations and how to contact them, as well a
 
 #### Bayern
 
+* Coburger Turnerschaft 1861 e.V.
+* DJK Weiden
+* DJK-TSV Kersbach
 * TSV 1860 Weissenburg e.V.
 * 
 
@@ -73,6 +77,8 @@ Below we try to list all of these federations and how to contact them, as well a
 #### Nordhrein-Westfalen
 
 * Burtscheider TV 1873 e.V.
+* DJK Oespel-Kley
+* 
 
 
 
