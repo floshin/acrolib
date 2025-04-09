@@ -1,12 +1,5 @@
 # German Clubs & Schools
 
-## Saarland
-
-* Acro Saarlouis ([TV 1879 Saarlouis-Roden]((http://www.tv1879roden.de/))
-* Sportakrobatik Schwalbach-Griesborn e.V.
-* [TB St. Johann von 1847 e.V. Saarbruecken](https://www.tbs-saarbruecken.de)
-
-
 ## Baden-Württemberg
 
 * DJK Wasseralfingen
@@ -29,17 +22,6 @@
 * [FC Röhlingen 1948 e.V.](https://www.fc-roehlingen.de/index.php/showakrobatik/goldies)
 
 
-## Berlin
-
-* BTV Olympia e.V.
-* Turngemeinde in Berlin 1848 e. V.
-* TuS Hellersdorf 88
-* [SC Eintracht Berlin e.V.](http://www.akrobatiksternchen.de)
-* [SV Lichtenberg 47 e.V.](http://www.lichtenberg47.de)
-* [TSV Spandau 1860 e.V.](http://www.tsv-spandau-1860.de/)
-* [TuS Hohenschoenhausen 1990 e.V.](http://www.akrobatikmaeuse.de/)
-
-
 ## Bayern
 
 * Coburger Turnerschaft 1861 e.V.
@@ -52,10 +34,26 @@
 * [Turnverein Dettingen 1901 e.V.](http://www.tvdettingen.de/)
 
 
+## Berlin
+
+* BTV Olympia e.V.
+* Turngemeinde in Berlin 1848 e. V.
+* TuS Hellersdorf 88
+* [SC Eintracht Berlin e.V.](http://www.akrobatiksternchen.de)
+* [SV Lichtenberg 47 e.V.](http://www.lichtenberg47.de)
+* [TSV Spandau 1860 e.V.](http://www.tsv-spandau-1860.de/)
+* [TuS Hohenschoenhausen 1990 e.V.](http://www.akrobatikmaeuse.de/)
+
+
 ## Brandenburg
 
 * [Sportfreunde Brandenburg 94 e.V.](http://www.sfb-94.de)
 * [SV Motor Babelsberg e.V.](http://www.sportakrobaten-potsdam.de/)
+
+
+## Hamburg
+
+* [Sportakrobatikverein Hamburg e.V.](https://www.sportakrobatik-verein-hamburg.de/)
 
 
 ## Hessen
@@ -86,6 +84,17 @@
 * [SV Warnemünde 1949 e.V.](https://svwarnemuende.de/sportakrobatik/)
 
 
+## Niedersachsen
+
+* [KTV Lingen e.V. / TV-Jahn Rheine e.V.](http://www.ktv-lingen.jimdo.com)
+* [MTV Ilten von 1896 e.V.](http://www.mtv-ilten.de)
+* [SG Schwarz-Weiß Oldenburg](http://www.sportakrobatik-oldenburg.de)
+* [OSC Damme](http://www.osc-damme.de)
+* [TuS Blau-Weiss Lohne von 1894 e.V.](http://www.blau-weiss-lohne.de/)
+* [VfB Fallersleben e.V.](http://www.vfb-fallersleben.de/)
+* [MTV Pattensen e.V.](https://www.mtv-pattensen.de/)
+
+
 ## Nordhrein-Westfalen
 
 * Burtscheider TV 1873 e.V.
@@ -102,27 +111,19 @@
 * [Turngemeinde Ennigloh von 1887 e.V.](http://www.tg-ennigloh.de/)
 
 
-## Hamburg
-
-* [Sportakrobatikverein Hamburg e.V.](https://www.sportakrobatik-verein-hamburg.de/)
-
-
-## Niedersachsen
-
-* [KTV Lingen e.V. / TV-Jahn Rheine e.V.](http://www.ktv-lingen.jimdo.com)
-* [MTV Ilten von 1896 e.V.](http://www.mtv-ilten.de)
-* [SG Schwarz-Weiß Oldenburg](http://www.sportakrobatik-oldenburg.de)
-* [OSC Damme](http://www.osc-damme.de)
-* [TuS Blau-Weiss Lohne von 1894 e.V.](http://www.blau-weiss-lohne.de/)
-* [VfB Fallersleben e.V.](http://www.vfb-fallersleben.de/)
-* [MTV Pattensen e.V.](https://www.mtv-pattensen.de/)
-
-
 ## Rheinland-Pfalz
 
 * [Sport + Akrobatik 1999 e.V. Mainz-Laubenheim](http://www.sav-laubenheim.de)
 * [TuS 1848 Ober-Ingelheim e.V.](http://www.tus-ober-ingelheim.de/)
 * [TV 1867 Bad Sobernheim e.V.](http://www.tv1867.de/)
+
+
+
+## Saarland
+
+* Acro Saarlouis ([TV 1879 Saarlouis-Roden]((http://www.tv1879roden.de/))
+* Sportakrobatik Schwalbach-Griesborn e.V.
+* [TB St. Johann von 1847 e.V. Saarbruecken](https://www.tbs-saarbruecken.de)
 
 
 ## Sachsen
