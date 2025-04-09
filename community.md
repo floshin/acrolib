@@ -51,6 +51,9 @@ Below we try to list all of these federations and how to contact them, as well a
 * [SV Mergelstetten](http://svmergelstetten.de/)
 * [TSG Backnang Schwerathletik 1920 e.V.] (no link)
 * [TSG Hofherrnweiler-Unterrombach 1899 e.V.](http://www.tsg-hofherrnweiler.de)
+* [TSGV Albershausen](http://www.der-akrobat.de/)
+* [TSV Dewangen 1957 e.V.](https://tsv-dewangen.de/abteilungen/akrobatik/)
+* [TSV Grafenau](http://www.tsv-grafenau.de/)
 * 
 
 
@@ -61,6 +64,7 @@ Below we try to list all of these federations and how to contact them, as well a
 * TuS Hellersdorf 88
 * [SC Eintracht Berlin e.V.](http://www.akrobatiksternchen.de)
 * [SV Lichtenberg 47 e.V.](http://www.lichtenberg47.de)
+* [TSV Spandau 1860 e.V.](http://www.tsv-spandau-1860.de/)
 * 
 
 
@@ -73,6 +77,7 @@ Below we try to list all of these federations and how to contact them, as well a
 * TSV 1860 Weissenburg e.V.
 * [Sportakrobatik-Verein Augsburg-Hochzoll 1957 e.V.](http://www.sportakrobatik-augsburg.de)
 * [SV DJK Eggolsheim](http://www.sportakrobatik-kersbach.jimdo.com/)
+* [TSV 1862 Friedberg e.V.](http://www.tsv-friedberg.de/)
 * 
 
 
@@ -96,6 +101,7 @@ Below we try to list all of these federations and how to contact them, as well a
 * [SVG Nieder-Liebersbach e.V.](http://www.svg-sportakrobatik.de/)
 * [SVH Kassel 45 e.V.](http://www.sportakrobatik-svhkassel.de/)
 * [TG 1908 Lispenhausen e.V.](http://www.akrobatik-lispenhausen.npage.de/)
+* [Turnerschaft 1856 e.V. Frankfurt-Griesheim](http://www.ts-griesheim.de/)
 * 
 
 
@@ -103,6 +109,7 @@ Below we try to list all of these federations and how to contact them, as well a
 
 * TAV Selmsdorf 2000 e.V.
 * [TSG Wismar e.V.](http://www.tsg-wismar.de/)
+* [TSV Empor Goehren e.V.](http://www.sportakrobatik-ruegen.de/)
 
 
 #### Nordhrein-Westfalen
@@ -149,6 +156,7 @@ Below we try to list all of these federations and how to contact them, as well a
 * [SAV Gruenhain-Schwarzenberg e.V.](http://www.sav-schwarzenberg.de)
 * [SC Hoyerswerda e.V.](http://www.sportclub-hoyerswerda.de)
 * [SV TUR Dresden e.V.](http://www.sv-tur.de/)
+* [Turn- und Gymnastikclub Leipzig e.V.](http://www.tug-leipzig.de/)
 * 
 
 
@@ -175,6 +183,7 @@ Below we try to list all of these federations and how to contact them, as well a
 * [MTV 1860 Erfurt e.V.](https://mtverfurt.de/akrobatik/)
 * [SV Concordia Erfurt e.V.](http://www.sv-concordia.de)
 * [SV Motor Arnstadt](http://www.sport-akrobatik.de/)
+* [TSV Motor Gispersleben](http://www.gispi-sport.de/)
 * 
 
 
