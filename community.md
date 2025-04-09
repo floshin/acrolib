@@ -47,7 +47,7 @@ Below we try to list all of these federations and how to contact them, as well a
 * TSV Huettlingen 1892 e.V.
 * [MTV Aalen](http://www.mtv-aalen.de)
 * [SKG Erbstetten e.V.](http://www.skg-erbstetten.de)
-* 
+* [SV Aufhausen](http://www.sv-aufhausen.de)
 
 
 #### Berlin
@@ -84,6 +84,7 @@ Below we try to list all of these federations and how to contact them, as well a
 * Varieté Voila
 * [KSV Baunatal e.V.](http://www.sportakrobatik.ksv-baunatal.de)
 * [KSV Weiher 1969 e.V.](http://www.ksv-weiher.com)
+* [Sportgemeinschaft Arheilgen 1876/1945 e.V.](http://sg-arheilgen.de)
 * 
 
 
@@ -139,7 +140,8 @@ Below we try to list all of these federations and how to contact them, as well a
 
 * [Magdeburger SV 90 e.V.](http://www.msv90.de)
 * SC Magdeburg e.V. (no link)
-* [SG Einheit Halle e.V.](
+* [SG Einheit Halle e.V.]()
+* SV 1990 Sangerhausen e.V. (no link)
 
 
 #### Schleswig-Holstein
