@@ -26,33 +26,33 @@ Below we try to list all of these federations and how to contact them, as well a
 
 ## National Federations
 
-* Gymnastics Australia
-* Austrian Gymnastics Federation
-* Azerbaijan Gymnastics Federation
+* [Gymnastics Australia[(http://www.gymnastics.org.au/)
+* [Austrian Gymnastics Federation](http://www.oeft.at/)
+* [Azerbaijan Gymnastics Federation](https://agf.az/en/)
 * Sports Acrobatics Federation of Belarus
-* Fédération Royale Belge de Gymnastique
-* Brazilian Gymnastics Federation
-* Bulgarian Federation for Sports Acrobatics
-* GymDanmark
+* [Fédération Royale Belge de Gymnastique](http://www.ffgym.be/)
+* [Brazilian Gymnastics Federation](http://www.cbginastica.com.br/)
+* [Bulgarian Federation for Sports Acrobatics](http://www.bfsa-bg.com/)
+* [GymDanmark](http://www.gymdanmark.dk/)
 * Finland: [Suomen Voimisteluliitto](https://www.voimistelu.fi/)
-* Fédération Française de Gymnastique
-* Deutscher Sportakrobatik Bund e.V.
+* [Fédération Française de Gymnastique](http://www.ffgym.com/)
+* [Deutscher Sportakrobatik Bund e.V.](http://www.sportakrobatikbund.de/)
 * Greece: [Ελληνική Γυμναστική Ομοσπονδία](https://www.ego-gymnastics.gr/)
-* British Gymnastics
-* Gymnastics Ireland Ltd.
+* [British Gymnastics](http://www.british-gymnastics.org/)
+* [Gymnastics Ireland Ltd.](http://www.gymnasticsireland.com/)
 * [Federazione Ginnastica d’Italia](https://www.federginnastica.it/)
-* Japanese Gymnastics Federation
+* [Japanese Gymnastics Federation](http://www.jpn-gym.or.jp/)
 * Kazakhstan?
-* Koninklijke Nederlandse Gymnastiek
-* Polski Zwiazek Gimnastyczny
-* Federação de Ginástica de Portugal
+* [Koninklijke Nederlandse Gymnastiek](http://www.kngu.nl/)
+* [Polski Zwiazek Gimnastyczny](http://www.pzg.pl/)
+* [Federação de Ginástica de Portugal](http://www.fgp-ginastica.pt/)
 * Romania: [Federatia romana de gimnastica](https://frgimnastica.com/general-pages/istoria-gimnasticii)
-* Russian Sports Acrobatics Federation
-* South African Gymnastics Federation
-* Real Federacìon Española de gimnasia
+* [Russian Sports Acrobatics Federation](http://www.acrobatica-russia.ru/)
+* [South African Gymnastics Federation](http://www.gymnastics.co.za/)
+* [Real Federacìon Española de gimnasia](http://www.rfegimnasia.es/)
 * [Schweizerischer Verband Akrobatikturnen](https://acrosuisse.ch/)
-* Ukrainian FSA
-* USA Gymnastics
+* [Ukrainian FSA](http://www.acrobatic.com.ua/)
+* [USA Gymnastics](http://www.usagym.org/acro)
 
 
 ## Local Clubs & Schools organised in Regional Unions
