@@ -72,6 +72,8 @@ Below we try to list all of these federations and how to contact them, as well a
 * SG Goetzenhain 1945 e.V.
 * TV 1844 Idstein e.V.
 * Varieté Voila
+* [KSV Baunatal e.V.](http://www.sportakrobatik.ksv-baunatal.de)
+* [KSV Weiher 1969 e.V.](http://www.ksv-weiher.com)
 * 
 
 
@@ -85,7 +87,15 @@ Below we try to list all of these federations and how to contact them, as well a
 * Burtscheider TV 1873 e.V.
 * DJK Oespel-Kley
 * [KSV 02 Guetersloh e.V.](https://ksv02-guetersloh.de/)
+* [KSV Kirchlinde 1926 e.V.](http://www.ksv-kirchlinde.de)
+* [LZSA Duesseldorf](https://lzsa.de/)
+* 
 
+
+#### Niedersachsen
+
+* [KTV Lingen e.V. / TV-Jahn Rheine e.V.](http://www.ktv-lingen.jimdo.com)
+* 
 
 
 #### Rheinland-Pfalz
@@ -102,15 +112,28 @@ Below we try to list all of these federations and how to contact them, as well a
 * Akrobatik-Team Niesky e.V.
 * [Doebelner SC 02/90 e.V.](http://www.doebelner-sc.de/)
 * [Krostitzer Sportverein e.V.](http://www.krostitzer-akrobaten.de)
+* [LSV Suedwest Leipzig](http://www.lsvsw.de)
+* 
 
 
 #### Sachsen-Anhalt
+
+* [Magdeburger SV 90 e.V.](http://www.msv90.de)
+* 
+
+
+#### Schleswig-Holstein
+
+* [Moellner SV von 1862](http://www.till-sportakrobaten.de)
+* 
+
+
 
 
 #### Thüringen
 
 * SAC Suhl e.V.
-* 
+* [Moebisburger SV](http://www.akro-moebisburg.de)
 
 
 
