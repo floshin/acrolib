@@ -76,6 +76,7 @@ International Library of Acrobatic Gymnastics
       color: light-dark(black, var(--light));
       margin-bottom: 1px;
       padding-left: 20px;
+      height: 80px;
     }
 
     .news span {
@@ -97,18 +98,19 @@ International Library of Acrobatic Gymnastics
       margin: 0 -10px;
     }
     .news li, .events li {
-      border: 1px solid;
       display: flex;
       align-items: center;
     }
 
     .events li {
+      border: 1px solid;
       margin-bottom: -1px;
       text-transform: uppercase;
       height: 60px;
     }
 
     .news li {
+      flex-direction: column;
       justify-content: space-between;
     }
   
