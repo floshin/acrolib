@@ -4,7 +4,7 @@
 
 <style>
   h1 {
-    font-size: 50vw;
+    font-size: 25vw;
     text-align: center;
     padding-bottom: 0;
     padding-top: 0;
