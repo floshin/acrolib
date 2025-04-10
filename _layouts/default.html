@@ -75,6 +75,8 @@
   --darker: #121212;
   --light: #dddddd;
   --highlight: #D88388;
+  --nav-bg-light: #F0F0F0;
+  --footer-bg-light: #FAFAFA;
 }
 
 header {
@@ -108,7 +110,7 @@ nav a:hover {
   }
     
 nav ul li {
-  background: light-dark(var(--light), var(--dark));
+  background: light-dark(var(--nav-bg-light), var(--dark));
   color: light-dark(black, var(--light));
 }
     nav ul li::first-child a {
@@ -182,15 +184,16 @@ table {
       border: 1px solid;
       padding: 0.5em
     }
-
-
+    
 footer {
   display: flex;
-  border-top: 1px solid;
   justify-content: space-between;
   font-size: 14px;
   margin-top: 50px;
   padding: 10px;
+
+  background: light-dark(var(--footer-bg-light), var(--dark));
+  color: light-dark(black, var(--light));
 }
    footer ul {
      list-style: none;
