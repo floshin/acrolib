@@ -138,4 +138,8 @@ International Library of Acrobatic Gymnastics
     padding-bottom: 0;
   }
 
+  footer p {
+    text-align: initial;
+  }
+
 </style>
