@@ -47,7 +47,7 @@ We are also open to list circus schools as well as acro festivals, but they must
 * Finland: [Suomen Voimisteluliitto](https://www.voimistelu.fi/)
 * France: [Fédération Française de Gymnastique](http://www.ffgym.com/)
 * Georgia: [Gymnastics Federation of Georgia](https://www.uggf.ge/)
-* Germany: [DSAB: Deutscher Sportakrobatik Bund e.V.](http://www.sportakrobatikbund.de/)
+* Germany: [DSAB: Deutscher Sportakrobatik Bund](http://www.sportakrobatikbund.de/)
 * Greece: [Ελληνική Γυμναστική Ομοσπονδία](https://www.ego-gymnastics.gr/)
 * Great Britain: [BG: British Gymnastics](http://www.british-gymnastics.org/)
 * Hungary: [Magyar Torna Szövetség](https://matsz.hu/)
