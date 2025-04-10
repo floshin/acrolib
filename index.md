@@ -39,7 +39,7 @@ International Library of Acrobatic Gymnastics
   img {
     /* background: var(--light); */
     border: 1px solid;
-    filter: grayscale(90%);
+    filter: grayscale(100%);
   }
 
   .h2-index {
