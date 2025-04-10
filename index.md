@@ -81,6 +81,7 @@ International Library of Acrobatic Gymnastics
     .news span {
       text-align: right;
       font-size: 14px;
+      padding-right: 15px;
     }
   
   .events {
