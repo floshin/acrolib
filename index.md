@@ -57,7 +57,6 @@ International Library of Acrobatic Gymnastics
 
   .h2-news {
     font-size: 16px;
-    padding: 0 30px;
     margin-top: 50px;
     font-weight: normal;
   }
@@ -74,7 +73,7 @@ International Library of Acrobatic Gymnastics
     .news li {
       background: light-dark(grey, #212121);
       color: light-dark(black, var(--light));
-      margin-bottom: 1px;
+      margin-bottom: 5px;
       padding-left: 20px;
       height: 80px;
       font-size: 20px;
