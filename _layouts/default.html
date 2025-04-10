@@ -55,16 +55,10 @@
       <p>Support us</p>
       <p>fsocial</p>
 
-
       <hr>
-      <p>
+      <p class="copyright">
         © 2025 Flosha
       </p>
-      <ul>
-        <li><a href="/">AcroLib</a></li>
-        <li><a href="https://siny.online">SinY</a></li>
-        <li><a href="https://www.gymnastics.sport/site/discipline.php?disc=10">FIG</a></li>
-      </ul>    
     </footer>
 </html>
 
@@ -194,14 +188,18 @@ table {
     
 footer {
   display: flex;
-  justify-content: space-between;
-  font-size: 14px;
+  flex-direction: column;
   margin-top: 50px;
   padding: 10px;
 
   background: light-dark(var(--footer-bg-light), var(--dark));
   color: light-dark(black, var(--light));
 }
+
+    footer .copyright {
+      font-size: 14px;
+    }
+    
    footer ul {
      list-style: none;
      display: flex;
