@@ -2,9 +2,9 @@
 
 <!--![acrolib-logo](assets/acrolib-logo.png)-->
 
-International Library of Acrobatic Gymnastics
-
 ![acrolib-splash](assets/Reading-Acrobats-Refined-Colorised.png)
+
+International Library of Acrobatic Gymnastics
 
 <h2 class="h2-events">Events</h2>
 <ul class="events">
@@ -19,6 +19,7 @@ International Library of Acrobatic Gymnastics
     padding-bottom: 0;
     padding-top: 0;
     margin: 0;
+    margin-bottom: -50px;
   }
 
   p {
