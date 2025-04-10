@@ -14,7 +14,7 @@ International Library of Acrobatic Gymnastics
 
 <style>
   h1 {
-    font-size: 25vw;
+    font-size: 120px;
     text-align: center;
     padding-bottom: 0;
     padding-top: 0;
@@ -33,7 +33,7 @@ International Library of Acrobatic Gymnastics
   .h2-events {
     background: #b58384;
     padding: 20px;
-    margin-bottom: -10px;
+    margin: 50px 0 -10px;
     display: inline-block;
     color: black;
     font-weight: normal;
