@@ -85,7 +85,7 @@
 }
 
 header {
- /* background: var(--dark); */
+  background: var(--dark);
   width: 100%;
   top: 0; 
 }
@@ -115,10 +115,10 @@ nav ul li {
   background: light-dark(var(--nav-bg-light), var(--dark));
   color: light-dark(black, var(--light));
 }
-    nav ul li::first-child a {
-      color: #D88388;
+    nav ul li:first-child {
+      color: var(--highlight);
     }
-    
+
 body {
   color: light-dark(var(--dark), var(--light));
   background-color: light-dark(white, var(--darker));
