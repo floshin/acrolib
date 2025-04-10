@@ -85,7 +85,7 @@ International Library of Acrobatic Gymnastics
   
   .events {
     background: var(--highlight);
-    color: black;
+    color: white;
     list-style: none;
     padding: 20px;
     margin: 0 -10px;
