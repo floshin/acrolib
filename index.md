@@ -6,7 +6,13 @@
 
 International Library of Acrobatic Gymnastics
 
-<h2 class="h2-events">Events</h2>
+<h2 class="h2-index">Initiatives</h2>
+<ul class="news">
+  <li>Revive Recreational Acrobatics</li>
+  <li>Extra Points for Extra Strength</li>
+</ul>
+
+<h2 class="h2-index">Events</h2>
 <ul class="events">
   <li><div class="date"><time>16-20 <br> APR</time></div> <div><span>Luxembourg</span> <br> European Championships 2025</div></li>
   <li><div class="date"><time>07-17 <br> AUG</time></div> <div><span>Chengdu, China</span> <br> World Games 2025</div></li>
@@ -31,10 +37,11 @@ International Library of Acrobatic Gymnastics
   }
 
   img {
-    background: var(--light);
+    /* background: var(--light); */
+    border: 1px solid;
   }
 
-  .h2-events {
+  .h2-index {
     background: #b58384;
     padding: 15px;
     font-size: 16px;
@@ -42,6 +49,14 @@ International Library of Acrobatic Gymnastics
     display: inline-block;
     color: black;
     font-weight: normal;
+  }
+
+  .news {
+    background: var(--nav-light-bg);
+    color: black;
+    list-style: none;
+    padding: 20px;
+    margin: 0 -10px;
   }
   
   .events {
@@ -56,7 +71,7 @@ International Library of Acrobatic Gymnastics
       padding: 10px;
       margin: 0 -10px;
     }
-    .events li {
+    .news li, .events li {
       border: 1px solid;
       text-transform: uppercase;
       height: 60px;
