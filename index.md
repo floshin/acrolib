@@ -6,8 +6,7 @@ International Library of Acrobatic Gymnastics
 ![acrolib-splash](assets/Reading-Acrobats-Refined-Colorised.png)
 {: .invert }-->
 
-## Events
-
+<h2 class="h2-events">Events</h2>
 <ul class="events">
   <li><time>16-20 <br> APR</time> <span>Luxembourg</span> <br> European Championships 2025</li>
   <li><time>07-17 <br> AUG</time> <span>Chengdu, China</span> <br> World Games 2025</li>
@@ -31,12 +30,15 @@ International Library of Acrobatic Gymnastics
     display: none;
   }
 
-  h2 {
-    background: #be8284;
+  .h2-events {
+    background: #b58384;
     padding: 20px;
     margin-bottom: -10px;
+    display: inline-block;
+    color: black;
+    font-weight: normal;
   }
-
+  
   .events {
     background: var(--highlight);
     color: black;
