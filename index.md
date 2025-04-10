@@ -4,6 +4,10 @@
 
 <style>
   h1 {
-    font-size: 35px;
+    font-size: 45px;
+  }
+
+  .up {
+    display: none;
   }
 </style>
