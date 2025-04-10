@@ -127,13 +127,13 @@ We divide the Acrobatic terms into the following categories according to the cat
 #### Footstands
 
 * **Footstand**
-* Category A: Regular Footstand
-* Category B: Standing Backbends/Arch
-* Category C: One footed Stands
-* Category D: Scorpions
-* Category E: Standing Splits
-* Category F: Needles
-* Categorg G: One footed Backbends/Arches
+* A: Regular Footstand
+* B: Standing Backbends/Arch
+* C: One footed Stands
+* D: Scorpions
+* E: Standing Splits
+* F: Needles
+* G: One footed Backbends/Arches
 
 
 #### Base Positions
@@ -180,6 +180,9 @@ We divide the Acrobatic terms into the following categories according to the cat
   * **Roll-Down** is an advanced base motion only possible with the top held in one arm, which is a transition from standing or kneeling to lying through a forward roll, while keeping the balancing arm overhead, which requires extraordinary shoulder stability and strength. In its easiest forms it is done with the top held at the hips in a horizontally lying split or scorpion, which doesn't require much balance from the base; in its most extreme form it is done with the top in a 1on1 handstand, which requires tremendous balancing skill. While being hard, the opposite motion, the *Roll-Up*, is much harder to perform.
   * **Roll-Up**, a base motion from lying to kneeling and eventually standing (although one can also move to a different position after reaching the half-kneeling position, e.g. sliding into splits); it is basically a reversed *Roll-Down* and significantly more difficult. 
   * **Lying-Turn-Around** is a motion in which the base holds the top in his hands in a lying position and turns around sideways either from *prone* to *supine* or from *supine* to *prone* (in other words: from belly to back or from back to belly), whereas in the prone position the arms are always bent, while in the supine position the arms can be bent or straight and have to be straightened and bended to some degree during the motion.
+  * **Standing Bend-Back** is a motion from standing into a backbended position. We call it "Bend-Back" and not "Backbend" to lay focus on the process of bending back (not all the way down, as which the Backbend is defined, as the motion from Standing into Bridge). 
+  * **Kneeling Bend-Back** is a motion from kneeling into a backbend position on the knees. 
+  * 
 
 * **Base Motions** (Groups) are motions of one or more base and middle partners of a group while holding an element (e.g. a motion of the middle in a pyramid while holding the top in a handstand). Base motions may be performed by one of the partners, by two partners in succession or by two or even three partners simultaneously. I am suggesting the following terms:
   * ...
