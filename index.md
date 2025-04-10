@@ -1,5 +1,7 @@
 # AcroLib
 
+International Library of Acrobatic Gymnastics.
+
 ![acrolib-splash](assets/Reading-Acrobats-Refined-Colorised.png)
 
 <style>
@@ -9,7 +11,7 @@
     padding-bottom: 0;
     padding-top: 0;
     margin: 0;
-    margin-bottom: -200px;
+    margin-bottom: -20px;
   }
 
   .up {
