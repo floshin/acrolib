@@ -74,6 +74,7 @@
   --dark: #1f1f1f;
   --darker: #121212;
   --light: #dddddd;
+  --highlight: #D88388;
 }
 
 header {
@@ -95,23 +96,24 @@ nav {
       /*line-height: 2em;*/
       padding: 15px;
     }
+
+nav a {
+    color: inherit;
+    text-decoration: none;
+  }
+
+nav a:hover {
+    background-color: inherit;
+    color: inherit;
+  }
     
 nav ul li::first-child {
   background: light-dark(black, white);
   color: light-dark(var(--light), black);
 }
-    nav ul li::first-child a {
-      color: inherit;
+    nav ul::first-child a {
+      color: var(--highlight);
     }
-
-  nav a:hover {
-    background-color: inherit;
-    color: inherit;
-  }
-    
-  nav a {
-    text-decoration: none;
-  }
     
 body {
   color: light-dark(var(--dark), var(--light));
