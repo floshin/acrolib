@@ -1,12 +1,10 @@
 # AcroLib
 
-![acrolib-logo](assets/acrolib-logo.png)
+<!--![acrolib-logo](assets/acrolib-logo.png)-->
 
 International Library of Acrobatic Gymnastics
 
-<!--
 ![acrolib-splash](assets/Reading-Acrobats-Refined-Colorised.png)
-{: .invert }-->
 
 <h2 class="h2-events">Events</h2>
 <ul class="events">
@@ -16,12 +14,11 @@ International Library of Acrobatic Gymnastics
 
 <style>
   h1 {
-    font-size: 120px;
+    font-size: 100px;
     text-align: center;
     padding-bottom: 0;
     padding-top: 0;
     margin: 0;
-    margin-bottom: -20px;
   }
 
   p {
@@ -36,7 +33,7 @@ International Library of Acrobatic Gymnastics
     background: #b58384;
     padding: 15px;
     font-size: 16px;
-    margin: 50px 0 -10px;
+    margin: 50px 0 0;
     display: inline-block;
     color: black;
     font-weight: normal;
