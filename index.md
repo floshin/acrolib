@@ -8,8 +8,10 @@ International Library of Acrobatic Gymnastics
 
 <h2 class="h2-index">Initiatives</h2>
 <ul class="news">
-  <li>Revive Recreational Acrobatics</li>
-  <li>Extra Points for Extra Strength</li>
+  <li>Revive Recreational Acrobatics<br>
+  <span><a>read more</a></span></li>
+  <li>Extra Points for Extra Strength<br>
+  <span><a>read more</a></span></li>
 </ul>
 
 <h2 class="h2-index">Events</h2>
@@ -66,6 +68,11 @@ International Library of Acrobatic Gymnastics
       margin-bottom: 1px;
       padding-left: 20px;
     }
+
+    .news span {
+      text-align: right;
+      font-size: 14px;
+    }
   
   .events {
     background: var(--highlight);
@@ -81,7 +88,6 @@ International Library of Acrobatic Gymnastics
     }
     .news li, .events li {
       border: 1px solid;
-      text-transform: uppercase;
       height: 60px;
       display: flex;
       align-items: center;
@@ -89,6 +95,7 @@ International Library of Acrobatic Gymnastics
 
     .events li {
       margin-bottom: -1px;
+      text-transform: uppercase;
     }
   
     .date {
