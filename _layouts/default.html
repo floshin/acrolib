@@ -112,7 +112,7 @@ nav ul li {
   color: light-dark(black, var(--light));
 }
     nav ul li::first-child a {
-      color: var(--highlight);
+      color: #D88388;
     }
     
 body {
@@ -160,6 +160,12 @@ img {
 .up {
   text-align: right;
 }
+
+/* invert black images in dark mode;
+    but how to in dark mode only? */
+.invert { 
+  filter: invert(80%);  
+}  
 
 table {
   overflow-x: auto;
