@@ -100,6 +100,10 @@ International Library of Acrobatic Gymnastics
       margin-bottom: -1px;
       text-transform: uppercase;
     }
+
+    .news li {
+      justify-content: space-between;
+    }
   
     .date {
       font-style: normal;
