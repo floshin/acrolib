@@ -7,8 +7,8 @@ International Library of Acrobatic Gymnastics
 
 ## Events
 
-* *16-20 April* European Championships 2025 |
-* *X August* World Games 2025
+* *16-20 April* European Championships 2025
+* *X August* World Games 2025  
 {: .events }
 
 <style>
