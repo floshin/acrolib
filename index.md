@@ -43,7 +43,7 @@ International Library of Acrobatic Gymnastics
   }
 
   .h2-index {
-    background: #b58384;
+    background: var(--h2-bg);
     padding: 15px;
     font-size: 16px;
     margin: 50px 0 0;
