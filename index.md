@@ -1,6 +1,6 @@
 # AcroLib
 
-International Library of Acrobatic Gymnastics.
+International Library of Acrobatic Gymnastics
 
 ![acrolib-splash](assets/Reading-Acrobats-Refined-Colorised.png)
 
@@ -12,6 +12,10 @@ International Library of Acrobatic Gymnastics.
     padding-top: 0;
     margin: 0;
     margin-bottom: -20px;
+  }
+
+  p {
+    text-align: center;
   }
 
   .up {
