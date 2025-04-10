@@ -58,6 +58,7 @@ International Library of Acrobatic Gymnastics
   .h2-news {
     font-size: 16px;
     margin-top: 50px;
+    padding: 0 10px;
     font-weight: normal;
   }
 
