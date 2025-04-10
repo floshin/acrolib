@@ -35,11 +35,12 @@ International Library of Acrobatic Gymnastics
   }
     .events ul {
       list-style: none;
+      padding: 10px;
+      margin: 0 -10px;
     }
     .events li {
       border: 1px solid;
       padding: 20px;
-      margin: 15px;
       list-style: none;
     }
 
