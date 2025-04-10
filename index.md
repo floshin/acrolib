@@ -32,6 +32,10 @@ International Library of Acrobatic Gymnastics
 
   .events {
     background: var(--highlight);
+    color: black;
+    list-style: none;
+    padding: 20px;
+    margin: 0 -10px;
   }
     .events ul {
       list-style: none;
@@ -41,14 +45,18 @@ International Library of Acrobatic Gymnastics
     .events li {
       border: 1px solid;
       padding: 20px;
-      list-style: none;
+      height: 60px;
+      display: flex;
+      align-items: center;
+      margin-bottom: -1px;
     }
-
     .events em {
-       border-right: 1px solid;
-       padding-right: 20px;
-       height: 100%;
-       margin-right: 20px;
+      font-style: normal;
+      border-right: 1px solid;
+      padding-right: 20px;
+      height: 100%;
+      margin-right: 20px;
+      width: 100px;
     }
 
   main {
