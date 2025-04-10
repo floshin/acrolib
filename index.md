@@ -48,7 +48,7 @@ International Library of Acrobatic Gymnastics
     font-size: 16px;
     margin: 50px 0 0;
     display: inline-block;
-    color: black;
+    color: light-dark(black, var(--light));
     font-weight: normal;
   }
 
