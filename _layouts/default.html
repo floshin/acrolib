@@ -78,7 +78,7 @@
 }
 
 header {
-  background: var(--dark);
+ /* background: var(--dark); */
   width: 100%;
   top: 0; 
 }
@@ -108,8 +108,8 @@ nav a:hover {
   }
     
 nav ul li {
-  background: light-dark(black, white);
-  color: light-dark(var(--light), black);
+  background: light-dark(var(--light), var(--dark));
+  color: light-dark(black, var(--light));
 }
     nav ul::first-child a {
       color: var(--highlight);
