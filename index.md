@@ -4,10 +4,15 @@
 
 <style>
   h1 {
-    font-size: 45px;
+    width: 90%;
+    padding-bottom: 0;
   }
 
   .up {
     display: none;
+  }
+
+  main {
+    padding-bottom: 0;
   }
 </style>
