@@ -1,5 +1,7 @@
 # AcroLib
 
+![acrolib-logo](assets/acrolib-logo.png)
+
 International Library of Acrobatic Gymnastics
 
 <!--
