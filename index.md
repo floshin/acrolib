@@ -64,6 +64,7 @@ International Library of Acrobatic Gymnastics
     .news li {
       background: var(--nav-bg-light);
       margin-bottom: 1px;
+      padding-left: 20px;
     }
   
   .events {
