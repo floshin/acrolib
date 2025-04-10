@@ -8,6 +8,7 @@
     text-align: center;
     padding-bottom: 0;
     padding-top: 0;
+    margin: 0;
   }
 
   .up {
