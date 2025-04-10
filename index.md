@@ -96,13 +96,11 @@ International Library of Acrobatic Gymnastics
     /*background: #734E50;*/
     color: white;
     list-style: none;
-    padding: 20px;
-    margin: 0 -10px;
+    padding: 20px 10px;
   }
     .events ul {
       list-style: none;
       padding: 10px;
-      margin: 0 -10px;
     }
     .news li, .events li {
       display: flex;
