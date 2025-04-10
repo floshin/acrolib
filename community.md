@@ -30,7 +30,7 @@ We are also open to list circus schools as well as acro festivals, but they must
 
 * Albania: [Gymnastics Federation of Albania](https://gjimnastika.al/)
 * Andorra: [Gymnastics Federation of Andorra](http://www.fag.ad/)
-* Armenia: Gymnastics Federation of Armenia
+<!--* Armenia: Gymnastics Federation of Armenia-->
 * Australia: [Gymnastics Australia](http://www.gymnastics.org.au/)
 * Austria: [Austrian Gymnastics Federation](http://www.oeft.at/)
 * Azerbaijan: [AGF: Azerbaijan Gymnastics Federation](https://agf.az/en/)
