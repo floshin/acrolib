@@ -67,6 +67,12 @@ International Library of Acrobatic Gymnastics
       margin-right: 20px;
       width: 100px;
     }
+
+    time {
+      align-self: center;
+      text-align: center;
+    }
+  
     .events span {
       font-size: 12px;
     }
