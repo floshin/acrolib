@@ -16,18 +16,14 @@ Balance elemnts are performed hand to hand (h2h) or hand to foot (f2h).
 
 Based on the number of hands and feet used in the balance, we differentiate between
 
-* 2 on 2 (two hands on two hands or feet, either seperated or on top of each other("knot")), 
-* 2 on 1 (two hands on top of each other ("knot") on one hand or foot) 
-* 1 on 2 (one hand on two hands or feet on top of each other ("knot"))
-* 1 on 1 (one hand on one hand or one foot)
+* **2 on 2** means two hands on two hands or feet, or two feet on two hands or feet; when holding it hand to hand 2on2 can either mean having the hands separated or on top of each other ("knot").
+* **2 on 1** means two hands on top of each other ("knot") on one hand or foot. 
+* **1 on 2** means one hand on two hands or feet on top of each other ("knot") or one foot on two hands or feet on top of each other.
+* **1 on 1** means one hand on one hand or one foot, or one foot on one hand, or one foot on one foot. For example, the easiest and shortest way to describe a "One Arm Handstand held on one extended Arm of the Base" is: High 1on1 HS. It does not define the base position though; it could as well be a One Arm in a seated or lying position. 
 
-Based on the orientation of the body in the handstand, there are different *categories of handstands*:
+* **Extended Mono** is a different way of describing the One on One Handstand on straight arm, that is commonly used in non-gymnastic acro circles. We do not suggest using it, because it says less with more. *Extended* refers to an extended arm of the base, which we use to define as "high", while "Mono" could either refer to one arm/foot of the base or one arm/foot of the top and does not make it clear that it is *One on One*. Also while usually being used to describe a handstand, it doesn't make this clear either, as it could as well be about a One on One Footstand or One on One Straddle Support. While obviously it will be clear what is meant by context (just as 1on1 refers to a Handstand too most of the time), when it has to be described precisely, it is still shorter and more precise to say "High 1on1 H2H" or "High 1on1 HS" (if it is about a Handstand specifically) than to say "Extended Mono HS", by which it is still unclear by the words if it is the base holding it with one arm or the top. 
 
-* A: Straight Variations
-* B: Arched Variations 
-* C: Piked Variations
-* D: Flagged Variations
-* D1: Gripped Flags
+
 
 The ToD summarises "Levers" as *miscellaneous elements*:
 
