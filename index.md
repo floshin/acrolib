@@ -9,9 +9,9 @@ International Library of Acrobatic Gymnastics
 <h2 class="h2-news">Initiatives</h2>
 <ul class="news">
   <li>Revive Recreational Acrobatics<br>
-  <span><a>read more</a></span></li>
+  <span><a href="">read more</a></span></li>
   <li>Extra Points for Extra Strength<br>
-  <span><a>read more</a></span></li>
+  <span><a href="">read more</a></span></li>
 </ul>
 
 <h2 class="h2-events">Events</h2>
