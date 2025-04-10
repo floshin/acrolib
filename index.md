@@ -3,6 +3,7 @@
 International Library of Acrobatic Gymnastics
 
 ![acrolib-splash](assets/Reading-Acrobats-Refined-Colorised.png)
+{: .invert }
 
 <style>
   h1 {
