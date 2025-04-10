@@ -39,6 +39,7 @@ International Library of Acrobatic Gymnastics
   img {
     /* background: var(--light); */
     border: 1px solid;
+    filter: grayscale(90%);
   }
 
   .h2-index {
@@ -52,12 +53,15 @@ International Library of Acrobatic Gymnastics
   }
 
   .news {
-    background: var(--nav-light-bg);
+    background: var(--nav-bg-light);
     color: black;
     list-style: none;
     padding: 20px;
     margin: 0 -10px;
   }
+    .news ul {
+      padding: 10px;
+    }
   
   .events {
     background: var(--highlight);
