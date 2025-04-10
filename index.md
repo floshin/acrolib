@@ -99,7 +99,6 @@ International Library of Acrobatic Gymnastics
     }
     .news li, .events li {
       display: flex;
-      align-items: center;
     }
 
     .events li {
@@ -107,11 +106,13 @@ International Library of Acrobatic Gymnastics
       margin-bottom: -1px;
       text-transform: uppercase;
       height: 60px;
+      align-items: center;
     }
 
     .news li {
       flex-direction: column;
-      justify-content: space-between;
+      justify-content: space-evenly;
+      align-items: stretch;
     }
   
     .date {
