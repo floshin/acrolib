@@ -87,10 +87,13 @@ We divide the Acrobatic terms into the following categories according to the cat
 
 #### Handstands
 
-* **Handstand**
-* **HS**, shortcut for "Handstand".
+* **Handstand**, short *HS*, is a balance element on two or one hand with the body in an inverted position (head down, feet up) and the most fundamental and characteristic element of Acrobatic Gymnastics. In no other gymnastics sport are handstands performed on such a high level. In artistic gymnastics One Arm Handstands are very rarely seen, which are normal in Acro. Like Based on the orientation of the body in the handstand, there are different *categories of handstands*:
+  * A: Straight Variations
+  * B: Arched Variations 
+  * C: Piked Variations
+  * D: Flagged Variations
+  * D1: Gripped Flags
 * **Inversion**
-* Category A: "Normal" Handstands
 * Category B: Arch Handstands, ..., an Arch of more than X° is called a Deep Arch.
 * Category C: Piked Handstands, also called L-Handstands, since the body forms an inverted L, in english most often called "Seven", since the body has the form of a "7". A variation of the Seven is the "4", which is like a seven, but with one leg bent, resulting in a shape remeniscient of the "4".
 * Category D: Flags, ... A Flag with the legs oriented downwards in an angle of 30-45° is called a Deep Flag.
