@@ -4,9 +4,10 @@
 
 <style>
   h1 {
-    font-size: 100px;
+    font-size: 90vw;
     text-align: center;
     padding-bottom: 0;
+    padding-top: 0;
   }
 
   .up {
