@@ -4,7 +4,8 @@
 
 <style>
   h1 {
-    width: 90%;
+    font-size: 100px;
+    text-align: center;
     padding-bottom: 0;
   }
 
