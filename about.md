@@ -1,6 +1,6 @@
 # About
 
-AcroLib is a non-commercial project supposed to become a comprehensive online library of acrobatics and a place to promote new initiatives to bring the sports forward. It also serves as international "Hub", where you can find all the necessary information you may need in form of a simple website without any scripts and other clutter. It was initiated, developed and is currently curated by [Flosha](https://flosh.in), an acrobatic gymnast and coach from Germany. 
+AcroLib is a non-commercial project supposed to become a comprehensive online library of acrobatics and a place to promote new initiatives to bring the sports forward. It may also serve as an international "Hub", where you can find all the necessary information you may need in form of a simple website without any scripts and other clutter. It was initiated, developed and is currently curated by [Flosha](https://flosh.in), an acrobatic gymnast and coach from Germany. 
 
 The project consists of several sub-projects (selectable in the menu at the top):
 
