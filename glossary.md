@@ -405,4 +405,8 @@ main ul li::first-line {
   padding-left: -0.5em;
 }
 
+.categories a:before {
+  content: "#";
+}
+
 </style>
