@@ -74,9 +74,13 @@ We divide the Acrobatic terms into the following categories according to the cat
 * **Foot to Foot**
 * **Hand to Foot**
 * **Head to Hand**
-* **One on One**
-* **One on Two**
-* **Two on One**
+* 
+
+* **2on2** (read *two on two*) means two hands on two hands or feet, or two feet on two hands or feet; when holding it hand to hand 2on2 can either mean having the hands separated or on top of each other ("knot").
+* **2on1** (read *two on one*) means two hands on top of each other ("knot") on one hand or foot. 
+* **1on2** (read *one on two*) means one hand on two hands or feet on top of each other ("knot") or one foot on two hands or feet on top of each other.
+* **1on1** (read *one on one*) means one hand on one hand or one foot, or one foot on one hand, or one foot on one foot. For example, the easiest and shortest way to describe a "One Arm Handstand held on one extended Arm of the Base" would be: *High 1on1 HS*. It does not define the base position though, so it could as well refer to a seated or lying position. 
+
 * **Mono**
 * **Short**
 * **Extended**
