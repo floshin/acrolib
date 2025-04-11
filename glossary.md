@@ -4,8 +4,21 @@
 We divide the Acrobatic terms into the following categories according to the categorising terms in the "Table of Difficulty" of Acrobatic Gymnastics. In form of *Dance* and *Exercises* we add two additional highly relevant categories for reference.
 -->
 
-[Acrobatics](#acrobatics) [Balance](#balance) [Handstands](#handstands) [Supports](#supports) [Footstands](#footstands) [Base Positions](#base-positions) [Mounts](#mounts) [Motions](#motions) [Dynamic](#dynamic) [Flexibilities](#flexibilities) [Statics](#statics) [Agilities](#agilities) [Tumbling](#tumbling) [Exercises](#exercises) [Dance](#dance)
-{: .categories }
+* [Acrobatics](#acrobatics)
+* [Balance](#balance)
+* [Handstands](#handstands)
+* [Supports](#supports)
+* [Footstands](#footstands)
+* [Base Positions](#base-positions)
+* [Mounts](#mounts)
+* [Motions](#motions)
+* [Dynamic](#dynamic)
+* [Flexibilities](#flexibilities)
+* [Statics](#statics)
+* [Agilities](#agilities)
+* [Tumbling](#tumbling)
+* [Exercises](#exercises)
+* [Dance](#dance)
 
 
 ## Acrobatics
@@ -405,8 +418,12 @@ main ul li::first-line {
   padding-left: -0.5em;
 }
 
-.categories a:before {
-  content: "#";
+main ul:first-child {
+  display: flex;
+  flex-wrap: wrap;
 }
+ main ul:first-child a {
+   color: inherit;
+ }
 
 </style>
