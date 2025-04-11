@@ -421,6 +421,7 @@ main ul li::first-line {
 main ul:first-child {
   display: flex;
   flex-wrap: wrap;
+  gap: 10px;
 }
  main ul:first-child a {
    color: inherit;
