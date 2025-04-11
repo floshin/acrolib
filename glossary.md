@@ -414,7 +414,7 @@ main ul li {
   padding-bottom: 0.4em;
 }
  
-main ul li::first-line {
+main ul li:first-line {
   padding-left: -0.5em;
 }
 
