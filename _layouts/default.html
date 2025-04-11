@@ -188,9 +188,28 @@ footer {
   color: light-dark(black, var(--light));
 }
 
+  footer ul {
+    list-style: none;
+    gap: 10px;
+  } 
+
+  footer a {
+    color: inherit;
+  }
+
+  footer p {
+    padding: 5px 0;
+  }
+    
     /* Copyright & Flosha Sign */
-  
+
+    footer>div {
+      display: flex;
+      justify-content: space-between;
+    }
+    
     footer>div p {
+      display: inline-block;
       border-top: 1px solid;
       padding-top: 30px;
       margin-top: 30px;
@@ -198,24 +217,10 @@ footer {
     }
     
     footer img {
-      bottom: 20px;
-      right: 20px;
-      max-width: 60px;
+      max-width: 80px;
       margin-top: -80px;
+      margin-right: 20px;
     }
-    
-   footer ul {
-     list-style: none;
-     gap: 10px;
-   } 
-
-   footer a {
-     color: inherit;
-   }
-
-   footer p {
-     padding: 5px 0;
-   }
 
     
 @media (max-width: 1200px) {
