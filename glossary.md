@@ -82,8 +82,11 @@ We divide the Acrobatic terms into the following categories according to the cat
 * **1on1** (read *one on one*) means one hand on one hand or one foot, or one foot on one hand, or one foot on one foot. For example, the easiest and shortest way to describe a "One Arm Handstand held on one extended Arm of the Base" would be: *High 1on1 HS*. It does not define the base position though, so it could as well refer to a seated or lying position. 
 
 * **Mono**
+* **Extended Mono** is a different way of describing the One on One Handstand on a straight arm, that is commonly used in non-gymnastic acro circles. We do not suggest using it, because it says less with more. *Extended* here refers to an extended arm of the base, which we use to define as "high" or "straight" arm, while "Mono" could either refer to one arm/foot of the base or one arm/foot of the top and does not make it clear that it is *One on One*. Also while usually being used to describe a handstand, it doesn't make this clear either, as it could as well be about a One on One Footstand or One on One Straddle Support. While obviously it will be clear what is meant by context (just as 1on1 as well refers to a Handstand most of the time), when it has to be described precisely, it is still shorter and more precise to say "High 1on1 (H2H)" or "High 1on1 (HS)" (if it is about a Handstand specifically) than to say "Extended Mono (HS)", by which it is still unclear by the words if it is the base holding it with one arm or the top. 
+
 * **Short**
-* **Extended**
+* **Extended** is a different way to refer to straight or high arms used in non-gymnastic acro circles, which we do not recommend to use. Referring to the arms of the base as being "extended" is confusing, because when speaking of the position of the arms, we tend to think of shoulder extension, not elbow extension; extended arms refer to a very different position with the arms in extension (behind the back), while what this is really about is straight arms and most often, when speaking of a standing position, in shoulder flexion, not in extension. Thus, when we as acro gymnasts speak of e.g. *Extended 1on1*, we refer to a position in which the base is bend over forward and holds the top on one arm held vertically in shoulder extension behind his back in a forward-fold.
+
 * **Bent Arms**
 * **Straight Arms**
 * **Half Arm**
