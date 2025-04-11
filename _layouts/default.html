@@ -45,12 +45,12 @@
       <p><a href="https://github.com/floshin/acrolib">GitHub</a></p>
       <p><a href="https://fsoci.al">fsocial</a></p>
 
-      <img src="assets/flosha-logo.png">
-        
-      <hr>
-      <p class="copyright">
-        © 2025 Flosha
-      </p>
+      <div>
+        <img src="assets/flosha-logo.png">  
+        <p>
+          © 2025 Flosha
+        </p>
+      </div>
     </footer>
 </html>
 
@@ -188,18 +188,20 @@ footer {
   color: light-dark(black, var(--light));
 }
 
-    footer hr {
-      margin: 30px 0;
-    }    
-
+    /* Copyright & Flosha Sign */
+  
+    footer>div p {
+      border-top: 1px solid;
+      padding-top: 30px;
+      margin-top: 30px;
+      font-size: 16px;
+    }
+    
     footer img {
       bottom: 20px;
       right: 20px;
       max-width: 60px;
-    }
-
-    footer .copyright {
-      font-size: 16px;
+      margin-top: -80px;
     }
     
    footer ul {
