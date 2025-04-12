@@ -1,6 +1,6 @@
 # AcroLib
 
-![acrolib-splash](assets/acrolib-splash-3.png)
+![acrolib-splash](assets/acrolib-splash-1.png)
 
 International Library of Acrobatic Gymnastics
 
