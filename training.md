@@ -23,17 +23,21 @@ I will therefore suggest a different progression leading roughly to the same res
 
 If one longer training session or two shorter ones are used can be decided on an individual basis and by practical considerations. 
 
-Progression by Age (Girls): 
-* 6-7y: 1-2x/week for 1-2h (~3h/week)
-* 8-9y: 3-4x/week for 2-3h (...)
-* 10-11y: 3-4x/week for 3-4h (...)
-* 12-13y: 4-5x/week for 3-4h
-* 14-15y: 4-5x/week for 4-5h (...)
-* 16y+: 5-6x/week for 5-6h (~30h/week)
-
+Progression by Age: 
+* 6-7y:   1-2x/week for 1-2h (2-4h/week)
+* 8-9y:   3-4x/week for 2-3h (6-12h/week)
+* 10-11y: 4-5x/week for 3-4h (12-20h/week)
+* 12-13y: 5-6x/week for 3-4h (15-24h/week)
+* 14-15y: 6-8x/week for 3-5h (18-30h/week)
+* 16y+:   6-9x/week for 3-6h (25~36h/week)
 
 Progression by years of Training:
-...
+* 0-1:  1-2x/week for 1-2h (2-4h/week)
+* 2-3:  3-4x/week for 2-3h (6-12h/week)
+* 4-5:  4-5x/week for 3-4h (12-20h/week)
+* 6-7:  5-6x/week for 3-4h (15-24h/week)
+* 7-8: 6-8x/week for 3-5h (18-30h/week)
+* 16y+:   6-9x/week for 3-6h (25~36h/week)
 
 
 
