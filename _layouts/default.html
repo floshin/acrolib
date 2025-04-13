@@ -9,10 +9,8 @@
         <!--<link rel="icon" type="image/x-icon" href="---.ico" />-->
     </head>
     
-    <body>  
-      {% with current_page="/" %}
-        {% include "header.html" %}
-      {% endwith %}
+    <body>
+      {% include header.html %}
       <main>
         {{ content }}
         <p class="up">
