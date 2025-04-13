@@ -344,6 +344,16 @@ In German the Front Split is also commonly referred to as "Frauenspagat" (Womens
 * ...
 
 
+## Strength & Conditioning
+
+* **Strength Training** ... Strength Training is often divided into two categories: Training without external weights (with ones bodyweight only) and training with external weights, e.g. weightlifting. As described in #acrobatics Hand to hand is heavily strength based, it is weightlifting humans both slowly and controlled as well as very explosively. We also mentioned, that Acrobatic Gymnastics was originally coined "Kunstkraftsport" in German, meaning "Artistic Strength Sport", which described it very well: It is a Sport focused on the artistic, beautiful expression of strength between the partners through partner elements: Lifts, Balances, Throws and Catches. Thus it is absolutely crucial to develop strength, in order to be strong enough for ones partner to become able to lift, balance, throw and catch her or him. But how strong should one be?
+  * **Strength Goals of Base Partners:** Base partners do not just have to be strong enough to move the top partner *anyhow*; they have to be strong enough to move them *safely* and with *amplitude* and *ease*. From this demand follows automatically, that the weight of the partner should be *easy* to be moved by the base. What is easy though and how does it translate to the main lifts? At which point is one "strong enough"?
+    * **Press Standards**: The press is perhaps the most crucial lift for base partners to practice. The top partner should ideally be *easy* to be pressed. In many partnerships this goal cannot realistically be achieved, but should nonetheless be strived for. In this case, when pressing the partner strictly is not possible with ease, it is absolutely crucial that at least push-pressing the partner is "easy". So what is easy?
+    * A weight that you can move controlled, with good form with a fast concentric and a slowly controlled eccentric for only 1 rep is *maximally hard*. A weight you can move like this for just 5 is still *very hard*. A weight you can move like this for 10 is *moderately hard*. A weight you can move like this for 20 is *relatively easy* and a weight you can move like this for 30 is *actually easy*. Thus when we say that pressing the partner should be easy in Acro, it means that we aim to be able to press our partner 30 times in a row, very controlled, with good form, explosivelly up and going down with control. It should not be surprising that a base which is able to e.g. press a 40kg top partner like this for 30 times, can as well perform a few reps with double the weight. There is some carry-over into both directions. But pressing the top does of course *not* suffice to replace working with heavier weights. Ideally, pressing the top should only feel like an accessory exercise. 
+    *
+    * good guideline is that the base partner should be able to press his top partner When we talk about being "strong enough" as a base, 
+
+
 ## Exercises
 
 * **Exercises** are seen here as movements performed to condition the body, drill specific skills or to build strength, individually or with the partner(s), thus being conditioning, skill or strength exercises, as well as exercises for flexibility development.
