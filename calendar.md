@@ -120,7 +120,6 @@ h3 {
 main ul {
   list-style: none;
   padding-left: 0;
-  overflow: hidden;
  }
  
 main li {
@@ -129,6 +128,7 @@ main li {
   padding: 10px;
   display: inline-block;
   white-space: nowrap;
+  overflow: hidden;
   text-overflow: ellipsis;
  } 
 
