@@ -120,6 +120,7 @@ h3 {
 main ul {
   list-style: none;
   padding-left: 0;
+  overflow: hidden;
  }
  
 main li {
