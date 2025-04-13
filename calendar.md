@@ -119,6 +119,8 @@ main li {
   margin-bottom: 5px;
   overflow-x: auto;
   display: inline-block;
+  white-space: nowrap;
  }
+ 
   
 </style>
