@@ -7,10 +7,11 @@
         <title>{{site.title}} | {{page.title}}</title>
         <!--<link rel="icon" type="image/x-icon" href="---.ico" />-->
     </head>
-
-    {% include header.html %}
     
-    <body>    
+    <body>  
+        {% with current_page="{{ page.slug }}" %}
+            {% include "header.html" %}
+        {% endwith %}
       <main>
         {{ content }}
         <p class="up">
