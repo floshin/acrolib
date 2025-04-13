@@ -1,3 +1,7 @@
+{% with current_page="/" %}
+  {% include "header.html" %}
+{% endwith %}
+
 # AcroLib
 
 ![acrolib-splash](assets/acrolib-splash-1.png)
