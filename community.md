@@ -56,6 +56,7 @@ We are also open to list circus schools as well as acro festivals, but they must
 * Italy: [Federazione Ginnastica d’Italia](https://www.federginnastica.it/)
 * Japan: [Japanese Gymnastics Federation](http://www.jpn-gym.or.jp/)
 * Kazakhstan: [QAT: Казахстанская федерация гимнастики](https://gymnastics.kz/sportivnaya-akrobatika/)
+* Moldova: ...
 * Netherlands: [KNGU: Koninklijke Nederlandse Gymnastiek](http://www.kngu.nl/)
 * Poland: [PZG: Polski Zwiazek Gimnastyczny](http://www.pzg.pl/)
 * Portugal: [FGP: Federação de Ginástica de Portugal](http://www.fgp-ginastica.pt/)
@@ -102,6 +103,7 @@ We are also open to list circus schools as well as acro festivals, but they must
 * Japan
 * Kazakhstan
 * Luxembourg
+* Moldova
 * Netherlands
 * Poland
 * Portugal
