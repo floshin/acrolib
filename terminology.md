@@ -13,9 +13,9 @@ We divide the Acrobatic terms into the following categories according to the cat
   * [Mounts](#mounts)
   * [Motions](#motions)
 * [Dynamic](#dynamic)
-  * Starting Positions
-  * Landing Positions
-* Individual Elements
+  * [Starting Positions](#starting-positions)
+  * [Landing Positions](#landing-positions)
+* [Individual Elements](#individual-elements)
   * [Flexibilities](#flexibilities)
   * [Statics](#statics)
   * [Agilities](#agilities)
@@ -233,13 +233,6 @@ G: Backbends on two feet
   * ...
 
 
-### Dynamics
-
-* Dynamic
-* Dynamics
-* **Link** is the technical term for when two dynamic elements are fluidly performed in immediate succession, without pausing and without a "reset", e.g. by a re-adjustment step or an additional squat/plié or any other initiation of force from zero. For instance: When catching a *Salto* back into *F2H*, decelerating the top through a squat, it would be a link if another salto is thrown from F2H by accelerating from the bottom of that very squat; it would not be a link if the first Salto is catched and the Base straightens the legs first and only throws the second Salto by squatting down again. This way a link can be part of an *Element Sequence*, but a sequence does not necessarily contain any link.
-
-
 ### Mounts
 
 * **Climb-up**, climbing from the floor over the legs of the base on the shoulders of the base. 
@@ -265,6 +258,10 @@ G: Backbends on two feet
 
 ## Dynamic
 
+* Dynamic
+* Dynamics
+* **Link** is the technical term for when two dynamic elements are fluidly performed in immediate succession, without pausing and without a "reset", e.g. by a re-adjustment step or an additional squat/plié or any other initiation of force from zero. For instance: When catching a *Salto* back into *F2H*, decelerating the top through a squat, it would be a link if another salto is thrown from F2H by accelerating from the bottom of that very squat; it would not be a link if the first Salto is catched and the Base straightens the legs first and only throws the second Salto by squatting down again. This way a link can be part of an *Element Sequence*, but a sequence does not necessarily contain any link.
+
 * Salto
 * Twist
 * Tuck
@@ -276,11 +273,12 @@ G: Backbends on two feet
 * Arabian
 * Gainer
 * Nakat
-* Ridocula
+* **Ridocula**, another word used for *Nakat* with unclear meaning and etymology.
 * ...
 
 
-## Individual Work
+
+## Individual Elements
 
 ### Flexibility
 
@@ -358,7 +356,7 @@ In German the Front Split is also commonly referred to as "Frauenspagat" (Womens
     * **Iron vs. Human Weight**: The advantages of weightlifting iron in form of dumbbells, barbells and kettlebells are that (1) it has been proven to be effective, (2) can be done safely, (3) allows for an easy progression of intensity by overload in small incremental steps and (4) does not require others to train. The disadvantages are: (1) It does require weights and other equipment (such as barbell holders). While weight can be adjusted easily between sets, (2) the intensity cannot be reduced mid-set without the help of other people and (3) Children (which are the majority of Acrobats), cannot just be told to practice with weights at home; they have to be carefully teached, guided and supervisioned during training. The advantages of weightlifting human partners are that (1) it is fun to do, especially for children, which is very important factor in the training process, (2) weight can be adjusted easily mid-set, in that the top partners reduce their own weight by lifting themselves partially; allowing the base to always finish a set and have a longer, more consistent time under tension. 
 
 
-## Exercises
+### Exercises
 
 * **Exercises** are seen here as movements performed to condition the body, drill specific skills or to build strength, individually or with the partner(s), thus being conditioning, skill or strength exercises, as well as exercises for flexibility development.
 
