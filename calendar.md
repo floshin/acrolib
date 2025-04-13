@@ -1,3 +1,7 @@
+{% with current_page="calendar" %}
+  {% include "header.html" %}
+{% endwith %}
+
 # IAC
 
 IAC: International Acrobatics Calendar. All the international, national and regional events at one place. 
