@@ -24,7 +24,7 @@ International Library of Acrobatic Gymnastics
     text-align: center;
     padding-bottom: 0;
     padding-top: 0;
-    margin: 50px 0 -20px;
+    margin: 25px 0 -20px;
   }
 
   p {
