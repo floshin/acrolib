@@ -108,13 +108,13 @@ Here we list Acro festivals and noteworthy acrobatic shows to attend. Please not
 
 <style>
 
- ul {
+main ul {
   list-style: none;
   overflow-x: auto; 
   padding-left: 0;
  }
  
- li {
+main li {
   border: 1px solid var(--dark);
   margin-bottom: 5px;
   overflow-x: auto;
