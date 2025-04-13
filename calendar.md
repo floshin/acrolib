@@ -134,8 +134,8 @@ main li {
  main strong {
    display: block;
    min-width: 100%;
-   font-size: 12px;
-   margin-bottom: -10px;
+   font-size: 14px;
+   font-weight: normal;
  }
   
 </style>
