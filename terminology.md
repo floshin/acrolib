@@ -6,19 +6,22 @@ We divide the Acrobatic terms into the following categories according to the cat
 
 * [Acrobatics](#acrobatics)
 * [Balance](#balance)
-* [Handstands](#handstands)
-* [Supports](#supports)
-* [Footstands](#footstands)
-* [Base Positions](#base-positions)
-* [Mounts](#mounts)
-* [Motions](#motions)
+  * [Handstands](#handstands)
+  * [Supports](#supports)
+  * [Footstands](#footstands)
+  * [Base Positions](#base-positions)
+  * [Mounts](#mounts)
+  * [Motions](#motions)
 * [Dynamic](#dynamic)
-* [Flexibilities](#flexibilities)
-* [Statics](#statics)
-* [Agilities](#agilities)
-* [Tumbling](#tumbling)
-* [Exercises](#exercises)
-* [Dance](#dance)
+  * Starting Positions
+  * Landing Positions
+* Individual Elements
+  * [Flexibilities](#flexibilities)
+  * [Statics](#statics)
+  * [Agilities](#agilities)
+  * [Tumbling](#tumbling)
+* [Dance & Choreography](#dance--choreography)
+* [Strength & Conditioning](#strength--conditioning)
 
 
 ## Acrobatics
@@ -313,7 +316,7 @@ In German the Front Split is also commonly referred to as "Frauenspagat" (Womens
 * **Straight**, ...
 
 
-## Dance
+## Dance & Choreography
 
 * **Dancing Styles**, different styles of dancing. A very particular characteristics of Acro, which contributes to the amount of creativity in the sports, is the incorporation of diverse different styles of dance. There are no rules in which way one has to dance in ones compositions (other than forbidding obscene moves). This enables acrobats and coaches to utilise all kinds of styles as they wish and deem fitting, mixing traditional and modern forms, from folklore to ballett or even hip hop (if excluding the aspects considered as obscene). The styles most commonly seen are Contemporary and Acro Dance, mixed with various partner lifts from different traditions, which are rewarded by the rules as they are one way of expressing partnership between the athletes, floor acrobatics and choreographic jumps or "leaps". We therefore include the most important dance terms from Ballett, Contemporary, Acro Dance and other traditions of moves that are most commonly seen in Acro. 
 * **Adagio**, is a particularly way of dance or choreography in which the partners move very slowly and gracefully to create a specific mood and tension, often utilised in Duo show acts. Adagio is rarely ever seen in Acro compositions because the short time window of 2min to 2min 30s make this style more or less impossible. 
@@ -415,7 +418,7 @@ In German the Front Split is also commonly referred to as "Frauenspagat" (Womens
 * **Hamstring Stretches**
 
 
-## Partner Conditioning
+### Partner Conditioning
 
 * **Bird Push-ups** means lying on the back and pushing the partner up and down while the partner holds a *Front Bird* (ideally touching chest on chest).   
 * **Partner Push-ups** are weighted push-ups where the Partner serves as the weight by either lying, sitting, kneeling or standing on the back or the shoulders of the one performing the push-up.  
