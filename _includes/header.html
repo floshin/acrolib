@@ -2,13 +2,13 @@
     <a id="#top"></a>
     <nav>
       <ul> 
-        <li><a href="https://floshin.github.io/acrolib/">AcroLib</a></li>
-        <li><a href="https://floshin.github.io/acrolib/about">About</a></li>
-        <li><a href="https://floshin.github.io/acrolib/terminology">Terminology</a></li>
-        <li><a href="https://floshin.github.io/acrolib/calendar">Calendar</a></li>
-        <li><a href="https://floshin.github.io/acrolib/community">Community</a></li>
-        <li>Downloads</li>
-        <li><a href="https://floshin.github.io/acrolib/links">Links</a></li>
+        <li {% if current_page == "index" %}current="page"{% endif %}><a href="https://floshin.github.io/acrolib/">AcroLib</a></li>
+        <li {% if current_page == "about" %}current="page"{% endif %}><a href="https://floshin.github.io/acrolib/about">About</a></li>
+        <li {% if current_page == "terminology" %}current="page"{% endif %}><a href="https://floshin.github.io/acrolib/terminology">Terminology</a></li>
+        <li {% if current_page == "calendar" %}current="page"{% endif %}><a href="https://floshin.github.io/acrolib/calendar">Calendar</a></li>
+        <li {% if current_page == "community" %}current="page"{% endif %}><a href="https://floshin.github.io/acrolib/community">Community</a></li>
+        <li {% if current_page == "downloads" %}current="page"{% endif %}><a href="https://floshin.github.io/acrolib/downloads">Downloads</a></li>
+        <li {% if current_page == "links" %}current="page"{% endif %}><a href="https://floshin.github.io/acrolib/links">Links</a></li>
       </ul>
     </nav>  
   </header>
