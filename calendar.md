@@ -104,3 +104,19 @@ How to contribute? It is very easy to contribute. Just add your own competition 
 Here we list Acro festivals and noteworthy acrobatic shows to attend. Please note, pure "Acro Yoga" events, where no standing acrobatics is practiced, shouldn't be listed here. 
 
 ...
+
+
+<style>
+
+ ul {
+  list-style: none;
+  overflow-x: auto; 
+  padding-left: 0;
+ }
+ 
+ li {
+  border: 1px solid var(--dark);
+  margin-bottom: 5px;
+ }
+  
+</style>
