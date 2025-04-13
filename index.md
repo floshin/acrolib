@@ -25,7 +25,6 @@ International Library of Acrobatic Gymnastics
     padding-bottom: 0;
     padding-top: 0;
     margin: 0;
-    margin-bottom: -50px;
   }
 
   p {
@@ -64,9 +63,6 @@ International Library of Acrobatic Gymnastics
     list-style: none;
     padding: 10px;
   }
-  
-    .news ul {
-    }
   
     .news li {
       background: light-dark(grey, #212121);
