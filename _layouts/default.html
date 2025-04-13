@@ -55,11 +55,18 @@ header {
     overflow-x: auto;
     list-style: none;
     padding: 0;
+    white-space: no-wrap;
   }
     nav ul li {
       /*line-height: 2em;*/
       padding: 15px;
     }
+
+    /* currently active nav link */
+    nav ul li[current] a {
+      color: var(--highlight);
+    }
+        
 
 nav a {
     color: inherit;
