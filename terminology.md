@@ -447,6 +447,7 @@ main ul:first-child {
   display: flex;
   flex-wrap: wrap;
   gap: 10px;
+  list-style: initial;
 }
  main ul:first-child a {
    color: inherit;
