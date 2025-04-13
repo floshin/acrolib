@@ -117,6 +117,8 @@ Here we list Acro festivals and noteworthy acrobatic shows to attend. Please not
  li {
   border: 1px solid var(--dark);
   margin-bottom: 5px;
+  overflow-x: auto;
+  display: inline-block;
  }
   
 </style>
