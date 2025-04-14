@@ -1,17 +1,17 @@
 # Local Clubs & Schools in Austria
 
-## NÖ
-* Union Sportakrobatik Krems	www.sportakrobatik-krems.at/ 
-* Sportunion Dobersberg	www.sportakrobatik-dobersberg.com/  
-* Sportunion Horn	http://horn.sportunion.at/ 
-* Allg. Turnverein Wieselburg	www.atv-wieselburg.at   
-* ATUS City Center Amstetten	www.atus.at/ 
-* Gymnastikklub Klosterneuburg	www.happygym.com/  
+## Niederösterreich
+* [Union Sportakrobatik Krems](https://sportakrobatik-krems.at/)
+* [Sportunion Dobersberg](https://sportakrobatik-dobersberg.com/) 
+* [Sportunion Horn](https://horn.sportunion.at/)
+* [Allg. Turnverein Wieselburg](https://atv-wieselburg.at) 
+* [ATUS City Center Amstetten](https://atus.at/)
+* [Gymnastikklub Klosterneuburg](https://happygym.com/)
 
-## W
-* Sportunion Döbling	www.sportunion-doebling.at/  
-* Sportunion Mariahilf	www.sportunion-mariahilf.at/ 
-* Sportunion Aktiv-Brigittenau	www.uab.at/ 
+## Wien
+* [Sportunion Döbling](https://sportunion-doebling.at/)
+* [Sportunion Mariahilf](https://sportunion-mariahilf.at/) 
+* [Sportunion Aktiv-Brigittenau](https://uab.at/)
 
 ## St	
 * Allgemeiner Turnverein Graz	www.atgraz.org/ 
