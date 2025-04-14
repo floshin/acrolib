@@ -10,4 +10,5 @@
 * [Independent Gymnastics](https://www.independentgymnastics.com/disciplines/acrobatic-gymnastics/)
 * [Leeds Gymnastics Club](https://leedsgymnastics.com/gymnasts/history/)
 * [Spelthorne Gymnastics](https://www.spelthornegymnastics.com/)
+* [Seaham Gymnastics Club](https://www.clubdurham.co.uk/clubs/seaham-gymnastics-club/)
 * 
