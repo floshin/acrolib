@@ -127,7 +127,6 @@ main li {
   background: var(--dark);
   margin-bottom: 5px;
   padding: 10px;
-  display: inline-block;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
