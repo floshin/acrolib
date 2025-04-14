@@ -2,7 +2,6 @@
 
 As of 2025, Austria has 450 Gymnastic Clubs, only 18 of which train Acrobatic Gymnastics. 
 
-
 ## Niederösterreich
 * [Union Sportakrobatik Krems](https://sportakrobatik-krems.at/)
 * [Sportunion Dobersberg](https://sportakrobatik-dobersberg.com/) 
@@ -16,7 +15,7 @@ As of 2025, Austria has 450 Gymnastic Clubs, only 18 of which train Acrobatic Gy
 * [Sportunion Mariahilf](https://sportunion-mariahilf.at/) 
 * [Sportunion Aktiv-Brigittenau](https://uab.at/)
 
-## St Steiermark	
+## Steiermark	
 * [Allgemeiner Turnverein Graz](https://atgraz.org/)
 * [Verein Grazer Turnerschaft](https://vgt-graz.at/)
 * [Turnverein Frohnleiten](https://tv-frohnleiten.at/)
@@ -25,12 +24,12 @@ As of 2025, Austria has 450 Gymnastic Clubs, only 18 of which train Acrobatic Gy
 * [ÖTB Linz (Dornacher Turnakrobaten)](https://oetb-linz.at/)
 * [ATV St. Valentin (The Freaks)](https://turnverein-st-valentin.at/)
 
-## V	(Vorarlberg)
+## Vorarlberg
 * [ASTV Walgau](https://astvwalgau.jimdo.com/)
 
-## Salzburg?
+## Salzburg
 * [Turnverein Maxglan](https://turnverein-maxglan.at/)
 
-## K (Kärnten)
+## Kärnten
 * [Sportgemeinschaft Spittal/Drau](https://sgs-spittal.at/)
 * [Turnverein St. Veit / Glan](https://www.turnverein-sanktveit.at/turnplan.html)
