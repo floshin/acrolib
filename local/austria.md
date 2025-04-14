@@ -14,20 +14,20 @@
 * [Sportunion Aktiv-Brigittenau](https://uab.at/)
 
 ## St	
-* Allgemeiner Turnverein Graz	www.atgraz.org/ 
-* Verein Grazer Turnerschaft	www.vgt-graz.at/  
-* Turnverein Frohnleiten	www.tv-frohnleiten.at/ 
+* [Allgemeiner Turnverein Graz](https://atgraz.org/)
+* [Verein Grazer Turnerschaft](https://vgt-graz.at/)
+* [Turnverein Frohnleiten](https://tv-frohnleiten.at/)
 
 ## OÖ 
-* ÖTB Linz (Dornacher Turnakrobaten)	www.oetb-linz.at/  
-* ATV St. Valentin (The Freaks)	www.turnverein-st-valentin.at/ 
+* [ÖTB Linz (Dornacher Turnakrobaten)](https://oetb-linz.at/)
+* [ATV St. Valentin (The Freaks)](https://turnverein-st-valentin.at/)
 
 ## V	
-* ASTV Walgau	https://astvwalgau.jimdo.com/ 
+* [ASTV Walgau](https://astvwalgau.jimdo.com/)
 
 ## S 	
-* Turnverein Maxglan	www.turnverein-maxglan.at/ 
+* [Turnverein Maxglan](https://turnverein-maxglan.at/)
 
 ## K
-* Sportgemeinschaft Spittal/Drau	http://sgs-spittal.at/  
-* Turnverein St. Veit / Glan
+* [Sportgemeinschaft Spittal/Drau](https://sgs-spittal.at/)
+* Turnverein St. Veit / Glan (no link)
