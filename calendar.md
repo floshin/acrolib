@@ -11,7 +11,6 @@ How to contribute? It is very easy to contribute. Just add your own competition 
 
 ### April 2025
 
-* **12.04.** Ottendorf-Okrilla, GER, *27. Internationales Traditionsturnier*
 * **18.-20.04.** Cesenatico, ITA, *10th International Acro Cup*
 
 <!--
