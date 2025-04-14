@@ -14,4 +14,5 @@
 * [Norwich Gymnastics Club](https://www.norwichgymnasticsclub.co.uk/index.php)
 * Dynamic Gymnastics Academy
 * [West Bromwich Gymnastics Club](http://www.wbgtc.co.uk/)
-* 
+* [Flips Gymnastics Club](https://flipsgymnasticsclub.co.uk/)
+* ...
