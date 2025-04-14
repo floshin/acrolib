@@ -10,4 +10,4 @@
 * [FSG Eaux-Vives Gymnastique Club Genève](https://www.fsg-eaux-vives.ch/)
 * [GymAcro Ticino](http://www.gymacro.ch/)
 * [Neue Sektion Winterthur](https://www.tv-nsw.ch/ressorts/akro-getu/)
-* Plan-les-Ouates Gymnastique [no link]
+* [Plan-les-Ouates Gymnastique](https://www.plan-les-ouates.ch/contenu/gymnastique)
