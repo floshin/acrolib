@@ -4,9 +4,11 @@ IAC: International Acrobatics Calendar. All the international, national and regi
 
 How to contribute? It is very easy to contribute. Just add your own competition directly to the [document here]( https://github.com/floshin/acrolib/new/main). Please note: We will only accept your entry as long as you not only add the name and date of the competition, but also a link to a .pdf or a website with the Announcement of the competition. 
 
+[2025](/calendar/2025) | [2026](/calendar/2026)
+
 ---
 
-## Upcoming International Events
+## International Events 2025
 
 
 ### April 2025
@@ -66,26 +68,18 @@ How to contribute? It is very easy to contribute. Just add your own competition 
 
 ---
 
-### Sometime in 2026
 
-* **t.b.d.** t.b.d.,	ITA, *14. World Age Group Competitions*
-* **t.b.d.** t.b.d., ITA, *30. World Championships*
+### Future Events
 
-
-### June 2026
-
-* **12.06.-14.06.** Winterthur, SUI, *3. NSW Acro Trophy*
-
----
- 
-### 2029
-
-* **t.b.d.** Karlsruhe,	GER, *13. World Games*
+* **2026** t.b.d.,	ITA, *14. World Age Group Competitions*
+* **2026** t.b.d., ITA, *30. World Championships*
+* **12.06.-14.06.2026** Winterthur, SUI, *3. NSW Acro Trophy*
+* **2029** Karlsruhe,	GER, *13. World Games*
 
 
 ## Upcoming Continental Events 
 
-* **16.-20.04.** [Luxembourg, LUX, *32nd European Championships*](https://www.europeangymnastics.com/))
+* **16.-20.04.** [Luxembourg, LUX, *32nd European Championships*](https://www.europeangymnastics.com/)
 
 
 ## Upcoming National Events
