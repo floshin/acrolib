@@ -85,7 +85,7 @@ How to contribute? It is very easy to contribute. Just add your own competition 
 
 ## Upcoming Continental Events 
 
-* [**16.-20.04.** Luxembourg, LUX, *32nd European Championships*](https://www.europeangymnastics.com/))
+* **16.-20.04.** [Luxembourg, LUX, *32nd European Championships*](https://www.europeangymnastics.com/))
 
 
 ## Upcoming National Events
@@ -120,6 +120,10 @@ main ul {
   list-style: none;
   padding-left: 0;
   overflow: hidden;
+ }
+
+ main ul li a {
+   text-decoration: none;
  }
  
 main li {
