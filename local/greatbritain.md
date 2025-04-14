@@ -8,4 +8,6 @@
 * [Acrobay Gymnastics Trust](https://www.acrobay.co.uk/blank-1)
 * [Treasure Gymnastics](https://acro.treasuregymnastics.co.uk/home)
 * [Independent Gymnastics](https://www.independentgymnastics.com/disciplines/acrobatic-gymnastics/)
+* [Leeds Gymnastics Club](https://leedsgymnastics.com/gymnasts/history/)
+* [Spelthorne Gymnastics](https://www.spelthornegymnastics.com/)
 * 
