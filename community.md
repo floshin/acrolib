@@ -122,3 +122,10 @@ We are also open to list circus schools as well as acro festivals, but they must
 ## Circus Universities
 
 ...
+
+
+<style>
+  main ul {
+    padding-left: 0;
+  }
+</style>
