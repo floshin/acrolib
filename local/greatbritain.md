@@ -11,4 +11,4 @@
 * [Leeds Gymnastics Club](https://leedsgymnastics.com/gymnasts/history/)
 * [Spelthorne Gymnastics](https://www.spelthornegymnastics.com/)
 * [Seaham Gymnastics Club](https://www.clubdurham.co.uk/clubs/seaham-gymnastics-club/)
-* 
+* [Norwich Gymnastics Club](https://www.norwichgymnasticsclub.co.uk/index.php)
