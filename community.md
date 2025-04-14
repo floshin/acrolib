@@ -126,6 +126,6 @@ We are also open to list circus schools as well as acro festivals, but they must
 
 <style>
   main ul {
-    padding-left: 0;
+    padding-left: 10px;
   }
 </style>
