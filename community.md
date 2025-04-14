@@ -78,7 +78,7 @@ We are also open to list circus schools as well as acro festivals, but they must
 * Andorra
 * Armenia
 * Australia
-* Austria
+* [Austria](/local/austria)
 * Azerbaijan  
 * Belarus
 * Belgium
@@ -93,7 +93,7 @@ We are also open to list circus schools as well as acro festivals, but they must
 * Finland
 * France
 * Georgia
-* [Germany](local/germany)
+* [Germany](/local/germany)
 * Greece
 * Great Britain
 * Hungary
@@ -113,7 +113,7 @@ We are also open to list circus schools as well as acro festivals, but they must
 * South Africa
 * Spain
 * Sweden
-* Swiss
+* [Swiss](/local/swiss)
 * Türkiye
 * Ukraine
 * USA  
