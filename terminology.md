@@ -80,7 +80,7 @@ Now, regarding actual rules. No matter the strength, the fact remains that a hig
 | ≤44%  | -0.6   |
 | ≤46%  | -0.4   |
 | ≤48%  | -0.2   |
-| ≤50%  |  0     |
+| ≤50%  |        |
 | ≤52%  | +0.2   |
 | ≤54%  | +0.4   |
 | ≤56%  | +0.6   |
@@ -95,7 +95,9 @@ Now, regarding actual rules. No matter the strength, the fact remains that a hig
 | ≤74%  | +2.4   |
 | ≤76%  | +2.6   |
 | ≤78%  | +2.8   |
-| ≤80%  | +3.0   |
+| ≤80%+ | +3.0   |
+
+<!--
 | ≤82%  | +3.2   |
 | ≤84%  | +3.4   |
 | ≤86%  | +3.6   |
@@ -106,8 +108,9 @@ Now, regarding actual rules. No matter the strength, the fact remains that a hig
 | ≤96%  | +4.6   |
 | ≤98%  | +4.8   |
 | ≤100% | +5.0   |
+-->
 
-This way, all the different partnerships with their diverse weight differences could compete with each other; very large weight differences receive a deduction and smaller weight differences receive extra points. The deduction for height would be removed. If this will lead to more partnerships competing with partners of a similar weight, it will only serve the sport, as it will much more adults allow to participate. If it leads to only those winning with much less difficult elements, just won by their extra points for weight, it only means that the difficulty of elements in general should be rewarded more, to find the correct balance over time. The goal should be to create a situation in which we see all kinds of partnerships but where those at or around 50% are favoured for safety and the display of higher diffculty elements. 
+This way, all the different partnerships with their diverse weight differences could compete with each other; very large weight differences receive a deduction and smaller weight differences receive extra points. The deduction for height would be removed. If this will lead to more partnerships competing with partners of a similar weight, it will only serve the sport, as it will much more adults allow to participate. If it leads to only those winning with much less difficult elements, just won by their extra points for weight, it only means that the difficulty of elements in general should be rewarded more, to find the correct balance over time. The goal should be to create a situation in which we see all kinds of partnerships but where those at or around 50% are favoured for safety and the display of higher diffculty elements. By not giving extra value above 80%, we could discourage from going for too heavy partnerships to reduce injury risk.
 
 Right now we have a situation where many pairs are performing easier elements than they could and don't risk anything because it wouldn't be rewarding, since the execution is valued so much more than the difficulty. And this was done for a reason. It favours and promotes cleaner routines. But most importantly it is a big step to reduce the injury risk in dynamics. This is important. The same can be said about balance on high pyramids in Groups, which can also be dangerous. So it is good if we can keep the rules intact there. 
 But for Pairs, where there is very little injury risk in Balance, it created a situation where they do not e.g. perform a Diamidov anymore just because it could wobble a bit and you could see the struggle, while seeing some struggle in Balance in Pairs is thrilling and very exciting to watch for the audience. Only if the elements are rewarded enough would we also see greater elements and motions again in Pairs. 
