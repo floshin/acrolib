@@ -66,7 +66,7 @@ We are also open to list circus schools as well as acro festivals, but they must
 * South Africa: [South African Gymnastics Federation](http://www.gymnastics.co.za/)
 * Spain: [RFEG: Real Federacìon Española de gimnasia](http://www.rfegimnasia.es/)
 * Sweden: [Svensk Gymnastik](https://www.gymnastik.se/)
-* Switzerland: [Schweizerischer Verband Akrobatikturnen](https://acrosuisse.ch/)
+* Swiss: [Schweizerischer Verband Akrobatikturnen](https://acrosuisse.ch/)
 * Türkiye [Türkiye Cimnastik Federasyonu](https://www.tcf.gov.tr/)
 * Ukraine: [UGF: Ukrainian Gymnastics Federation](https://ugf.org.ua/gymnastics-discipline/acrobatic-rules/)
 * USA: [USA Gymnastics](http://www.usagym.org/acro)
@@ -113,7 +113,7 @@ We are also open to list circus schools as well as acro festivals, but they must
 * South Africa
 * Spain
 * Sweden
-* Switzerland
+* Swiss
 * Türkiye
 * Ukraine
 * USA  
