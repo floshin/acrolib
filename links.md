@@ -2,6 +2,10 @@
 
 Here we list and link all kinds of relevant projects that are not already linked in the Acro Community or Download sections.  
 
+## FIG Academy
+
+* [ACRO - More than a sport](https://m.youtube.com/watch?v=x7cI8w9R7C0&pp=ygURYWNyb2JhdGljIHdlYmluYXI%3D) by Laurenco Franca (POR) and Revaz Gurgenidze (RUS).
+
 
 ## European Gymnastics Webinars
 
