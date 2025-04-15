@@ -317,7 +317,7 @@ G: Backbends on two feet
 * **Inlocate**, another name for *Podsechka* commonly used in english-speaking countries. We do not recommend to use it since it is not descriptive for the element. See *Podsechka*.
 * **Cut-Back**, a better translation of *Podsechka* that is rarely used. See *Podsechka*.
 * **Drag-Up**
-* **Vikrut**, also called **Dislocate**, ...
+* **Vikrut**, also called **Dislocate** or short **Disloc**, ...
 * **Cannonball**, see *Capriol*.
 * **Capriol**, ... similar to the Diamidov, a Cannonball can also be performed in advanced ways with a 360° and even a 720° rotation, which requires a different grip of both partners on one side; it can either be re-catched after the rotation in a 2on2 HS or move into 1on1, which is exceptionally difficult. 
 * **Half Podsechka into Cannonball**, is an advanced entry into Cannonball, where the partners perform a motion similar to a Podsechka, but do not enter a handstand and the top does not move through the arms and over the head of the base; they accelerate upwards and the top moves into the tucked or piked position, in front of the bases head, then swinging down in the Cannonball and then through the cannonball motion upwards into the actual position. 
