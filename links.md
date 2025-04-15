@@ -5,8 +5,12 @@ Here we list and link all kinds of relevant projects that are not already linked
 
 ## European Gymnastics Webinar
 
+* ['Balance & Dynamic principles and decisions in acro coaching'](https://m.youtube.com/watch?v=FdwXJOZ4Y6o&pp=ygURYWNyb2JhdGljIHdlYmluYXI%3D) was held on Saturday 17 October from 2pm to 4pm CET. The experts were Revaz Gurgenidze (RUS) & Dmitry Vinnikov (RUS).
+
+
+
 * Nikolay Ivanov (BUL): ['First Steps in Acro'](https://m.youtube.com/watch?v=gFUk0HWvqss&pp=ygURYWNyb2JhdGljIHdlYmluYXI%3D)
-* Ana Matyskina (GER): ['Artistry coaching in Acrobatic Gymnastics'](https://m.youtube.com/watch?v=uJ1viDsStZw&pp=ygURYWNyb2JhdGljIHdlYmluYXI%3D)
+* Ana Matyskina (GER): ['Artistry coaching in Acrobatic Gymnastics'](https://m.youtube.com/watch?v=uJ1viDsStZw&pp=ygURYWNyb2JhdGljIHdlYmluYXI%3D) + [Explanatory Videos](https://m.youtube.com/watch?v=LbNBQpOt0jk&pp=ygURYWNyb2JhdGljIHdlYmluYXI%3D)
 * Lourenco Franca (POR): ['Failure to plan in acrobatics is planning to fail'](https://m.youtube.com/watch?v=BxHfE9OED_o&pp=ygURYWNyb2JhdGljIHdlYmluYXI%3D)
 * 
  
