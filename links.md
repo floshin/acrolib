@@ -15,7 +15,7 @@ Here we list and link all kinds of relevant projects that are not already linked
   2. Biomechanics – conditions for the movement efficiency
   3. Physical support, individual training
   4. Special training in partnership
-  5. Step-by-step execution of an element (in stages & progression)
+  5. Step-by-step execution of an element (in stages & progression in the examples of Straddle Press to Handstand, Cut-Back (Podsechka), RF2H Tempo and Toe Pitch).
 
 * ['First Steps in Acro'](https://m.youtube.com/watch?v=gFUk0HWvqss&pp=ygURYWNyb2JhdGljIHdlYmluYXI%3D) which was held on Saturday 7 November 2020 by European Gymnastics Technical Committee member Nikolay Ivanov (BUL). / Do you want to start with Acro coaching in your city or country? If so, you need to know:
   * What are the main principles of training in Acro?
