@@ -1,22 +1,24 @@
-# AcroLib
+<div>
+  <h1>AcroLib</h1>
+  <img src="/assets/acrolib-splash-1.png" alt="">
+  <p>International Library of Acrobatic Gymnastics</p>
+</div>
 
-![acrolib-splash](assets/acrolib-splash-1.png)
-
-International Library of Acrobatic Gymnastics
-
-<h2 class="h2-news">Initiatives</h2>
-<ul class="news">
-  <li>Revive Recreational Acrobatics<br>
-  <span><a href="">read more</a></span></li>
-  <li>Extra Points for Extra Strength<br>
-  <span><a href="">read more</a></span></li>
-</ul>
-
-<h2 class="h2-events">Events</h2>
-<ul class="events">
-  <li><div class="date"><time>16-20 <br> APR</time></div> <a href="https://www.europeangymnastics.com/event/2025-european-championships-acrobatic-gymnastics-luxembourg-lux/overview"><div><span>Luxembourg</span> <br> European Championships 2025</div></a></li>
-  <li><div class="date"><time>07-17 <br> AUG</time></div> <a href="https://www.theworldgames.org/sports/Gymnastics-59"><div><span>Chengdu, China</span> <br> World Games 2025</div></a></li>
-</ul>
+<div>
+  <h2 class="h2-news">Initiatives</h2>
+  <ul class="news">
+    <li>Revive Recreational Acrobatics<br>
+    <span><a href="">read more</a></span></li>
+    <li>Extra Points for Extra Strength<br>
+    <span><a href="">read more</a></span></li>
+  </ul>
+  
+  <h2 class="h2-events">Events</h2>
+  <ul class="events">
+    <li><div class="date"><time>16-20 <br> APR</time></div> <a href="https://www.europeangymnastics.com/event/2025-european-championships-acrobatic-gymnastics-luxembourg-lux/overview"><div><span>Luxembourg</span> <br> European Championships 2025</div></a></li>
+    <li><div class="date"><time>07-17 <br> AUG</time></div> <a href="https://www.theworldgames.org/sports/Gymnastics-59"><div><span>Chengdu, China</span> <br> World Games 2025</div></a></li>
+  </ul>
+</div>
 
 <style>
   h1 {
@@ -33,6 +35,12 @@ International Library of Acrobatic Gymnastics
 
   .up {
     display: none;
+  }
+
+  main {
+    display: flex;
+    max-width: initial;
+    gap: 100px;
   }
 
   main img {
