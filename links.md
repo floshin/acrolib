@@ -16,8 +16,11 @@ Here we list and link all kinds of relevant projects that are not already linked
   * saltos to catch
   * saltos starting from the hands of the top
 
+* ['First Steps in Acro'](https://m.youtube.com/watch?v=gFUk0HWvqss&pp=ygURYWNyb2JhdGljIHdlYmluYXI%3D) which was held on Saturday 7 November 2020 by European Gymnastics Technical Committee member Nikolay Ivanov (BUL). / Do you want to start with Acro coaching in your city or country? If so, you need to know:
+  * What are the main principles of training in Acro?
+  * Basic physiological, psychological and pedagogical features in the training for beginners.
+  * How to begin to develop acro in your city or country?
 
-* Nikolay Ivanov (BUL): ['First Steps in Acro'](https://m.youtube.com/watch?v=gFUk0HWvqss&pp=ygURYWNyb2JhdGljIHdlYmluYXI%3D)
 * Ana Matyskina (GER): ['Artistry coaching in Acrobatic Gymnastics'](https://m.youtube.com/watch?v=uJ1viDsStZw&pp=ygURYWNyb2JhdGljIHdlYmluYXI%3D) + [Explanatory Videos](https://m.youtube.com/watch?v=LbNBQpOt0jk&pp=ygURYWNyb2JhdGljIHdlYmluYXI%3D)
 * Lourenco Franca (POR): ['Failure to plan in acrobatics is planning to fail'](https://m.youtube.com/watch?v=BxHfE9OED_o&pp=ygURYWNyb2JhdGljIHdlYmluYXI%3D)
 * 
