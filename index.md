@@ -36,7 +36,9 @@
   }
 
     main div:nth-child(2) p {
-      margin-top: 80px;
+      padding: 10px;
+      margin-top: 50px;
+      margin-bottom: 30px;
     }
     
   .up {
@@ -174,7 +176,6 @@
         margin: 50px 0;
       }
         main div:nth-child(2) p {
-          padding: 10px;
           margin-top: 110px;
         }
   }
