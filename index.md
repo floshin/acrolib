@@ -31,10 +31,10 @@
     margin: 25px 0 -20px;
   }
 
-  p {
+  main div:first-child p {
     text-align: center;
   }
-
+    
   .up {
     display: none;
   }
@@ -165,9 +165,14 @@
       gap: 100px;
       justify-content: center;
     }
-      main div {
+      main > div {
         width: 580px;
+        margin: 50px 0;
       }
+        main div:nth-child(2) p {
+          padding: 10px;
+          margin-top: 110px;
+        }
   }
 
 </style>
