@@ -7,7 +7,7 @@ Here we list and link all kinds of relevant projects that are not already linked
 
 * ['Balance & Dynamic principles and decisions in acro coaching'](https://m.youtube.com/watch?v=FdwXJOZ4Y6o&pp=ygURYWNyb2JhdGljIHdlYmluYXI%3D) was held on Saturday 17 October from 2pm to 4pm CET. The experts were Revaz Gurgenidze (RUS) & Dmitry Vinnikov (RUS).
 
-* ['Building complexity in acrobatics – BALANCE (part 2 of 3)'](https://m.youtube.com/watch?v=b6SeNd0Bgrk&pp=ygURYWNyb2JhdGljIHdlYmluYXI%3D). / This webinar discusses the techniques and best preparation approaches necessary to master, presented by Sergey Tretjakov (BEL), Dmitry Vinnikov (RUS) and Yurii Golyak (UKR):
+* ['Building complexity in acrobatics – BALANCE (part 2 of 3)'](https://m.youtube.com/watch?v=b6SeNd0Bgrk&pp=ygURYWNyb2JhdGljIHdlYmluYXI%3D). / Sergey Tretjakov (BEL), Dmitry Vinnikov (RUS) and Yurii Golyak (UKR). / This webinar discusses the techniques and best preparation approaches necessary to master:
   * A variety of static handstand shapes and planches of the Top.
   * A number of the most commonly seen Mounts (Dislocate, Diamidov), Motions and Transitions. 
 
