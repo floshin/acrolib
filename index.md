@@ -34,6 +34,10 @@
   main div:first-child p {
     text-align: center;
   }
+
+    main div:nth-child(2) p {
+      margin-top: 80px;
+    }
     
   .up {
     display: none;
