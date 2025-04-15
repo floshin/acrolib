@@ -37,12 +37,6 @@
     display: none;
   }
 
-  main {
-    display: flex;
-    max-width: initial;
-    gap: 100px;
-  }
-
   main img {
     /* background: var(--light); */
     border: 1px solid light-dark(var(--dark), var(--light));
@@ -159,6 +153,16 @@
 
   footer p {
     text-align: initial;
+  }
+
+  @media (min-width: 1000px) {
+  
+    main {
+      display: flex;
+      max-width: initial;
+      gap: 100px;
+      justify-content: center;
+    }
   }
 
 </style>
