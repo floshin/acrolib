@@ -21,7 +21,11 @@ Here we list and link all kinds of relevant projects that are not already linked
   * Basic physiological, psychological and pedagogical features in the training for beginners.
   * How to begin to develop acro in your city or country?
 
-* Ana Matyskina (GER): ['Artistry coaching in Acrobatic Gymnastics'](https://m.youtube.com/watch?v=uJ1viDsStZw&pp=ygURYWNyb2JhdGljIHdlYmluYXI%3D) + [Explanatory Videos](https://m.youtube.com/watch?v=LbNBQpOt0jk&pp=ygURYWNyb2JhdGljIHdlYmluYXI%3D)
+* ['Artistry coaching in Acrobatic Gymnastics'](https://m.youtube.com/watch?v=uJ1viDsStZw&pp=ygURYWNyb2JhdGljIHdlYmluYXI%3D) + [Explanatory Videos](https://m.youtube.com/watch?v=LbNBQpOt0jk&pp=ygURYWNyb2JhdGljIHdlYmluYXI%3D) by Ana Matyskina (GER). If you are an advanced competitive level acrobat or coach and you want to understand what it is that the artistry judges look for in an acrobatic routine, then this webinar is for you. It discusses:
+  * Routine and music genre
+  * Routine construction
+  * Dance and ballet preparation  
+
 * Lourenco Franca (POR): ['Failure to plan in acrobatics is planning to fail'](https://m.youtube.com/watch?v=BxHfE9OED_o&pp=ygURYWNyb2JhdGljIHdlYmluYXI%3D)
 * 
  
