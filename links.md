@@ -26,10 +26,15 @@ Here we list and link all kinds of relevant projects that are not already linked
   * Routine construction
   * Dance and ballet preparation  
 
-* Lourenco Franca (POR): ['Failure to plan in acrobatics is planning to fail'](https://m.youtube.com/watch?v=BxHfE9OED_o&pp=ygURYWNyb2JhdGljIHdlYmluYXI%3D)
-* 
- 
-
+* ['Failure to plan in acrobatics is planning to fail'](https://m.youtube.com/watch?v=BxHfE9OED_o&pp=ygURYWNyb2JhdGljIHdlYmluYXI%3D) by Lourenco Franca (POR).
+  * Why and what to plan
+  * Measuring the plan’s success
+  * Effects of specific growth moments
+  * Understanding the importance of physical preparation and the relevence of strength training
+  * Training periodisation from Macro to Micro
+  * Load and Fatigue
+  * Volume & Intensity (friends or enemies?)
+  * Finding the perfect balance between rest, nutrition and activity
 
 
 ## Circus 
