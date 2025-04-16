@@ -36,3 +36,6 @@ Independent of the question which of these approaches may be more effective, the
          3. Magnesium
          4. Creatin
          5. DHA/EPA
+
+
+TODO: Add Specificity of Training
