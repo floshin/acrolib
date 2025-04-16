@@ -1,4 +1,4 @@
-# Physical Preparation and Load Management
+# General Principles of Training, Physical Preparation and Load Management
 
 *by Flosha, 16.04.2025*
 
