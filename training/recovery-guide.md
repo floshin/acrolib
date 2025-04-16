@@ -1,0 +1,23 @@
+# Recovery Guide
+
+In order to recover the best from your training you have to keep your sleep, hydration and nutrition on check. 
+
+1. **Sleep Hygiene**: To improve your sleep, there are simple rules of sleep hygiene: ...
+2. **Hydration**: Do not forget to drink enough water. Just clean water. It is important in douzens of ways. For your muscles, for your brain, for injury prevention etc. 
+3. **Nutrition**: To nourish your body for acrobatics, you have to give your body enough energy. In a sports like acro you have to have access to energy fast and replenish this energy if exhausted in training; therefore carbo-hydrates serve you best (such as rice or oats or millet, properly made sourdough bread or fruit). If you feel exhausted during training you may drink or eat something that gives you energy fast (such as a drink with sugar, honey, dates, a banana or jelly beans). Other than that sports acro is very strength-focused. In order to become strong you have to get enough protein (such as from fish, lentils, beans, cheese or meat). Some fats are essential and absolutely necessary, therefore you should get some fat too (like olive oil, joghurt, cheese, butter, lineseed oil, seeds and nuts), but not too much and preferably not immediately before or during training, as it may let you feel sluggish. To get enough vitamins and minerals and for digestion it is crucial to eat enough vegetables, preferably from different colours (as they contain different nutrients) and especially so leafy greens. If you want to eat healthy, nutritious food, do not eat junk food and avoid eating outside. Prepare your food yourself in order to control all the ingrediences and to know what you are putting into your body. If you do so consistently you won't need to count calories as you can control your weight easily by the rough sizes of your portions. If you follow this advice, you do more things right than most and have done more for your recovery than any supplement can do.
+     1. **Supplementation**: To additionally assist your training and health after having met the targets above, it may be wise to take some supplements that are highly recommended in our time, partially due to changed ecological conditions or due to specific geographical conditions (depending on where you live), due to the decreased nutritional value of modern food and/or simply due to increased needs of our bodies in a strenuous sport:
+         1. A protein powder w/o any additives, such as a rice/pea mix, if you cannot easily meet your protein targets with food. It makes life easier and you don't have to eat as much, if that is a concern, depending on your situation. 
+         2. Vitamin C + Zink, ...
+         3. Vitamin D, ...
+         4. Magnesium, ...
+         5. Creatin, ...
+         6. Collagen, ...
+         7. DHA/EPA, ...
+
+
+## Nutrition for Bases vs. Tops
+
+As a Base please note: If you need to gain weight and have to force yourself to eat more and have a hard time gaining any weight, it may not feel natural at first to eat more and you may wonder if it is healthy. But be aware that your perception of appetite and hunger may not work well. Many people for instance have lost their sense of thirst simply due to some prolonged or recurrent period of ignoring it. They are often dehydrated and don't recognise it. In the same way you may be underfueled and may not feel well but do not recognise it as an energy- or nutrient-deficiency because of prolonged periods of fasting or very irregular eating in the past. Thus allow yourself to eat more (maybe not more in volume, but more frequently, like adding breakfast if you usually skip it), even if it feels like forcing at times in order to give your body the opportunity to re-adjust its sense of hunger. Compared to your top you just have to eat more. Both more carbs and more protein; otherwise the principles are the same. 
+
+As a Top trying to stay light and lean, please note: Staying light and lean is not the same as underfueling. You can stay light and lean and still give the body everything it needs, enjoy eating and love food. Just eat in moderation. If you feel constantly hungry it will negatively impact training and recovery and won't serve anyone. The main problem is over-indulgence. It is not wrong to make it a principle to only eat if you are actually hungry and then to eat until the hunger is gone, which may mean like eating just 80% and not until you feel completely full. This simple principle combined with eating healthy food prepared at home, no junk, enough carbs in moderation and protein, a bit lower fat and enough vegetables, may already suffice to give you that light and lean body you strive for for performance as a top and still let you feel fine. 
+
