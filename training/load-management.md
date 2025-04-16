@@ -21,11 +21,7 @@ If that is the case - will we need to go the route of written records and measur
 * Very high intensity (while absolutely being necessary to become stronger) is causing damage, can lead to injury and negatively impact joint health if not managed properly and done with too much volume and may not be done daily. Low intensity with high volume on the other hand is healing, can heal injuries, can improve joint health and can be done a lot without running into any problems and can be done daily. 
   * If those exercises which are varied a lot all fall into the category of low intensity exercises with high volume, they will be able to contribute to healing and joint health, provide the necessary variety to prevent overuse injury and a broad foundation of movement skills and do not have to be tracked too rigidly because they will not impact recovery as much (or even influence recovery positively). In this case the high intensity exercises can be much less varied, more straightforward, with fixed rep ranges and thus be easy to overload and track intuitively. 
 
-
-
-
-hile this is the case, a
-
+Another principle is this: 
 * Any sudden increase in load (in frequency, volume or intensity) is a completely unnecessary risk. Load should be increased in small, incremental steps which provides the greatest safety, the least risk and makes sure that the level of physical preperation acquired in this way rests on a solid foundation.
   * This has also and especially to be followed after every kind of prolonged period without training, such as one week of being sick, an injury or a week of vacation. One week may not seem like much, but when one trains for 4 times a week every time and then suddenly not at all for a week and then starts doing so again 4 times a week immediately, this can already lead to injury. 
 
