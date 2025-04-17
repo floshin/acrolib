@@ -129,6 +129,11 @@ table {
       border: 1px solid;
       padding: 0.5em
     }
+
+blockquote {
+  padding-left: 10px;
+  border: 10px solid var(--dark);
+}
     
 footer {
   margin-top: 50px;
