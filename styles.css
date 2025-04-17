@@ -142,6 +142,7 @@ img {
 /* Add a:focus styling for selecting links via tab */
 
 .up {
+  margin-top: 50px;
   text-align: right;
 }
 
