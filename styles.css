@@ -131,8 +131,8 @@ table {
     }
 
 blockquote {
-  padding-left: 10px;
-  border: 10px solid var(--dark);
+  padding-left: 20px;
+  border-left: 20px solid var(--light);
 }
     
 footer {
