@@ -66,7 +66,7 @@ Status: work in progress
 * Warm up:
   * 3-way Core Stabilisation (e.g. Hollow Ups, Side-Arch-ups or Side Planks, Arch-ups)
   * Glute Activation (e.g. sidelying internal rotation or banded side-steps)
-  * Shoulder/Wrist Mobility (e.g. with an empty barbell)
+  * Shoulder/Wrist Mobility and Muscular Activation (e.g. Push-ups and preparation with an empty barbell)
 
 * Main Lifts:
   * **Vertical Push:** Press (Standing or seated), Handstand Push-ups
