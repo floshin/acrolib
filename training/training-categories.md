@@ -70,21 +70,21 @@ Status: work in progress
 
 * Main Lifts:
   * **Vertical Push:** Press (Standing or seated), Handstand Push-ups
-  * **Horizontal Push:** Weighted Push-ups, Planche Push-ups or (behind-weighted) Dips
-  * **Core:** Back Extensions + Holds, Lying Side-Raises or Barbell Side Bends + Holds, Full Range Sit-ups + Holds
-  * **Leg Push:** Front Squats or Partner Squats, Kneeling Leg Extensions
-  * **Leg Pull:** Romanian Deadlifts, One legged deadlifts, Kneeling Leg Curls
+  * **Horizontal Push:** Weighted Push-ups or Planche Push-ups or (behind-weighted) Dips
+  * **Core:** Horizontal Back Extensions, Lying Side-Raises, Full Range Sit-ups + Holds
+  * **Leg Push:** Front Squats or Partner Squats
+  * **Leg Pull:** Romanian Deadlifts or 45° Back Extensions
 
-* Accessory lifts:
-  * **Upright Rows**, important for Cannonball Development)
-  * **Calves:** Calf Raises (+ Single Leg) in full-range for preparing the ancles 
-  * **Wrist:** Barbell Wrist Curls, Phalanx Grip Hangs, False Grip Hangs for wrist prep
-  * **PuBu Squats:** Weighted PuBu (Cossack) Squats for fixing muscular asymmetries
-  * **(Wide) Split Squats** for increasing flexibility and fixing asymmetries
-  * **Barbell Side Bends** for standing strength in side flexion and injury prevention
-  * **Suitcase Carries** for unilateral core stability and injury prevention
+* Accessory Exercises:
+  * **Upright Rows**, important for Cannonball Development
+  * **Ancles/Calves:** Calf Raises (+ Single Leg) in full-range for preparing the ancles 
+  * **Wrists:** Barbell Wrist Curls, Phalanx Grip Hangs, False Grip Hangs for wrist prep
+  * **Unilateral Leg Push:** (1) (Wide) Split Squats for increasing flexibility and fixing asymmetries. (2) PuBu Squats (Weighted PuBu=Cossack Squats for fixing muscular asymmetries)
+  * **Unilateral Leg Pull:** One legged deadlifts
+  * **Additional Core/Spine Preparation:** Jefferson Curls, Barbell Side Bends (for standing strength in side flexion and injury prevention), Suitcase Carries (for unilateral core stability and injury prevention), Pall-Off-Press + Side-Walks + Lunges (for Anti-Rotational Core-Stability), One-legged Horizontal Back Extensions + Holds or unilateral weight holds (left or right arm) in the Back Extension Hold, Stir-the-pot.
   * **Seated Pancake Good Mornings** for hip flexibility and injury prevention
-  * **Pall-Off-Press** + **Side-Walks** + **Lunges** for Anti-Rotational Core-Stability
+  * **Kneeling Leg Extensions**  
+  * **Hamstrings:** *Kneeling Leg Curls*, for particularly bulletproofing the hamstrings
 
 ...
 
