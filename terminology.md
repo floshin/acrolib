@@ -134,8 +134,8 @@ We divide the Acrobatic terms into the following categories according to the cat
 * Category D1: Gripped Flags
 * **Figa** is a One Arm Handstand from the category of piked handstands with a 45° rotation of the back with the legs held horizontally to the floor. A Figa where the back is twisted so much that the legs are not oriented sideways but behind the body we refer to as an Over-Figa. A Figa in which the legs are not held horizontally but pointing downwards as in a "Deep Pike" (Visulka or Icycle), we refer to as a "Deep Figa". Both Over-Figa and Deep-Figa are not yet categorized as unique handstands in the ToD. 
 * Uncategorized Handstands:
-  * **Visulka / Deep Pike / Icycle**
-  * **Over-Figa**
+    * **Visulka / Deep Pike / Icycle**
+    * **Over-Figa**
 
 
 ##### Supports
