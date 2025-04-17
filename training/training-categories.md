@@ -85,6 +85,7 @@ Status: work in progress
   * **Seated Pancake Good Mornings** for hip flexibility and injury prevention
   * **Kneeling Leg Extensions**  
   * **Hamstrings:** *Kneeling Leg Curls*, for particularly bulletproofing the hamstrings
+  * **Neck:** Neck Curls and Extensions
 
 ...
 
