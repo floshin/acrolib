@@ -40,7 +40,9 @@ Being too heavy can also have negative impact in regard to elegance. There is a 
 
 But in general we can say that bases should aim to become muscular enough to be able to handle their tops *easily*. And while staying lean in the process may be favourable in gymnastics for the aesthetics in the performance, it will not really have much of a negative impact on skill execution, especially since senior gymnasts are no longer required to perform any individual elements. The ideal is to be muscular and lean, with no need to be "light".
 
-The situation is different for tops. For tops it is and always will be crucial to be lean, but also to be light. Too much muscle won't be of use and will negatively impact skill execution. Thus, for tops much more than for bases, the ideal would be to maximise the strength-to-mass ratio; being as strong as possible with relatively little mass. 
+The situation is different for tops. For tops it is and always will be crucial to be lean, but also to be light. Too much muscle won't be of use and will negatively impact skill execution. Thus, for tops much more than for bases, the ideal would be to maximise the strength-to-mass (or strength-to-weight) ratio; being as strong as possible with little/less mass. Nonetheless they have to build some degree of mass in the process of learning and mastering their skills. 
+
+This will more so be the case if girls develop wider hips and a more regular feminine physique (in difference to the cases of those girls who preserve the physique of a girl into adulthood); in this case much more mass will be required and necessary to be build in order to maintain their skills. 
 
 
 ## Basic Strength vs. Skill Strength
