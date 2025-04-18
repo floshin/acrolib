@@ -8,29 +8,52 @@ Thereby the strength requirements and skills of base and top partners are differ
 * [Specificity in the Preparation of Bases](#specificity-in-the-preparation-of-bases)
 * [Specificity in the Preparation of Tops](#specificity-in-the-preparation-of-tops)
 
-But before we deal with the specific preparation of the partners and their differences, we will have to clarify some general terms and principles. After which we can then show how these principles are applied in the specific preparation of bases and tops. 
+But before we deal with the specific preparation of the partners and their differences, we will have to clarify some general terms and principles. If we understand these we can then show how these principles are applied in the specific preparation of the partners. 
 
 At first we have to understand that there are fundamental differences between training for (1) Mass, (2) Strength and (3) Skill Strength. And all three of these categories of training are necessary, but in different ways for bases and tops.
 
 
-## 
+## Mass vs. Strength
+
+Mass training is necessary to some degree (more for bases than for tops), because while mass does *not* equal strength, it can be understood as *strength potential*. You are not necessarily stronger if you have more muscle mass, but you have more potential of strength-output than with less mass. 
+
+To simplify this (obviously it depends on additional factors): If someone with less muscle mass is stronger than someone with more mass in absolute terms, the one with less mass uses his strength potential better and the other one uses it less.   
+After a phase focused on strength the one with more mass may become stronger and the other one will not easily be able to overcome him in strength again, in lack of muscle mass, because he uses his full potential already. Before he can become stronger he has to build more muscle first. 
+
+Thus both mass building and strength development is necessary. They differ in volume, intensity, rep range, reps in reserve, speed, rest time, exercise selection and so on. 
+
+While strength training will also be able to carry-over to more mass and mass building will carry-over to more strength, they are basically two different approaches to training. 
+
+Approaching them on their own has been proven to be more efficient. But efficiency is not the only factor that may be relevant to coaches and athletes. 
+
+In general we can distinguish the two approaches like this:
+* Mass is mainly build by lower to medium intensity and by a progression of volume; the focus lies on the pump of the muscles, thus prolonging time under tension, controlling the weight more and reducing rest time. 
+* Strength is mainly build by higher intensity and by a progression of intensity (while the volume may even decrease); the focus lies on the neurological strength output; time under tension is reduced, the stretch reflex is used, the eccentric is not slowed down and the concentric done as explosive as safely possible; rest time is increased as needed.
+
+But while this is a general scheme that works for most people, we also have to be aware that some people respond better to higher intensity and less volume even for building mass. While others respond better to less intensity and higher volume; and strength can be developed in this way too, just more slowly (but also very safely). 
+
+For bases and tops we have to make a clear distinction in regard to mass vs. strength as it relates to their role. Bases can theoretically maximise mass building, depending on their other goals. There is always a trade-off in being too heavy depending on which kinds of disciplines a base is also trying to specialise in. 
+
+For example: As a handbalancer, heavy legs are extremely benachteiligend. Trying to be a base and a handbalancer thus may mean that one may try to find a middle ground of strong but not too heavy legs. Or he may choose to keep them very lean for handbalancing but as a trade-off specialise in balance in hand-to-hand, reducing the necessary leg strength due to the lack of (higher level) dynamics. 
+
+Being too heavy can also have negative impact in regard to elegance. There is a reason for dancers to be lean and relatively thin, as it accentuates the lines. Thus in some cases it may just be a personal choice due to an aesthetical preference and personal well-being. If one doesn't feel well in ones body past a specific weight there is no sense in forcing more weight unto it. 
+
+But in general we can say that bases should aim to become muscular enough to be able to handle their tops *easily*. And while staying lean in the process may be favourable in gymnastics for the aesthetics in the performance, it will not really have much of a negative impact on skill execution, especially since senior gymnasts are no longer required to perform any individual elements. The ideal is to be muscular and lean, with no need to be "light".
+
+The situation is different for tops. For tops it is and always will be crucial to be lean, but also to be light. Too much muscle won't be of use and will negatively impact skill execution. Thus, for tops much more than for bases, the ideal would be to maximise the strength-to-mass ratio; being as strong as possible with relatively little mass. 
 
 
+## Basic Strength vs. Skill Strength
 
-
-## Specificity in the Preparation of Bases
-
-
-
-
-**Mass vs. Strength:** Mass training is necessary to some degree (much more important for bases than for tops), because while mass does *not* equal strength, it can be understood as *strength potential*. You are not necessarily stronger if you have more muscle mass, but you have more potential of strength-output than with less mass. To simplify (obviously it depends on additional factors): If someone with less muscle mass is stronger than someone with more mass in absolute terms, the one with less mass uses his strength potential better and the other one uses it less. 
-After a phase focused on strength the one with more mass may become stronger and the other one will not easily be able to overcome him in strength again in lack of muscle mass because he uses his full potential already. Before he can become stronger he has to build more muscle first. Thus both mass building and strength building is necessary. They differ in volume, intensity, rep range, reps in reserve, speed, rest time, exercise selection and so on. While strength training will also be able to carry-over to more mass and mass building will carry-over to more strength, they are basically two different approaches to training. Approaching them on their own has been proven to be more effective. But some people respond better to higher intensity and less volume, others respond better to less intensity and higher volume.
-
-**Basic Strength vs. Skill Strength:** When we are speaking of "Skill Strength" we are not speaking of Skill Training. Skill Training is simply practicing acrobatic skills. Skill Strength Training is doing skill-specific strength exercises to become stronger in the skills. To explain the difference: One may have the goal to achieve the "Planche". For doing so he will need to constantly practice specific skills that are reasonable to do at his level. This is his skill training. But the skill he aims for is yet way too hard to practice. He recognises that he has to become stronger and that his muscle mass may not suffice. Thus he will start to build muscle necessary for the skill, such as by practicing weighted push-ups or incline bench press in a mass cycle (or several ones if necessary). After (and to some degree simultaneously) to having build more mass, he will work on expressing more strength through this mass (using more of his potential) through basic strength exercises, such as, in this case, again: Weighted Push-ups or Incline Bench Press, but now with a strength focused programming, strength rep range, intensity, volume, speed and rest. After (and to some degree simultaneously) he will then focus on expressing this strength in skills through skill strength exercises, such as variations of Planche Push-ups.
+When we are speaking of "Skill Strength" we are not speaking of Skill Training. Skill Training is simply practicing acrobatic skills. Skill Strength Training is doing skill-specific strength exercises to become stronger in the skills. To explain the difference: One may have the goal to achieve the "Planche". For doing so he will need to constantly practice specific skills that are reasonable to do at his level. This is his skill training. But the skill he aims for is yet way too hard to practice. He recognises that he has to become stronger and that his muscle mass may not suffice. Thus he will start to build muscle necessary for the skill, such as by practicing weighted push-ups or incline bench press in a mass cycle (or several ones if necessary). After (and to some degree simultaneously) to having build more mass, he will work on expressing more strength through this mass (using more of his potential) through basic strength exercises, such as, in this case, again: Weighted Push-ups or Incline Bench Press, but now with a strength focused programming, strength rep range, intensity, volume, speed and rest. After (and to some degree simultaneously) he will then focus on expressing this strength in skills through skill strength exercises, such as variations of Planche Push-ups.
 
 It is totally possible to not approach the training in this way. It is simply a way that has been proven to be effective and is currently recommended by diverse experts in the field. But all of these exercises in their different rep ranges, speed, rest times etc. could also be done simultaneously. E.g. you could also have a mixed mass + strength programming, where you work in more of a mass building fashion a few days a week and more in a strength building fashion on other days. And depending on if one of the two is currently of higher relevance for your situation you may put more focus on one or the other (e.g. have 80% of your training be mass focused and 20% strength or vice versa). 
 
 It is also possible to replace all or most basic strength exercises with skill strength exercises in order to have the highest specificity in training. The problem with this approach is that many skills (such as the planche or planche push-ups) are very hard on the joints and are not as easy to use and sustain without injury when practiced all the time than regular exercises such as weighted push-ups. But it can be done if one is very advanced in his level of preparation and can handle it. Thus, only using skill strength exercises for strength training is not for beginners, it is for advanced athletes with enough preparation. But it is the eventual goal in order to train with more specificity and become excellent in skill execution.
+
+
+
+## Specificity in the Preparation of Bases
 
 To apply this knowledge to the training of bases: The skills that the bases have to master primarily, are tempos and landings/catches in diverse positions for dynamic, and mounts, motions and holds in diverse positions for balance. 
 
