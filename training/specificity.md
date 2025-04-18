@@ -2,19 +2,26 @@
 
 *by Flosha, 18.04.2025*
 
+You become better at what you train. The more specific your required or desired skills and the more specific your strength training is to these skills, the better you will become in performing them. Therefore we are aiming to make all of our training specific to what it should eventually enable us to do. 
 
-Todo: Add Introduction.
+Thereby the strength requirements and skills of base and top partners are different due to their different roles in the sport. Therefore I am dividing this article in: 
+* [Specificity in the Preparation of Bases](#specificity-in-the-preparation-of-bases)
+* [Specificity in the Preparation of Tops](#specificity-in-the-preparation-of-tops)
 
-The strength requirements and skills of base and top partners are very different. Therefore I am dividing this article in: 
-* Specificity in the Preparation of Bases
-* Specificity in the Preparation of Tops
+But before we deal with the specific preparation of the partners and their differences, we will have to clarify some general terms and principles. After which we can then show how these principles are applied in the specific preparation of bases and tops. 
+
+At first we have to understand that there are fundamental differences between training for (1) Mass, (2) Strength and (3) Skill Strength. And all three of these categories of training are necessary, but in different ways for bases and tops.
+
+
+## 
+
+
 
 
 ## Specificity in the Preparation of Bases
 
-Before dealing with the preparation of the base partners, we have to understand that there are fundamental differences between training for (1) Mass, (2) Strength and (3) Skill Strength.
 
-All three categories of training are necessary. 
+
 
 **Mass vs. Strength:** Mass training is necessary to some degree (much more important for bases than for tops), because while mass does *not* equal strength, it can be understood as *strength potential*. You are not necessarily stronger if you have more muscle mass, but you have more potential of strength-output than with less mass. To simplify (obviously it depends on additional factors): If someone with less muscle mass is stronger than someone with more mass in absolute terms, the one with less mass uses his strength potential better and the other one uses it less. 
 After a phase focused on strength the one with more mass may become stronger and the other one will not easily be able to overcome him in strength again in lack of muscle mass because he uses his full potential already. Before he can become stronger he has to build more muscle first. Thus both mass building and strength building is necessary. They differ in volume, intensity, rep range, reps in reserve, speed, rest time, exercise selection and so on. While strength training will also be able to carry-over to more mass and mass building will carry-over to more strength, they are basically two different approaches to training. Approaching them on their own has been proven to be more effective. But some people respond better to higher intensity and less volume, others respond better to less intensity and higher volume.
