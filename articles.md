@@ -1,6 +1,6 @@
 # Articles
 
-* Extra Points for Extra Strength (by Flosha)
+## Training
 
 * [Principles of Training Acrobatics](/training/load-management) (by Flosha)
   * [Specificity in Strength Training for Acrobatics](/training/specificity) (by Flosha)
@@ -8,3 +8,8 @@
   * [Guide to Recovery](/training/recovery-guide) (by Flosha)
  
 * [Acrobatic Training Philosophies](/training/training-philosophies) (by Flosha)
+
+
+## Rules
+
+* Extra Points for Extra Strength (by Flosha)
