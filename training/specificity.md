@@ -1,36 +1,46 @@
 # Specificity in Strength Training for Acrobatics
 
-*by Flosha, 18.04.2025*
+*by Flosha, 18.04.2025 - 19.04.2025*
 
-You become better at what you train and internalise it in the way you train it. The more specific your strength training is to your required or desired skills, the better you will become in performing them. Therefore we are aiming to make as much of our training as reasonably possible specific to what it should eventually enable us to do. 
+You become better at what you train and internalise it in the way you train it. You will as well internalise bad patterns if you keep practicing them. That makes it very obviously essential to practice, from the very beginning, in the most technically correct way. For this reason a good coach is necessary to teach and instill solid technique. 
 
-Thereby the strength requirements and skills of base and top partners are different due to their different roles in the sport. Therefore I am dividing this article in: 
+This is the simple rule of specificity: You become good at what you do. When you do it badly you will become good in doing it badly. The same applies to strength. The more specific your strength training is to your required or desired skills, the better you will become in performing them. Therefore we are aiming to make all (or as much as reasonably possible) of our training *specific* to what it should eventually enable us to do. 
+
+The strength requirements and skills of base and top partners are different due to their different roles in the sport. Therefore I am dividing this article in: 
 * [Specificity in the Preparation of Bases](#specificity-in-the-preparation-of-bases)
 * [Specificity in the Preparation of Tops](#specificity-in-the-preparation-of-tops)
 
-But before we deal with the specific preparation of the partners and their differences, we will have to clarify some general terms and principles. If we understand these we can then show how these principles are applied in the specific preparation of the partners. 
+But before we deal with the specific preparation of the partners and their differences, we will have to clarify some general terms and principles. If we understand these we can then show how these principles can be applied in the specific preparation of the partners. 
 
-At first we have to understand that there are fundamental differences between training for (1) Mass, (2) Strength and (3) Skill Strength. And all three of these categories of training are necessary, but in different ways for bases and tops.
+At first we have to understand that there are (or can be) important differences between training for (1) Mass, (2) Strength and (3) Skill Strength. All three of these categories of training are necessary, but in different ways for bases and tops.
 
 
 ## Mass vs. Strength
 
-Mass training is necessary to some degree (more for bases than for tops), because while mass does *not* equal strength, it can be understood as *strength potential*. You are not necessarily stronger if you have more muscle mass, but you have more potential of strength-output than with less mass. 
+At first we will at the difference betwern Mass and Strength training and how mass relates to strength and vice versa. 
+
+Mass training is necessary to some degree (more for bases than for tops). While mass does *not* equal strength it can be understood as *strength potential*. You are not necessarily stronger if you have more muscle mass, but you have more potential of strength-output than with less mass. 
 
 To simplify this (obviously it depends on additional factors): If someone with less muscle mass is stronger than someone with more mass in absolute terms, the one with less mass uses his strength potential better and the other one uses it less.   
 After a phase focused on strength the one with more mass may become stronger and the other one will not easily be able to overcome him in strength again, in lack of muscle mass, because he uses his full potential already. Before he can become stronger he has to build more muscle first. 
 
-Thus both mass building and strength development is necessary. They differ in volume, intensity, rep range, reps in reserve, speed, rest time, exercise selection and so on. 
+Thus both mass building and strength development is necessary. Training them efficiently may differ in volume, intensity, rep range, reps in reserve, speed, rest time, exercise selection and so on. While a strength focused training will also be able to carry-over to more mass and mass building focused training will carry-over to more strength, they are two different approaches to training. 
 
-While strength training will also be able to carry-over to more mass and mass building will carry-over to more strength, they are basically two different approaches to training. 
-
-Approaching them on their own has been proven to be more efficient. But efficiency is not the only factor that may be relevant to coaches and athletes. 
+Approaching them on their own in seperate cycles has been proven to be more efficient. But efficiency is not the only factor that may be relevant to coaches and athletes. 
 
 In general we can distinguish the two approaches like this:
 * Mass is mainly build by lower to medium intensity and by a progression of volume; the focus lies on the pump of the muscles, thus prolonging time under tension, controlling the weight more and reducing rest time. 
 * Strength is mainly build by higher intensity and by a progression of intensity (while the volume may even decrease); the focus lies on the neurological strength output; time under tension is reduced, the stretch reflex is used, the eccentric is not slowed down and the concentric done as explosive as safely possible; rest time is increased as needed.
 
-But while this is a general scheme that works for most people, we also have to be aware that some people respond better to higher intensity and less volume even for building mass. While others respond better to less intensity and higher volume; and strength can be developed in this way too, just more slowly (but also very safely). 
+But while this is a general scheme that works for most people, we also have to be aware that some people respond better to higher intensity and less volume even for building mass. While others respond better to less intensity and higher volume. And strength can be developed with lower intensity and higher volume too, just more slowly (but also very safely). 
+
+If strength is increased in this way it basically means that one never fully utilises the muscle mass to his full potential and will not be as strong as he could be. But that doesn't mean that it might not be a potent and safe approach to training for some use-cases. 
+
+This is based on two different approaches to training, progression and overload:
+
+* Usually one may approach it by training with high intensity, gaining as much strength as possible, then building more mass, then doing another strength cycle to utilise this mass and so on. By doing so one is often close to the edge of what his body can handle with positive adaptation instead of breaking down and if he finds the right sweet spot in doing so, e.g. by diverse regulation methods, he will make progress and hopefully remain injury-free. It also may be more valuable for people who do not train everyday and who like planning and thinkering around with their programme. Planning and sticking to these cycles can be difficult and tiring and too much for many people to do on their own, when they just want to focus on training. Periodisation and training in cycles is usually something planned and provided by Coaches, so that their athletes do not have to worry about it. Many non-professional strength athletes use modern apps providing such a scheme for them instead of doing it on their own.
+
+* The other method is very different in that it is setting a
 
 For bases and tops we have to make a clear distinction in regard to mass vs. strength as it relates to their role. Bases can theoretically maximise mass building, depending on their other goals. There is always a trade-off in being too heavy depending on which kinds of disciplines a base is also trying to specialise in. 
 
