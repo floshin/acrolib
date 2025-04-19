@@ -2,7 +2,7 @@
 
 *by Flosha, 18.04.2025*
 
-You become better at what you train. The more specific your required or desired skills and the more specific your strength training is to these skills, the better you will become in performing them. Therefore we are aiming to make all of our training specific to what it should eventually enable us to do. 
+You become better at what you train and internalise it in the way you train it. The more specific your strength training is to your required or desired skills, the better you will become in performing them. Therefore we are aiming to make as much of our training as reasonably possible specific to what it should eventually enable us to do. 
 
 Thereby the strength requirements and skills of base and top partners are different due to their different roles in the sport. Therefore I am dividing this article in: 
 * [Specificity in the Preparation of Bases](#specificity-in-the-preparation-of-bases)
