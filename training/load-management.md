@@ -36,6 +36,15 @@ If an exercise is not right for you, influencing any of the other factors won't 
 
 Then comes the technique: How do you perform the exercise? How do you distribute the load on your body while performing the exercise? Can you perform it well and with solid technique? Because if you cannot do it with correct technique you can influence the intensity, volume and frequency as much as you want. In the end it doesn't matter; if your technique stays the same you will eventually run into problems again if you try to increase the frequency, volume or intensity again. 
 
+Intensity can be influenced by using more or less weight, more or less speed and more or less conscious muscle tension or "intent".  
+
+Volume can be influenced by changing how much is done weekly, daily or per set of total training or of training of specific exercises or muscle groups. 
+
+Frequency can be influenced by changing how often we train in total every week or by how often we train specific exercises or muscle groups or movement patterns (if not doing the same everyday).  
+
+While we can influence and think of these factors in isolation, they are strongly linked. 
+
+
 
 ## Two Approaches to Training
 
