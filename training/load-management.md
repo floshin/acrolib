@@ -25,9 +25,16 @@ How can load be managed? By changing one or more of the above mentioned factors.
 * the volume
 * the frequency
 
+Very often people only change the intensity, the volume or the frequency when trying to manage their load. These are important factors to consider. But even more important is exercise selection and technique. 
 
+Exercise selection has two different aspects. 
 
+(1) At first we have to ask, which exercises we do. Which exercise is right for you and at your current "level" (of coordination, strength, flexibility etc.)? Does it serve your needs? This may not be too difficult to decide in strength training, but is a very complex topic in acrobatics.  
+If an exercise is not right for you, influencing any of the other factors won't change that you are working on an exercise which may be too early to do for you and is ineffective or puts too much strain on your body no matter how you do it. For example: When you are weighing 160kg and cannot do a Plank on your hands for 1min without your wrists hurting, you cannot train handstands no matter the technique, intensity, volume or frequency. This exercise is just not right for you at this moment. We have to choose the right ones. But exercise selection is not only about choosing specific exercises in isolation. 
 
+(2) It is also about which exercises you choose to combine in your programme. The first task is to choose exercises appropriate to your level. The second task it to choose exercises appropriate to balance each other out. This is of the utmost importance. Why? Simply: Doing a specific exercise at a specific intensity, volume and frequency may be too much for you if you are only ever doing this exercise or other ones that aren't balancing out the load that this exercise puts on your body. But doing that same exercise may *not* be too much for you at that very same intensity, volume and frequency if you also do specific other exercises that balance out that load. Thus, before we are thinking about changing intensity, volume or frequency, we have to think about if we aren't simply missing something in our training that could help our body to sustain that load? 
+
+Then comes the technique: How do you perform the exercise? How do you distribute the load on your body while performing the exercise? Can you perform it well and with solid technique? Because if you cannot do it with correct technique you can influence the intensity, volume and frequency as much as you want. In the end it doesn't matter; if your technique stays the same you will eventually run into problems again if you try to increase the frequency, volume or intensity again. 
 
 
 ## Two Approaches to Training
