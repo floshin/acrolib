@@ -26,6 +26,21 @@ Thus, the idea was: You consider it your duty and honor to work in some form tha
 
 But how does this soviet ideal of labour translate to training and to training acrobatic gymnastics in particular? 
 
+The idea is rather simple: The harder you work, the better you become. If you work harder, this is an honour, it reflects your work ethic and your commitment to the ideal (it doesn't have to be the ideal of a socialist society, it can as well be the ideal of acrobatics, to become the embodiment of an excellent acrobat). If you do not constantly work, if you aren't working hard but only do the necessary or if you need constant outside motivation,  you just aren't taken serious and won't be respected much because you don't take the work serious yourself and don't respect the discipline. 
+
+But if you do, if you work hard to the best of your ability, taking the work serious and respecting the discipline, you are taken serious too and will be respected. And working doesn't mean constantly showing how hard you're working. It means working consistently in silence until the results speak for themselves. 
+
+And the resuts here are not profit and fame, the result is acrobatic skill and success in the sport or the art you have chosen, by just living that life as a sportsman or girl and doing the deed. 
+
+In order to illustrate this point by an example. If I remember correctly, the very first direct interaction that I ever had with Frosya was that she was telling me, after she hadn't known me and I hadn't been of any relevance to her, that she now thinks differently about me and respects me because she sees that I work hard and how much I love acrobatics. This was the very first thing I remember her telling me and I guess she was just 13 at the time. This anecdote may show well enough how she shares and was educated in this very same philosophy of work. 
+
+Now, in capitalist society the idea of working hard is well known too. But it is working hard in order to succeed, whereas success here is equated with profit. In difference to socialist society (speaking in principial ways) you are not respected much for working hard in and out of itself, you are respected most for the profit you gain, even if you gain that profit without working hard at all, while hard-working labourers are used in no less exploitative ways for maximising profit in the hands of the few. 
+
+
+
+
+
+
 
 
 
