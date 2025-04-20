@@ -2,11 +2,11 @@
 
 *by Flosha, 18.04.2025 - 19.04.2025*
 
-You become better at what you train and internalise it in the way you train it. You will as well internalise bad patterns if you keep practicing them. That makes it very obviously essential to practice, from the very beginning, in the most technically correct way. For this reason a good coach is necessary to teach and instill solid technique. 
+You become better at what you train and internalise it in the way you train it. You will as well internalise bad patterns if you keep practicing them. From this fact follows that it is absolutely essential to practice, as far as possible, from the very beginning in the most technically correct way. For this reason a good coach is necessary to teach and instill solid technique. 
 
 This is the simple rule of specificity: You become good at what you do. When you do it badly you will become good in doing it badly. The same applies to strength. The more specific your strength training is to your required or desired skills, the better you will become in performing them. Therefore we are aiming to make all (or as much as reasonably possible) of our training *specific* to what it should eventually enable us to do. 
 
-The strength requirements and skills of base and top partners are different due to their different roles in the sport. Therefore I am dividing this article in: 
+The strength requirements and skills of base and top partners are different due to their different roles in the sport. Therefore this article will be concluded in these two subchapters: 
 * [Specificity in the Preparation of Bases](#specificity-in-the-preparation-of-bases)
 * [Specificity in the Preparation of Tops](#specificity-in-the-preparation-of-tops)
 
