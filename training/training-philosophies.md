@@ -24,6 +24,8 @@ To quote the last version of the constitution:
 
 Thus, the idea was: You consider it your duty and honor to work in some form that is socially useful. Read socially useful, not profitable (two attributes that people in capitalist societies easily confuse, while they have little to do with each other). They are choosing a socially useful activity, ideally one that is in accordance with ones own abilities, tendencies, inclinations, enabling one to express one self and serve society the best by following ones own profession. Then you work on that choosen profession with strict discipline. While the USSR is no more, this philosophy which generations have been educated in and this discipline that has still been the norm for several coaches that were born and brought up in the soviet system, is still very much alive in the training systems of these coaches and is shaping the life and philosophy of the athletes training in these systems. 
 
+But how does this soviet ideal of labour translate to training and to training acrobatic gymnastics in particular? 
+
 
 
 
