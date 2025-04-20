@@ -6,6 +6,32 @@
 
 In the physical preparation of acrobatic gymnasts, "load management" is crucial for the progress of the athletes and for injury prevention. Load management is a complex topic in strength training already, where it can be measured relatively easy; in gymnastics it becomes so complex that without substantial knowledge in biomechanics one will not really be able to understand the load that their athletes are exposed to. 
 
+But what is load management?  
+You can only load any structure to a specific point, beyond which the structure will break down. The body, in order to become stronger, has to be regularly exposed to load and the load has progressively to be increased (= progressive overload) for positive adaptations in strength to happen. If the load is too much the body will not be able to recover, there will be no positive adaptation and injury will inevitably occur sooner or later. If the load is not enough, there will be no adaptation either, as the body has no reason to become any stronger. Thus, in order to make progress and to prevent injury, load has to be managed.
+
+What does the load consist of or is influenced by? 
+* Load is influenced by how you distribute different forms of load in training - the exercise selection.
+* Load is influenced by how you distribute the load on your body, by the utilisation of specific muscles and movement patterns - the technique.
+* Load is influenced by how much resistance you deal with in training - the intensity.
+* Load is influenced by how much time you spend training and working against resistance (per set, per day, per week) - the volume.
+* Load is influenced by how often you train - the frequency.
+
+I consider these five factors to be the most important and in descending order.
+
+How can load be managed? By changing one or more of the above mentioned factors. It can be managed by changing...
+* the exercises
+* the technique
+* the intensity
+* the volume
+* the frequency
+
+
+
+
+
+
+## Two Approaches to Training
+
 Some coaches swear by excessive planning, sometimes years ahead, including periodisation, rated perceived exertion (RPE) and lots of measurements and written records. Others aren't doing almost any planning at all, have no written record, neither of the athletes progress nor of their training programme and go by intuition day by day. Both approaches have been proven (and keep proving) to lead to successful results by innumerable athletes and keep being practiced by different coaches with distinct training philosophies. 
 
 The first approach I would describe as the "scientific way". It is the preferred practice by the coaches that I described as being more "modern" in character in my article on the [two philosophies of training](/training/training-philosophies). The second approach I would describe as the "intuitive way" and in my experience the more "traditional" coaches are practicing it more often. 
