@@ -17,26 +17,26 @@ At first we have to understand that there are (or can be) important differences 
 
 ## Mass vs. Strength
 
-At first we will at the difference betwern Mass and Strength training and how mass relates to strength and vice versa. 
+At first we will consider the difference between Mass and Strength training, how mass relates to strength and vice versa. 
 
 Mass training is necessary to some degree (more for bases than for tops). While mass does *not* equal strength it can be understood as *strength potential*. You are not necessarily stronger if you have more muscle mass, but you have more potential of strength-output than with less mass. 
 
-To simplify this (obviously it depends on additional factors): If someone with less muscle mass is stronger than someone with more mass in absolute terms, the one with less mass uses his strength potential better and the other one uses it less.   
+To simplify this (obviously it depends on additional factors): If someone with less muscle mass is stronger than someone with more mass in absolute terms the one with less mass uses his strength potential better and the other one uses it less.   
 After a phase focused on strength the one with more mass may become stronger and the other one will not easily be able to overcome him in strength again, in lack of muscle mass, because he uses his full potential already. Before he can become stronger he has to build more muscle first. 
 
 Thus both mass building and strength development is necessary. Training them efficiently may differ in volume, intensity, rep range, reps in reserve, speed, rest time, exercise selection and so on. While a strength focused training will also be able to carry-over to more mass and mass building focused training will carry-over to more strength, they are two different approaches to training. 
 
 Approaching them on their own in seperate cycles has been proven to be more efficient. But efficiency is not the only factor that may be relevant to coaches and athletes. 
 
-In general we can distinguish the two approaches like this:
-* Mass is mainly build by lower to medium intensity and by a progression of volume; the focus lies on the pump of the muscles, thus prolonging time under tension, controlling the weight more and reducing rest time. 
-* Strength is mainly build by higher intensity and by a progression of intensity (while the volume may even decrease); the focus lies on the neurological strength output; time under tension is reduced, the stretch reflex is used, the eccentric is not slowed down and the concentric done as explosive as safely possible; rest time is increased as needed.
+In general we can distinguish training for mass and training for strength like this: 
+* Mass is more easily build by lower to medium intensity and by a progression of volume; the focus lies on the pump of the muscles, thus prolonging time under tension, controlling the weight more and reducing rest time. 
+* Strength is build by higher intensity and by a progression of intensity (the volume may even decrease); the focus lies on the neurological strength output; time under tension is reduced, the stretch reflex is used, the eccentric is not slowed down, the concentric done as explosive as safely possible; rest time is increased as needed.
 
 But while this is a general scheme that works for most people, we also have to be aware that some people respond better to higher intensity and less volume even for building mass. While others respond better to less intensity and higher volume. This is something that has to be found out on an individual basis by experience.
 
 Strength can be developed with lower intensity and higher volume too, just more slowly (but also very safely). If strength is increased in this way it basically means that one never fully utilises the muscle mass to his full potential and will not be as strong as he could be. But that doesn't mean that it might not be a potent and safe approach to training for some use-cases. 
 
-This is based on two different approaches to training, progression and overload:
+These differences in building mass vs. developing strength can be approached by different methods of training, of which I want to point out two particular ways to approach progression and overload:
 
 * Usually one may approach it by training with high intensity, gaining as much strength as possible, then building more mass, then doing another strength cycle to utilise this mass and so on. By doing so one is often close to the edge of what his body can handle with positive adaptation instead of breaking down. If he finds the right sweet spot in doing so, e.g. by diverse regulation methods, he will make progress and hopefully remain injury-free. It also may be more valuable for people who do not train everyday and who like planning and thinkering around with their programme. Planning and sticking to these cycles can be difficult and tiring and too much for many people to do on their own, when they just want to focus on training. Periodisation and training in cycles is usually something planned and provided by Coaches, so that their athletes do not have to worry about it. Many non-professional strength athletes use modern apps providing such a scheme for them instead of doing it on their own. But as far as I know there is not yet any open-source application available for free (which is a shame). 
 
