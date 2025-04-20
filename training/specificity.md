@@ -79,7 +79,7 @@ It is also possible to replace all or most basic strength exercises with skill s
 
 To apply this knowledge to the training of bases: The skills that the bases have to master primarily, are tempos and landings/catches in diverse positions for dynamic, and mounts, motions and holds in diverse positions for balance. 
 
-Balance, where it is not about pure skill training with little intensity, is primarily about overhead stability and strength on one arm (the mobility will be developed automatically if training stability and strength correctly). Thus when we want to train skill strength for balance in the *most specific way*, so that the weight of our tops will feel easy, we have to try using the next best exercises to balancing a partner. 
+Balance on the hands, where it is not about pure skill training with little intensity, is primarily about overhead stability and strength on one arm (the mobility will be developed automatically if training stability and strength correctly). Thus when we want to train skill strength for balance in the *most specific way*, so that the weight of our tops will feel easy, we have to try using the next best exercises to balancing a partner. 
 
 On two arms (1) just holding/carrying a barbell overhead - is not very specific because of the much lower centre of mass, but can be useful nonetheless. (2) Holding/carrying a barbell with the addition of weight plates dangling from elastic bands attached to the sides for extra instability. (3) Using self-build equipment simulating two arms with weight on top. This can be a metal construction with the possibility to load via plates, it also could be a wooden construct with a sort of simulated torso filled with sand bags etc. If there is not any such equipment available or not reasonable to use (4) holding other bases on ones hands in different positions can build significant amounts of additional strength and can well suffice to become strong enough that the top will be very easy to hold, if a reasonable weight difference between the base and top is given.  
 
@@ -90,6 +90,19 @@ Vertically held and top-weighted barbells require high ceilings, much higher tha
 The solution with the pulley system is safe to use. The weight could always dangle at a specific height that is low enough for you to easily get it into position, but high enough for it to not hit you if you loose balance. This way it could be used independently when training alone. Nonetheless it requires an advanced setup and dedicated gym. 
 
 The solution with a heavier partner is the most versatile to use. It is easy to get into position, there is no additional equipment needed, only another base. Safety can be ensured well through very simple basic provisions. And if necessary it can be done in a seated position in every room independent of the height of the ceiling. The only caveat is that it is more difficult to load in incremental steps, if there are not many heavier tops or bases of different weight available. Ancle weights and weighted vests become very useful then. 
+
+---
+
+As far as concerning the balance on the head, the utmost focus has to be paid to specific strengthening and conditioning of the neck in all kinds of angles and modes. Isometric holds with stable (non-moving) weight on the head, neck extensions and curls, side flexion, anti-extension, anti-flexion and anti side-flexion as well as anti-rotational exercises and isometric holds in extension and anti-side-flexion are highly recommended and have to be approached very carefully and slowly.
+
+---
+
+Concerning the preparation of bases in groups much more emphasis has to be laid on the strengthening of the legs and spine to handle the huge compressive forces of having two or three partners on top. Heavy squats are mandatory. Heavy holds and walks in the back squat position should be done. 
+
+---
+
+Concerning the balance on feet...
+
 
 
 ## Specificity in the Preparation of Tops
