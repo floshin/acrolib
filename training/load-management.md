@@ -86,3 +86,4 @@ Beyond any measurements, planning and complex regulation methods there are some 
 
 * Obviously there is more to say about recovery, which I summarise in an article on its own: [Recovery Guide](/training/recovery-guide).
 * Another important factor in training is the specificity of the work. This is also dealt with in an article on its own due to the complexity of this factor when applied to acrobatic skill training and the preparation of the base and top partners: [Specificity in Training Acrobatics](/training/specificity). 
+* Safety and Overcoming Fear may be another factor to elaborate on.
