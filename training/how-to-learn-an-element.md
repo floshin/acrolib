@@ -47,7 +47,7 @@ Then they will start practicing spotted handstands in a lying position on bent a
 
 Finally the handstand is done in the standing position, at a point where the base, by having developed stability through the F2H and lying H2H practice will already be rather stable and the skill will work relatively fast. 
 
-
+Anton Ossolodkov (an elite coach in the US, former athlete of Kazakhstan) refers to this kind of training as "NFPT": "Narrowly Focused Physical Training". It is Skill Training in which a narrow focus is laid on specific parts of skills that the athletes are either already doing or in the process of learning.
 
 
 
