@@ -9,6 +9,8 @@ In the physical preparation of acrobatic gymnasts, "load management" is crucial 
 But what is load management?  
 You can only load any structure to a specific point, beyond which the structure will break down. The body, in order to become stronger, has to be regularly exposed to load and the load has progressively to be increased (= progressive overload) for positive adaptations in strength to occur. If the load is too much the body will not be able to recover, there will be no positive adaptation and injury will inevitably occur sooner or later. If the load is not enough, there will be no adaptation either, as the body has no reason to become any stronger. Thus, in order to make progress and to prevent injury, load has to be managed.
 
+Load management is not only and not primarily about the question how much load one is exposed to in one specific exercise or skill (which is also important, because a single such instance of loading way too much can already mean an injury), but about the question how much load one is exposed to in his training as a whole on a daily and weekly basis. 
+
 What does the load consist of or is influenced by? 
 * Load is influenced by how you distribute different forms of load in training - the exercise selection.
 * Load is influenced by how you distribute the load on your body, by the utilisation of specific muscles and movement patterns - the technique.
@@ -16,16 +18,14 @@ What does the load consist of or is influenced by?
 * Load is influenced by how much time you spend training and working against resistance (per set, per day, per week) - the volume.
 * Load is influenced by how often you train - the frequency.
 
-I consider these five factors to be the most important and in descending order.
-
-How can load be managed? By changing one or more of the above mentioned factors. It can be managed by changing...
+Load can be managed by changing one or more of the above mentioned factors. It can be managed by changing...
 * the exercises
 * the technique
 * the intensity
 * the volume
 * the frequency
 
-Very often people only change the intensity, the volume or the frequency when trying to manage their load. These are important factors to consider. But even more important is exercise selection and technique. 
+I consider these five factors to be the most important and in descending order. Very often people only change the intensity, the volume or the frequency when trying to manage their load. These are important factors to consider. But even more important is exercise selection and technique. 
 
 Exercise selection has two different aspects. 
 
