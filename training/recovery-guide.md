@@ -1,7 +1,8 @@
 # Recovery Guide
 
 *by Flosha, 16.-17.04.2025*  
-*just a draft, work in progress*
+
+*work in progress*
 
 In order to recover the best from your training (apart from not training too much too soon or overloading too suddenly) you have to keep your sleep, hydration and nutrition in check. As an athlete, if you want to live like one, there are things you want and things you want to avoid. 
 
