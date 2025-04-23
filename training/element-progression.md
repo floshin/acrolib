@@ -6,9 +6,15 @@ While there is no fixed order or any kind of rule for the acquisition of skills,
 
 We will list these skills and exercises in sequences following each other in complexes. What we are not including in these sequences of skills is the necessary individual preparation of the partners. When talking about e.g. learning a skill like High H2H HS 2on2 it is obviously considered a given that the top can already stand on her hand in a very stable line at the wall and when held on canes by the coach. 
 
+I divide the article in the following sections:
+* Development of Balance in Pairs 
+* Development of Balance in Groups
+* Development of Dynamics in Pairs
+* Development of Dynamics in Groups
+
 ---
 
-**High H2H HS 2on2:**
+## Development of Balance in Pairs
 
 (1) **Approach by F2H:** 
 Progress through all these steps of F2H: Lying Low F2H -> F2H Push-ups -> Lying High F2H -> Standing or sitting Low F2H -> Standing Low F2H -> High F2H. 
@@ -24,6 +30,7 @@ The H2H Plank has the crucial benefit that it can be practiced independently by 
 The H2H Plank has also the advantage that not only the base develops a sense for balance, stability in his shoulders/arms and grip strength, as is the case in F2H, where the top makes no progress towards H2H. In the H2H Plank the top is in H2H from the very beginning, has to grip hard and stabilise her arms, helping the base. But F2H has the benefit that the base holds the full weight of the top, whereas in H2H Planks only a part of the weight will be on the hands of the base. Therefore I recommend to use both of these methods. But the H2H Plank can also be taken further. 
 
 (3) The H2H Plank can slowly be transformed into a HS by elevating the feet higher in small steps. 
+
 
 
 
