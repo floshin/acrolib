@@ -24,8 +24,17 @@ But in the list of the "most difficult" balance elements in pairs, the 1on1 HS (
 (6) **1on1 on One Arm Flag:** This element has, as far as I know, not yet been proven to be possible and is not yet part of the Element Catalogue of Acrobatic Gymnastics. It has been performed 2on1 (not with ideal form, due to its extremely difficult balancing demands) outside of the sports by two acrobats, a man and a girl, from the *Shanghai Acrobatic Troupe*, with the girl pressing from a 2on1 Support into a 2on1 HS on the free arm of the base, left-handed, while the base holds a One Arm Flag on his right hand. 
 
 
+## Most difficult pair balance in H2F
 
+One of the most difficult balances in Hand to Foot, are:
 
+* **2on1 H2F on a Split Mexican**: ...
+
+* **2on1 H2F on a free Scorpion**: ...
+
+* **1on1 H2F on a one-legged Russian lever**: ...
+
+* **2on2 HS on HS / 2on1 HS on HS**: ... The element can be approached via 2on2 Handstands or Supports on Headstands first. Then on Forearm-Stands or on Bent-Arm Handstands between two boxes for preparation. Finally in the Handstand itself. More often than a 2on2 HS is a 2on1 HS or Support, in which the partners start in a Straddle on a Standing Split with the hands of the base on the floor, then slowly shift all the weight onto the hands and away from the standing leg, lifting the leg off the floor and tucking it in. 
 
 
 
