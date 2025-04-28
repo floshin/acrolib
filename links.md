@@ -70,5 +70,7 @@ Here we list and link all kinds of relevant projects that are not already linked
 
 ## Oldtime Strongmen
 
+* Strongman Archeology
+  * [DailyMotion](https://www.dailymotion.com/qdmcraw/videos)
 * [Oldtime Strongman: The #1 Source For Oldtime Strongman Training Secrets](https://www.oldtimestrongman.com/)
 * [Strongman Project](https://www.strongmanproject.com/)
