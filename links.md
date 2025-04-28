@@ -72,5 +72,6 @@ Here we list and link all kinds of relevant projects that are not already linked
 
 * Strongman Archeology
   * [DailyMotion](https://www.dailymotion.com/qdmcraw/videos)
+  * [MeWe.com](https://mewe.com/join/strongmanarchaeology1)
 * [Oldtime Strongman: The #1 Source For Oldtime Strongman Training Secrets](https://www.oldtimestrongman.com/)
 * [Strongman Project](https://www.strongmanproject.com/)
