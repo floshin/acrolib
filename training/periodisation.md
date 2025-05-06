@@ -12,14 +12,12 @@ In this article I will introduce the general concept of periodisation in strengt
 
 * Intensity-focused progression
 * Volume-focused progression
-
-
-
+* Linear/Wavy Cycles vs. Steady State Cycles
 
 
 ## The Gentle Sinyavskaya Method
 
-Our approach, which I would describe as my theortical analysis of the method of Galina Sinyavskaya mixed with a simple intuitive periodisation method of progressive preparation for injury prevention (which attempts to get the same result as Galinas approach to work, just a bit more gentle and measurable), I will summarise as follows: 
+Our approach, which I would describe as my theortical analysis of the method of Galina Sinyavskaya mixed with a simple Steady State method of intuitive periodisation and progressive preparation for injury prevention (which attempts to get the same result as Galinas approach to work, just a bit more gentle and measurable), I will summarise as follows: 
 
 (1) Progressively develop a wide, varied and high volume of work at low intensity as a foundation of muscular and cardio-vascular endurance (build up a specific amount of handstand work, of dynamic work, of balance work, of agility, of tumbling, of dance, of strength and conditioning and of flexibility). Be able to do this same amount of work consistently every week.
 
