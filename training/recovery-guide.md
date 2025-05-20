@@ -2,11 +2,6 @@
 
 *by Flosha, 16.-17.04.2025*  
 
-*work in progress*
-**Todo:** Adding info regarding when and in which way/combination to take supplements.
-
----
-
 In order to recover the best from your training (apart from not training too much too soon or overloading too suddenly) you have to keep your sleep, hydration and nutrition in check. As an athlete you need to get some things (often more than non-athletes) and avoid others (more strictly than non-athletes).  
 Also there are a few habits and, as far as needed, supplements, that can boost your immune system. In general, we can say: The "healthier" you are and the better your immune system works, the better you will recover from training too. 
 
@@ -22,12 +17,14 @@ Also there are a few habits and, as far as needed, supplements, that can boost y
 4. **Nutrition**: To nourish your body for acrobatics, you have to give your body enough energy. In a sports like acro you have to have access to energy fast and replenish this energy if exhausted in training; therefore carbo-hydrates serve you best (such as rice or oats or millet, properly made sourdough bread or fruit). If you feel exhausted during training you may not have given your body enough energy beforehand. Make it a priority to do so. Without energy no training. In the acute case of sudden energy-deficency you may drink or eat something that gives you energy fast (such as dates or grapes, which would be preferred over jelly beans, honey or drinks with sugar). Other than that sports acro is very strength-focused. In order to become strong you have to get enough protein (plant-based sources are diverse lentils, beans or nuts and nut-butter (without any oil, sugar and other additives)). Some fats are essential and absolutely necessary, therefore you should get some fat too (like olive oil, joghurt, cheese, butter, lineseed oil, coconut oil, seeds and nuts), but not too much and preferably not immediately before or during training, as it may let you feel sluggish. Therefore you should plan protein and carbs first and add the necessary fat in well-dosed ways. To get enough vitamins and minerals and for digestion it is crucial to eat enough vegetables, preferably from different colours (as they contain different nutrients) and especially so leafy greens, about 300-400g a day. If you want to eat healthy, nutritious food, do not eat junk food and avoid eating outside. Prepare your food yourself in order to control all the ingrediences and to know what you are putting into your body. If you do so consistently you won't need to count calories as you can control your weight easily by the rough sizes of your portions. If you follow this advice you do more things right than most and have done more for your recovery than any supplement can do.
      1. **Supplementation**: To additionally assist your training and health after having met the targets above, it can be reasonable to take some supplements that are highly recommended in our time, partially due to changed ecological conditions or due to specific geographical conditions (depending on where you live), due to the decreased nutritional value of modern food and/or simply due to increased needs of our bodies in a strenuous sport:
          1. A protein powder w/o any additives, such as a rice/pea mix, if you cannot easily meet your protein targets with food. It makes life easier and you don't have to eat as much, if that is a concern, depending on your situation. 
-         2. Vitamin C + Zink, ...
-         3. Vitamin D, ...
-         4. Magnesium, ...
-         5. Creatin, ...
-         6. Collagen, ...
-         7. DHA/EPA, ...
+         2. Vitamin C + Zinc: ~250mg Vit C and ~20-40mg Zinc in the morning e.g. with the protein shake (many males are deficient and athletes need more)
+         3. Vitamin D3, 1000-2000IU, as most people don't get enough exposure to sun light 
+         4. Magnesium: ~500g of Citrate or Gluconate (no Oxide) before sleep (it's a common deficiency and athletes need more)
+         5. Creatine: ~0.1g per kg of body mass (seems to add some mass by improved muscle hydration which helps with injury prevention)
+         6. Collagen: 20-30g, can tremendously help with tendon recovery/healing and joint health
+         7. DHA/EPA: ideally in form of clean algae oil (reduces inflammation, good for brain function, eyes etc.)
+         8. A Multivitamine can be taken if for whatever reason the diet does not contain enough raw vegetables
+         9. Inulin can be very useful for the microbiom and digestion if the diet lacks fibre, such as, again, from vegetables and leafy greens
     2. **Avoid any intoxicants:** No Alcohol, no smoking, no other drugs, including sugar. Pure Sugar is an intoxicant. It may have its place in situations where you need a lot of energy fast during training, but you should avoid it in other situations. Even then you could try to eat some dates, grapes and similar stuff instead of drinking or eating pure sugar. In general you may think about it as something you have to "deserve" through training and consume in fairly restricted amounts if needed by feeling.
     3. **Caffeine and Theine** can have positive effects on training, but will affect sleep and recovery negatively if drinking too much, too late and too regularly. In order to preserve the positive effects of caffeine or theine and to increase its effectiveness you must make sure to not drink any coffee/tea at all every now and then for a few days and reduce your caffeine/theine tolerance. Then will lower dosages suffice to help you feel awake and you will avoid negative effects by taking too much too regularly. For reasons of health and effect, theine may be preferred over caffeine for several reasons. Tea, especially green tea, comes with many other benefits. But it is important to choose well controlled, high quality tea, since tea can be contaminated in different ways depending on production processes. You should ask your tea dealer for the contaminant loads in the tea and choose one that is regularly tested. 
 4. **Inurement Methods:** There are a few things we can do that have been proven to have positive effects on the body that are generally described to "inure" us. One of the easiest things that can be done is to shower cold, carefully and slowly increasing tolerance and time under cold water. 
