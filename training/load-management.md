@@ -1,8 +1,8 @@
 # General Principles of Training Acrobatics
 
-## Physical Preparation, Load Management & Recovery
-
 *by Flosha, 16.04.2025 - 20.04.2025*
+
+## Physical Preparation, Load Management & Recovery
 
 In the physical preparation of acrobatic gymnasts, "load management" is crucial for the progress of the athletes and for injury prevention. Load management is a complex topic in strength training already, where it can be measured relatively easy; in gymnastics it becomes so complex that without substantial knowledge in biomechanics one will not really be able to understand the load that their athletes are exposed to. 
 
@@ -80,10 +80,10 @@ Beyond any measurements, planning and complex regulation methods there are some 
       1. **Progress slowly after period of inactivity**: The rule above has also and especially to be followed after every kind of prolonged period without training, such as one week of being sick, a forced stop due to an injury or a week of vacation. One week may not seem like much, but when one trains consistently 4-6 times a week for months, then suddenly not at all for a week and then starts doing so again 4 times a week all of a sudden, this will not only impact performance, it can also already lead to injury. Ideally the work should continue non-stop. The intensity of the work should be adjusted and reduced at times, but it should never stop for a prolonged period of time, where "prolonged" means more than a few days.
       2. **Do not stop training even when injured, but do never train through joint pain**: When you are injured in a particular part of the body (like an arm or an ancle or a wrist), there is no need to stop training, but of course there is a need to not train anything that aggravates the injury: Continuing to train will make sure that you won't loose too much strength & skills, provides an opportunity to work on things you otherwise work less on (e.g. more leg work if you cannot train your arms as much) and there are almost always things you can do in training for the injury itself to make it feel and heal better. But when feeling any kind of joint pain in an exercise which is caused or made worse by this exercise, *stop* doing what you're doing. Either you did something wrong and have to adjust the exercise or you simply did too much too soon and have to back off, give the hurting joint some rest or restorative exercises (e.g. low intensity, high volume stuff) and then start loading it again in smaller, incremental steps. 
 3. **Recovery**: Without proper nourishment and rest there will be no progress (or it won't be there for long and won't be sustainable). Thus, after putting in the work and working in a balanced way, fueling the body and sleeping well and enough is of the utmost importance for recovery. As a base aiming to build more muscle, imagine: If you don't eat enough you waste your time in strength training. Only if you put in enough fuel can the body use the opportunity to build more mass. And in this context, there is another guideline that is important to understand: 
-    1. **It is much less common that someone is "over-training", than that one is under-fueled** (for the amount of training one is doing). Thus: If you are in training and you are feeling exhausted and weak, before asking if you train too much you should ask if you are nourished enough and slept enough. These are the first and by far most important variables to be fixed. Before you haven't fixed them there is no reason to even think about less important stuff like supplementation.
+    1. **It is much less common that someone is "over-training", than that one is under-fueled and/or under-rested** (for the amount of training one is doing). Thus: If you are in training and you are feeling exhausted and weak, before asking if you train too much you should ask if you are nourished enough and slept enough. These are the first and by far most important variables to be fixed. Before you haven't fixed them there is no reason to even think about less important stuff like supplementation.
 
 ---
 
-* Obviously there is more to say about recovery, which I summarise in an article on its own: [Recovery Guide](/training/recovery-guide).
-* Another important factor in training is the specificity of the work. This is also dealt with in an article on its own due to the complexity of this factor when applied to acrobatic skill training and the preparation of the base and top partners: [Specificity in Training Acrobatics](/training/specificity). 
-* Safety and Overcoming Fear may be another factor to elaborate on.
+* Obviously there is more to say about recovery, which I summarise in an article on its own: *[Recovery Guide](/training/recovery-guide)*.
+* Another important factor in training is the specificity of the work. This is also dealt with in an article on its own due to the complexity of this factor when applied to acrobatic skill training and the preparation of the base and top partners: *[Specificity in Training Acrobatics](/training/specificity)*. 
+* *Safety and Overcoming Fear* may be another topic to elaborate on in the future.
