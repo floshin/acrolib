@@ -4,7 +4,7 @@
 
 *work in progress*
 
-In order to recover the best from your training (apart from not training too much too soon or overloading too suddenly) you have to keep your sleep, hydration and nutrition in check. As an athlete you need to get some things (often more than non-athletes) and avoid others (more strictly than non-athletes). 
+In order to recover the best from your training (apart from not training too much too soon or overloading too suddenly) you have to keep your sleep, hydration and nutrition in check. As an athlete you need to get some things (often more than non-athletes) and avoid others (more strictly than non-athletes).  
 Also there are a few habits and, as far as needed, supplements, that can boost your immune system. In general, we can say: The "healthier" you are and the better your immune system works, the better you will recover from training too. 
 
 1. **Sleep**: You need to sleep to recover. Sleep is of the utmost importance for recovery and you both should aim to get enough sleep (quantity) as well as improve sleep quality. Quantity-wise you aim for 7 to 9 hours. 7 hours are the minimum in most cases while athletes due to their high levels of activity and stress may often need 9 or more hours to properly recover. To improve your sleep there are simple rules of *sleep hygiene*:
