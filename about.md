@@ -15,11 +15,11 @@ You can use the search function of your browser to search for terms you heard of
 
 At the moment we focus on adding English, German and Russian terms. But in the future we would like to also add Portuguese, Hebrew and other languages of the leading federations of the sport. While we try to add terms from diverse languages, the texts will remain English to be accessible for an international audience. 
 
-
+<!--
 ## International Acrobatics Calendar
 
 Self-explanatory, an acrobatics calendar containing all kinds of international, continental, national and regional competitions as well as other acrobatic events. Flosha initiated this project because none of the organisations (at least in Germany) seems to try offering this information. The german federation often only listens a fracture of the events and most regional events have to be found through the websites of the regional federations or via other sources. Athletes and Clubs are also not getting well informed about the available international competitions in different countries; there is no comprehensive overview. 
-
+-->
 
 ## Acro Community
 
