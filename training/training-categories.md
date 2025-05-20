@@ -5,17 +5,17 @@ Status: work in progress
 
 1. Pair/Group Work
   * Balance
-    * Mounts
-    * Holds
-    * Motions
+     * Mounts
+     * Holds
+     * Motions  
   * Dynamics
-    * Mounts & Positions
-    * Coordination & Tempos
-    * Skills 
+     * Mounts & Positions
+     * Coordination & Tempos
+     * Skills 
   * Dance/Choreography
-    * Sequences
-    * Routine Practice
-    * Clean-up 
+     * Sequences
+     * Routine Practice
+     * Clean-up 
 2. Individual Work
   * Agility 
   * Static 
@@ -26,9 +26,9 @@ Status: work in progress
   * Base Preparation
 4. General Preparation 
   * "Conditioning" 
-    * Upper Body: Hands/Arms/Shoulders
-    * Middle/Spine, "Core": Front/Side/Back (+ Neck)
-    * Lower Body: Feet/Legs/Hips
+     * Upper Body: Hands/Arms/Shoulders
+     * Middle/Spine, "Core": Front/Side/Back (+ Neck)
+     * Lower Body: Feet/Legs/Hips  
   * Endurance
 
 
