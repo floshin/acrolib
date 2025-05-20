@@ -27,7 +27,7 @@ Status: work in progress
 * General Preparation 
   * "Conditioning" 
      * Upper Body: Hands/Arms/Shoulders
-     * Middle/Spine, "Core": Front/Side/Back (+ Neck)
+     * <!--Middle/Spine, -->"Core": Front/Side/Back (+ Neck)
      * Lower Body: Feet/Legs/Hips  
   * Endurance
 
@@ -39,7 +39,9 @@ Status: work in progress
 [to be written]
 
 ## Specific Preparation
+[to be written]
 
+<!--
 ### Top Preparation
 
 * Handstand, Press & Compression/Arch Practice
@@ -63,9 +65,9 @@ Status: work in progress
 #### Muscle Mass Building & Maintenance
 
 * Warm up (Joint/Cardio/Muscle Prep):
-  * 3-way Core Stabilisation <!--(e.g. Hollow Ups, Side-Arch-ups or Side Planks, Arch-ups)-->
-  * Glute Activation <!--(e.g. sidelying internal rotation or banded side-steps)-->
-  * Shoulder/Wrist Mobility and Muscular Activation <!--(e.g. Push-ups and preparation with an empty barbell)-->
+  * 3-way Core Stabilisation (e.g. Hollow Ups, Side-Arch-ups or Side Planks, Arch-ups)
+  * Glute Activation (e.g. sidelying internal rotation or banded side-steps)
+  * Shoulder/Wrist Mobility and Muscular Activation (e.g. Push-ups and preparation with an empty barbell)
 
 * Main Lifts:
   * **Vertical Push:** Press (Standing or seated), Handstand Push-ups
@@ -102,10 +104,10 @@ Status: work in progress
 
 * ...
 * Pancake: Important for elements in a seated position, press handstands and straddle jumps. By working on unilateral pancake flexibility with an overhead-grip of the foot we are also automatically including an effective lat stretch to make sure that our lats aren't any tighter on either side. 
-
+-->
 
 ## General Preparation
-...
+[to be written]
 
 
 
