@@ -3,8 +3,7 @@
 *by Flosha, 16.-17.04.2025*  
 
 *work in progress*
-**Todo:** Add Breathing as Number 1 and elaborate on it, wrong breathing patterns, effect on breathing on the muscles, recovery, lungs, and endurance training, cardio-vascular system etc., linking to another article specifically addressing endurance/cardio training. 
-Todo: Adding info regarding when and in which way/combination to take supplements.
+**Todo:** Adding info regarding when and in which way/combination to take supplements.
 
 ---
 
@@ -12,7 +11,7 @@ In order to recover the best from your training (apart from not training too muc
 Also there are a few habits and, as far as needed, supplements, that can boost your immune system. In general, we can say: The "healthier" you are and the better your immune system works, the better you will recover from training too. 
 
 
-1. **Breathing**: To breath well and to improve ones breathing may be the most important and yet the most overlooked factor in health and recovery. There are several defective breathing patterns, which can and should be worked on, which are often not recognised. Breathing is  
+1. **Breathing**: To breath well and to improve ones breathing may be the most important and yet the most overlooked factor in health and recovery. There are several defective breathing patterns, which can and should be worked on and which are often not recognised. Breathing is an important factor in cardio-vascular health and endurance as well as in managing tension during performance. Finally by improving cardio-vascular endurance (which, in parts, is done by improving breathing) recovery and overall fitness can be improved immensely. Since there is no room here to elaborate on cardio training, I will dedicate a future article to this topic. 
 2. **Sleep**: You need to sleep to recover. Sleep is of the utmost importance for recovery and you both should aim to get enough sleep (quantity) as well as improve sleep quality. Quantity-wise you aim for 7 to 9 hours. 7 hours are the minimum in most cases while athletes due to their high levels of activity and stress may often need 9 or more hours to properly recover. To improve your sleep there are simple rules of *sleep hygiene*:
    1. **Fixed wake-up time:** Try to have a fixed wake-up time everyday, at weekdays the same as on weekends, which will be the time that will define the time you go to sleep in order to meet your target of 7-9 hours of sleep. 
    2. **Fixed bed-time:** Have a fixed bed-time in order to be able to reach your sleep target when waking up at your consistent wake-up time. At least try to go to bed before 10pm. When its time to sleep consider it the highest priority; everything else is less important and can wait till you recovered through the night, since whatever has to be done will be done better when fully recovered.
