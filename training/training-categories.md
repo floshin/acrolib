@@ -3,7 +3,7 @@
 *by Flosha, 16.04.2025*  
 Status: work in progress
 
-1. Pair/Group Work
+* Pair/Group Work
   * Balance
      * Mounts
      * Holds
@@ -16,15 +16,15 @@ Status: work in progress
      * Sequences
      * Routine Practice
      * Clean-up 
-2. Individual Work
+* Individual Work
   * Agility 
   * Static 
   * Flexibility
   * Tumbling
-3. Specific Preparation
+* Specific Preparation
   * Top Preparation 
   * Base Preparation
-4. General Preparation 
+* General Preparation 
   * "Conditioning" 
      * Upper Body: Hands/Arms/Shoulders
      * Middle/Spine, "Core": Front/Side/Back (+ Neck)
@@ -33,24 +33,21 @@ Status: work in progress
 
 
 ## Pair Work
-...
-
+[to be written]
 
 ## Individual Work
-...
-
+[to be written]
 
 ## Specific Preparation
 
 ### Top Preparation
 
-* Handstand, Press & Compression Practice
+* Handstand, Press & Compression/Arch Practice
 * Isolated Skill Technique
 * Strength/Power Development
 * Flexibility Development & Maintenance
 
-...
-
+[to be elaborated]
 
 
 ### Base Preparation
@@ -60,13 +57,15 @@ Status: work in progress
 * Strength/Power Development
 * Flexibility Development & Maintenance
 
+[to be elaborated]
+
 
 #### Muscle Mass Building & Maintenance
 
-* Warm up:
-  * 3-way Core Stabilisation (e.g. Hollow Ups, Side-Arch-ups or Side Planks, Arch-ups)
-  * Glute Activation (e.g. sidelying internal rotation or banded side-steps)
-  * Shoulder/Wrist Mobility and Muscular Activation (e.g. Push-ups and preparation with an empty barbell)
+* Warm up (Joint/Cardio/Muscle Prep):
+  * 3-way Core Stabilisation <!--(e.g. Hollow Ups, Side-Arch-ups or Side Planks, Arch-ups)-->
+  * Glute Activation <!--(e.g. sidelying internal rotation or banded side-steps)-->
+  * Shoulder/Wrist Mobility and Muscular Activation <!--(e.g. Push-ups and preparation with an empty barbell)-->
 
 * Main Lifts:
   * **Vertical Push:** Press (Standing or seated), Handstand Push-ups
