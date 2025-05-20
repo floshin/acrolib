@@ -3,6 +3,8 @@
 *by Flosha, 16.04.2025*  
 Status: work in progress
 
+---
+
 * Pair/Group Work
   * Balance
      * Mounts
@@ -31,6 +33,7 @@ Status: work in progress
      * Lower Body: Feet/Legs/Hips  
   * Endurance
 
+---
 
 ## Pair Work
 [to be written]
