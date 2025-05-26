@@ -1,4 +1,4 @@
-# To Balance or To Be Balanced
+# Balance or Non-Balance
 
 *Flosha, 26.05.2025*
 
@@ -21,6 +21,11 @@ As a simple example: I am currently coaching an 8 year old girl and she can not 
 If one believes so or not, the same is possible with one arm handstands too. 
 
 
+> Wie gesagt, du musst verstehen, dass du das ganze ja gar nicht wirklich beurteilen kannst weil du sehr wahrscheinlich keinem Flyer begegnen wirst, der gezielt nur so trainiert wird wie ein Mixpaar Obermädchen bei Kurennoi. Sie versuchen alle auch Einarmer allein zu machen etc. und balancieren etwas selbst auch wenn sie es noch nicht gut können. Sie trainieren aber eben NICHT bewusst das Nicht-Balancieren. Also geht es auch gar nicht darum ob du beides lernst oder nicht, sondern ob du je mit einer Person trainierst die ein paar Jahre nach dieser Methode auf einarmige Balance vorbereitet wurde.
+
+> Aber letztendlich bedeutet perfekte Balance ja sowieso komplette bewegungslose Statik beider. Das heißt, man kann auf beiden Wegen Meisterschaft erlangen, die am Ende in einer Balance resultiert, die so ruhig ist, dass es schwer bis unmöglich ist, überhaupt noch zu sehen nach welcher Methode jetzt gearbeitet wird. In dem Fall gleichen sich die zwei Methoden am extremen Ende des Spektrums an, wie die zwei Enden eines Kreises.
+
+> Letzte Nachricht für heute. Dabei ist eben auch die spezielle Handstandtechnik von Galina oder den Ukrainern generell ein wichtiger Faktor. Denn es ist nunmal so, dass ganz viele, Calisthenics Leute oder auch professionelle Handstandartisten, mit ihren Beinen balancieren. Wie eine Waage oben etc. Wenn Frosya aber auch nur eine kleinste Bewegung oben mit den Beinen macht um zu balancieren ist das ja schon ein technische Fehler. Echte Balance besteht ja eben darin genau auf dem Punkt zu sein und zu bleiben, so dass keine solche Ausgleichsbewegung mehr nötig ist und alles nur über die Hände passiert. Und es ist nur in diesem Sinn, dass echte Meisterschaft in der Balance möglich ist und auch in dem Sinn gleichen sich die beiden Methoden wieder, eben abhängig davon wie die Mädchen den Handstand beigebracht bekommen. In beiden Methoden geht es um den perfekten Punkt. Nur: Wenn in Methode A was schief geht und vom Punkt abgewichen wird, reagiert die Oberpartnerin und versucht es zu retten. Und wenn in Methode B vom Punkt abgewichen wird, tut das mehr der Unterpartner.
 
 
 
