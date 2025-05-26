@@ -12,7 +12,17 @@ In Women's Groups the question does not arise either. When Balance is performed 
 
 In women's pairs it is often similar due to the elements performed on feet. If the top has to do handstands on a foot of the base, she has to balance herself anyway; thus it wouldn't make sense and would hardly possible to switch to a different technique for hand-to-hand balance.
 
-Therefore the question here is particularly relevant to Mixed Pairs, because Mixed Pairs are traditionally doing most if not all of their balance in hand-to-hand and occasionally in foot-to-hand, but very rarely on the feet of the base, nor on the head of the base. 
+It is therefore that the question here is particularly relevant to Mixed Pairs, because Mixed Pairs are traditionally doing most if not all of their balance in hand-to-hand and occasionally in foot-to-hand, but very rarely on the feet of the base, nor on the head of the base. 
+
+So, to repeat our statement at the beginning: Some think that the base should be mainly responsible for the balance and others think that the top should be mostly responsible for the balance. But what does that even mean?  
+Doesn't have the top to be able to balance a handstand anyway? In fact, no. It is a viable question if she *should* be able to, but it is a fact that she does not *has* to be able to.
+
+
+
+
+
+
+
 
 
 
