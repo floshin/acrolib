@@ -18,6 +18,7 @@ But what does that even mean? Doesn't have the top to be able to balance a hands
 
 As a simple example: I am currently coaching an 8 year old girl and she can not yet do a handstand on the floor nor on canes. She might occasionally stand for 2 or 3 seconds as a matter of luck, never more. But she can stand in a handstand on my hands for 30+ seconds without us doing any steps. Why is that? Simply because she does not balance, she is being balanced by me. 
 
+If one believes so or not, the same is possible with one arm handstands too. 
 
 
 
