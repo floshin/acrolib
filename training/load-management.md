@@ -4,10 +4,10 @@
 
 ## Physical Preparation, Load Management & Recovery
 
-In the physical preparation of acrobatic gymnasts, "load management" is crucial for the progress of the athletes and for injury prevention. Load management is a complex topic in strength training already, where it can be measured relatively easy; in gymnastics it becomes so complex that without substantial knowledge in biomechanics one will not really be able to understand the load that their athletes are exposed to. 
+In the physical preparation of acrobatic gymnasts, "load management" is crucial for the progress of the athletes and for injury prevention. Load management is a complex topic in strength training already, where it can be measured relatively easy; in gymnastics it becomes so complex that without substantial knowledge in biomechanics one may not really be able to understand the load that their athletes are exposed to. 
 
 But what is load management?  
-You can only load any structure to a specific point, beyond which the structure will break down. The body, in order to become stronger, has to be regularly exposed to load and the load has progressively to be increased (= progressive overload) for positive adaptations in strength to occur. If the load is too much the body will not be able to recover, there will be no positive adaptation and injury will inevitably occur sooner or later. If the load is not enough, there will be no adaptation either, as the body has no reason to become any stronger. Thus, in order to make progress and to prevent injury, load has to be managed.
+You can only load any structure to a specific point, beyond which the structure will break down. The body, in order to become stronger, has to be regularly exposed to load and the load has to be increased progressively (= progressive overload) for positive adaptations to occur. If the load is too much the body will not be able to recover, there will be no positive adaptation and injury will inevitably occur sooner or later. If the load is not enough, there will be no adaptation either, as the body has no reason to change. Thus, in order to make progress and to prevent injury, load has to be managed.
 
 Load management is not only and not primarily about the question how much load one is exposed to in one specific exercise or skill (which is also important, because a single such instance of loading way too much can already mean an injury), but about the question how much load one is exposed to in his training as a whole on a daily and weekly basis. 
 
@@ -25,20 +25,20 @@ Load can be managed by changing one or more of the above mentioned factors. It c
 * the volume
 * the frequency
 
-I consider these five factors to be the most important and in descending order. Very often people only change the intensity, the volume or the frequency when trying to manage their load. These are important factors to consider. But even more important is exercise selection and technique. 
+I consider these five factors to be the most important and in descending order. Very often people only change the intensity, the volume or the frequency when trying to manage load. These are important factors to consider. But even more important is exercise selection and technique. 
 
 Exercise selection has two different aspects. 
 
 (1) At first we have to ask, which exercises we do. Which exercise is right for you and at your current "level" (of coordination, strength, flexibility etc.)? Does it serve your needs? This may not be too difficult to decide in strength training, but is a very complex topic in acrobatics.  
-If an exercise is not right for you, influencing any of the other factors won't change that you are working on an exercise which may be too early to do for you and is ineffective or puts too much strain on your body no matter how you do it. For example: When you are weighing 160kg and cannot do a Plank on your hands for 1min without your wrists hurting, you cannot train handstands no matter the technique, intensity, volume or frequency. This exercise is just not right for you at this moment. We have to choose the right ones. But exercise selection is not only about choosing specific exercises in isolation. 
+If an exercise is not right for you, influencing any of the other factors won't change that you are working on an exercise which may be too early to do for you and is ineffective or puts too much strain on your body, no matter how you do it. For example: When you are weighing 160kg and cannot do a Plank on your hands for 1min without your wrists hurting, you cannot train handstands no matter the technique, intensity, volume or frequency. This exercise is just not right for you at this moment. We have to choose the right ones. But exercise selection is not only about choosing specific exercises in isolation. 
 
-(2) It is also about which exercises you choose to combine in your programme. The first task is to choose exercises appropriate to your level. The second task it to choose exercises appropriate to balance each other out. This is of the utmost importance. Why? Simply: Doing a specific exercise at a specific intensity, volume and frequency may be too much for you if you are only ever doing this exercise or other ones that aren't balancing out the load that this exercise puts on your body. But doing that same exercise may *not* be too much for you at that very same intensity, volume and frequency if you also do specific other exercises that balance out that load. Thus, before we are thinking about changing intensity, volume or frequency, we have to think about if we aren't simply missing something in our training that could help our body to sustain that load? 
+(2) It is also about which exercises you choose to combine in your programme. The first task is to choose exercises appropriate to your level. The second task it to choose exercises appropriate to balance each other out. This is of the utmost importance. Why? Simply: Doing a specific exercise at a specific intensity, volume and frequency may be too much for you if you are only ever doing this exercise or other ones that aren't balancing out the load that this exercise puts on your body. But doing that same exercise may *not* be too much for you at that very same intensity, volume and frequency, if you also do specific other exercises that balance out that load. Thus, before we are thinking about changing intensity, volume or frequency, we have to think about if we aren't simply missing something in our training that could help our body to sustain that load. 
 
 Then comes the technique: How do you perform the exercise? How do you distribute the load on your body while performing the exercise? Can you perform it well and with solid technique? Because if you cannot do it with correct technique you can influence the intensity, volume and frequency as much as you want. In the end it doesn't matter; if your technique stays the same you will eventually run into problems again if you try to increase the frequency, volume or intensity again. 
 
 Intensity can be influenced by using more or less weight, more or less speed and more or less conscious muscle tension or "intent".  
 
-Volume can be influenced by changing how much is done weekly, daily or per set of total training or of training of specific exercises or muscle groups. 
+Volume can be influenced by changing how much is done weekly, daily or per set of total training or of training of specific exercises, movement patterns or muscle groups. 
 
 Frequency can be influenced by changing how often we train in total every week or by how often we train specific exercises or muscle groups or movement patterns (if not doing the same everyday).  
 
@@ -49,6 +49,18 @@ Sometimes people are working always with high intensity, and just adjust the int
 Other people sometimes are working always with low intensity, and just adjust the volume and frequency of the exercises done at low intensity if they feel they need to reduce or increase the load in some way (an approach which may be fine if you are a pure endurance athlete, but we won't deal with this here). 
 
 But rarely do they consistently practice both high intensity exercises and high volume, low intensity exercises on a daily or otherwise regular basis. Rarely are they aware of the importance of both and see the relevance of the ratio between these two forms of training, the first of which we call strength training, the second of which we call conditioning. Strength & Conditioning may be one "complex", but they're not the same. Both have to be practiced and balanced in order to progress in a safe and injury-free manner. How much of and how often we do both of them is another lever by which we can manage load. 
+
+
+### Principles of Load Management
+
+As a summary of the explanations above:
+
+(1) All training puts load on the body of an athlete. (1a) If it is not enough, the athlete won't have positive adaptation; he may become weaker or stand still. (1b) If it is too much, he will have no positive adaptation either and will sooner or later be injured. (1c) In order to have positive adaptation (= injury free progress in training), a programming has to be developed that ensures the correct balance between "not enough" and "too much". 
+
+(2) Balanced training is a spectrum that can reach from "just enough", for a slow and safe progression in small steps (ensuring to not fall under the border of "not enough"), to "as much as possible", for a faster progression in bigger steps (ensuring to not exceed the border of "too much"). (2a) Everything on this spectrum can be considered as a balanced training. Different athletes and different times may require or enable one to lean more towards one side of the spectrum. But as long as we manage to stay within, we ensure progress. 
+
+(2) 
+
 
 
 ## Two Approaches to Training
