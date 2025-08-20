@@ -1,6 +1,6 @@
 # General Principles of Training Acrobatics
 
-*by Flosha, 16.04.2025 - 20.04.2025*
+*by Flosha, 16.04.2025 - 20.08.2025*
 
 ## Physical Preparation, Load Management & Recovery
 
@@ -51,7 +51,7 @@ Other people sometimes are working always with low intensity, and just adjust th
 But rarely do they consistently practice both high intensity exercises and high volume, low intensity exercises on a daily or otherwise regular basis. Rarely are they aware of the importance of both and see the relevance of the ratio between these two forms of training, the first of which we call strength training, the second of which we call conditioning. Strength & Conditioning may be one "complex", but they're not the same. Both have to be practiced and balanced in order to progress in a safe and injury-free manner. How much of and how often we do both of them is another lever by which we can manage load. 
 
 
-### Principles of Load Management
+### Principles of Load Management or of Balanced Training
 
 As a summary of the explanations above:
 
@@ -59,8 +59,13 @@ As a summary of the explanations above:
 
 (2) Balanced training is a spectrum that can reach from "just enough", for a slow and safe progression in small steps (ensuring to not fall under the border of "not enough"), to "as much as possible", for a faster progression in bigger steps (ensuring to not exceed the border of "too much"). (2a) Everything on this spectrum can be considered as a balanced training. Different athletes and different times may require or enable one to lean more towards one side of the spectrum. But as long as we manage to stay within, we ensure progress. 
 
-(2) 
+(3) Training is balanced by modifying the exercises, the technique, the intensity, the volume or the frequency. (3a) Of these 5 factors, exercise selection is the most important, technique is the second most important and so forth. (3b) How exercises should be selected is a topic complex enough for an article on its own, but in short: A simple way of approaching it is through essential movement patterns and of making sure that all of them are trained; but this alone does not ensure a balanced programme. Acro and its demands are too complex to reduce them to five or so movement patterns such as Hinging, Squatting etc. Instead we think of our joints. Balanced training is first and foremost about keeping our joints healthy. All the joints have different functions. If we train one particular join e.g. in a way that can be described as "flexion", we have to train the same joint in "extension". If we train a movement that is essentially anti-extension, we balance it out with a movement that is essentially anti-flexion. A balanced training starts by a balanced exercise selection and a balanced exercise selection means balancing out the opposites. 
 
+(4) Another factor of balanced training and another factor of exercise selection is exercise variety. The more variety, the less effects overuse by repetition of the same; but the more important factor is ensuring to properly train the opposites; variety comes second and with advantages on its own, that have less to do with injury prevention than with technical progression, coordination and the development of a broad, general movement repertoire that makes learning any new skill easier. 
+
+(4) The best and fastest progress is always ensured by starting low and easy and increasing any one of the five factors at a time. Slow and steady is fast, and consistency is more important than any other factor after ensuring training in a balanced way. Because no matter how well you manage the load through technique, intensity, volume or frequency, there will be no progress without training consistently.
+
+(5) It is essential to not only find the right balance between intensity, volume and frequency, but to find a balance between higher intensity lower volume work (strength) and lower intensity higher volume work (conditioning) and to practice both consistently. (5a) Real progress is to keep building strength to such a degree, that the intensity that has been strength training before, becomed as easy that it turns into conditioning. What is conditioning now has been strength training before. (5b) As acrobats we do not have to strive for strength endlessly, if we do not want to, as it is not our goal to prove more and more strength output, but better performance. As an acrobat we can at some point be "strong enough". This point is reached, if everything that we perform and want to perform in acrobatics with our partner has become so easy strength-wise, that all we do is mere conditioning; we aim to reach this point. But reaching this point requires substantial amounts of strength and more and more so the less ideal the weight ratio to our partner(s) is. 
 
 
 ## Two Approaches to Training
