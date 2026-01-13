@@ -2,7 +2,7 @@
 
 *by Flosha, 16.04.2025*
 
-Among professional acro coaches there are different training philosophies. I want to shed some light on two philosophies in particular by highlighting their differences. Please notice that in many regards I will exaggerate the two positions in order to simplify and highlight their difference, while in reality many coaches may of course work and think in a more vague and less distinct mixture of the two.  
+Among professional acro coaches there are different training philosophies. In this article, more of an essay than an analysis, I want to shed some light on two philosophies in particular by highlighting their differences. Please notice that in many regards I will exaggerate the two positions in order to simplify and highlight their difference, while in reality many coaches may of course work and think in a more vague and less distinct mixture of the two.  
 
 All coaches have in common, when doing it well, that the athletes are constantly taught to become more and more independent and take responsibility. A good coach manages to reduce his need, he doesn't just give orders, but teaches his athletes and steps away to let them practice independently and feel safe on their own as soon as they are ready. Making them ready is their craft. But other then that we can identify two approaches based on two very different premises and assumptions about training: 
 
