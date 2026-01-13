@@ -53,18 +53,19 @@ We divide the Acrobatic terms into the following categories according to the cat
   * **Motions and Links:** Elements can either be performed on their own in seperation or be part of a *Sequence*. Balance elements can be seemlessly connected or "sequenced" via *Motions*. Dynamic elements can be seemlessly connected or sequenced via *Links*. 
   * **Partner Elements** are those elements that are performed with a partner (in pairs) or partners (in groups). They are what acrobatic routines are designed around, they are what is judged primarily, what gives the most points and what the sport is essentially made of (in comparison to individual elements, which are less important). Partner Elements are divided into the two categories of "Balance" and "Dynamic". Every element falls in one of these two categories, but can also be combined. For instance a balance position can become the starting or landing position for a dynamic element.  
   * **Individual Elements** are those elements that are performed individually on the floor. They are less important than partner elements, give less value and in order to put more focus on the partner elements they have become optional in the senior level, while remaining mandatory in the age groups for reasons of skill development. Since this change in the rules many senior partnerships do not perform any individual elements anymore. Individual elements are divided into four categories: (1) Agility, (2) Static, (3) Flexibility and (4) Tumbling.
-    * **Agility:** Agilities are individual floor acro elements done from a standing or walking position and landing in a variety of positions, that are supposed to demomstrate agility. Some examples: A backhandspring from standing, landing in a lunge, a headspring with a 180° rotation into a plank, a salto from a standing position into side splits. Agilities differ from tumbling elements primarily through their setup of not running into it, not translating forward momentum into upward momentum (as done in tumbling).
-    * **Static:** Statics are individual balance elements like handstands, footstands or levers/supports performed on the floor. They have to be statically fixated for 2 seconds.
-    * **Flexibility:** Flexibilities are individual elements performed on the floor that are supposed to demonstrate a specific, standardised degree of flexibility, either statically in form of splits and bridges, or dynamically in movements such as walkovers.  
+    * **Agility Elements:** Agilities are individual floor acro elements done from a standing or walking position and landing in a variety of positions, that are supposed to demomstrate agility. Some examples: A backhandspring from standing, landing in a lunge, a headspring with a 180° rotation into a plank, a salto from a standing position into side splits. Agilities differ from tumbling elements primarily through their setup of not running into it, not translating forward momentum into upward momentum (as done in tumbling).
+    * **Static Elements:** Statics are individual balance elements like handstands, footstands or levers/supports performed on the floor. They have to be statically fixated for 2 seconds.
+    * **Flexibility Elements:** Flexibilities are individual elements performed on the floor that are supposed to demonstrate a specific, standardised degree of flexibility, either statically in form of splits and bridges, or dynamically in movements such as walkovers.
+    * **Tumbling Elements:** Tumbling are handsprings, somersaults and twists which, other than agilities, are performed with a run-up into them in succession by translating forward momentum into upward momentum. A typical example would be a Round-off → Backhandspring → Back Tuck. 
 * **Dance**, ToDo
-* **Choreography**, ToDo / The choreography connects acrobatic elements with dance.  are often divided into smaller "passagess" or "sequences", often consisting of a specific choreo portion and an element or a sequence of elements. 
+* **Choreography**, short Choreo, (ToDo) / The choreography connects acrobatic elements with dance. Choreos are often divided into smaller "passagess" or "sequences", often consisting of a specific choreo portion and an element or a sequence of elements. 
 * **Artistry**, ToDo
 * **Execution**, ToDo
 * **Technique**, ToDo
 * **Sequence**, ToDo
 
 
-## Partner work
+## Partner work (ToDo)
 
 * **Partner(s)**
 * **Base**
@@ -106,36 +107,35 @@ We divide the Acrobatic terms into the following categories according to the cat
 * **2on2** (read *two on two*) means two hands on two hands or feet, or two feet on two hands or feet; when holding it hand to hand 2on2 can either mean having the hands separated or on top of each other ("knot").
 * **2on1** (read *two on one*) means two hands on top of each other ("knot") on one hand or foot. 
 * **1on2** (read *one on two*) means one hand on two hands or feet on top of each other ("knot") or one foot on two hands or feet on top of each other.
-* **1on1** (read *one on one*) means one hand on one hand or one foot, or one foot on one hand, or one foot on one foot. For example, the easiest and shortest way to describe a "One Arm Handstand held on one extended Arm of the Base" would be: *High 1on1 HS*. It does not define the base position though, so it could as well refer to a seated or lying position. 
+* **1on1** (read *one on one*) means one hand on one hand or foot, or one foot on one hand, or one foot on one foot. For example, the easiest and shortest way to describe a "One Arm Handstand held with one extended Arm of the Base" would be: *High 1on1 HS*, which does not define the base position though, so it could as well refer to a seated or a lying position, thus more precisely *Standing High 1on1 HS*. But since the standing position is the default, the standard position in Acro, and since the most essential 1on1 position is the One on One Handstand (less often a footstand or lever), "1on1" alone lets acrobats most often think of a standing high 1on1 handstand. 
 
-* **Mono**
-* **Extended Mono** is a different way of describing the One on One Handstand on a straight arm, that is commonly used in non-gymnastic acro circles. We do not suggest using it, because it says less with more. *Extended* here refers to an extended arm of the base, which we use to define as "high" or "straight" arm, while "Mono" could either refer to one arm/foot of the base or one arm/foot of the top and does not make it clear that it is *One on One*. Also while usually being used to describe a handstand, it doesn't make this clear either, as it could as well be about a One on One Footstand or One on One Straddle Support. While obviously it will be clear what is meant by context (just as 1on1 as well refers to a Handstand most of the time), when it has to be described precisely, it is still shorter and more precise to say "High 1on1 (H2H)" or "High 1on1 (HS)" (if it is about a Handstand specifically) than to say "Extended Mono (HS)", by which it is still unclear by the words if it is the base holding it with one arm or the top. 
+* **Mono**, **Extended Mono** is a different and less condensed way of describing One Arms. An "Extended Mono" is meant to be the One on One Handstand on straight arm, that is commonly used in non-gymnastic acro circles. We do not suggest using it, since it says less with more. *Extended* here refers to an extended arm of the base, which we use to define as "high" or "straight" arm, while "Mono" could either refer to one arm/foot of the base or one arm/foot of the top; it does not make it really clear that it is *One on One*, that both partners are balancing with one arm/foot only. Also while usually being used to describe a handstand, it doesn't make this clear either, as it could as well be about a One on One Footstand or One on One Straddle Support. While obviously it will be clear what is meant by context (just as 1on1 as well refers to a Handstand most of the time), when it has to be described precisely, it is still shorter and more precise to say "High 1on1 (HS)" (if it is about a Handstand specifically) than to say "Extended Mono (HS)", by which it is still unclear by the words if it is the base holding it with one arm or the top or both. A 2on1 Handstand is also "mono" on behalf of the top and also extended, and a 1on2 Handstand is "mono" on behalf of the base. But only "1on1" clearly signifies that both partners balance on one arm or leg. 
 
 * **Short**
-* **Extended** is a different way to refer to straight or high arms used in non-gymnastic acro circles, which we do not recommend to use. Referring to the arms of the base as being "extended" is confusing, because when speaking of the position of the arms, we tend to think of shoulder extension, not elbow extension; extended arms refer to a very different position with the arms in extension (behind the back), while what this is really about is straight arms and most often, when speaking of a standing position, in shoulder flexion, not in extension. Thus, when we as acro gymnasts speak of e.g. *Extended 1on1*, we refer to a position in which the base is bend over forward and holds the top on one arm held vertically in shoulder extension behind his back in a forward-fold.
+* **Extended** is a different way to refer to straight or high arms used in non-gymnastic acro circles, which we do not recommend to use. Referring to the arms of the base as being "extended" is confusing, because when speaking of the position of the arms, we tend to think of shoulder extension, not elbow extension; extended arms refer to a very different position with the arms in extension (behind the back), while what this is really about is straight arms and most often, when speaking of a standing position, in shoulder flexion, not in extension. Thus, when acro gymnasts speak of e.g. *Extended 1on1*, they may refer to a position in which the base is bend over forward and holds the top on one arm held vertically in shoulder extension behind his back in a forward-fold, because here the shoulder holds the arm in an actually extended position, while a regular Straight/High Arm 1on1 has the shoulder in a flexed position. 
 
-* **Bent Arms**
-* **Straight Arms**
-* **Half Arm**
-* **High Arm**
-* **One Arm**
-* **Two Arms**
-* **Knot**
+* **Bent Arms**, a position of the arms of the base partner, which, in a lying position, equals the starting position in a floor press, with the elbows close to the torso, while in a seated, kneeling, lunging or standing position equals the position of the arms e.g. in a shoulder press, with the hands held about shoulder width apart. 
+* **Straight Arms** refer to the arms of the base partner, holding them straight, not bent, either in a 90° angle from the body/floor when lying, or in a 180° angle and in an overhead position (shoulder flexion) when in a seated, kneeling, lunging or standing position. 
+* **Half Arm**, ...
+* **High Arm**, ...
+* **One Arm**, ...
+* **Two Arms**, ...
+* **Knot**, ...
 
 
 #### Handstands
 
-* **Handstand**, short *HS*, is a balance element on two or one hand with the body in an inverted position (head down, feet up) and the most fundamental and characteristic element of Acrobatic Gymnastics. In no other gymnastics sport are handstands performed on such a high level. In artistic gymnastics One Arm Handstands are very rarely seen, which are normal in Acro. Like Based on the orientation of the body in the handstand, there are different *categories of handstands*:
+* **Handstand**, short *HS*, is a balance element on two or one hand with the body in an inverted position (head down, feet up) and the most fundamental and characteristic element of Acrobatic Gymnastics. In no other gymnastics sport are handstands performed on such a high level. In artistic gymnastics One Arm Handstands are very rarely seen, while they are common in Acro. Based on the orientation of the body in the handstand, there are different *categories of handstands*:
   * A: Straight Variations
   * B: Arched Variations 
   * C: Piked Variations
   * D: Flagged Variations
   * D1: Gripped Flags
-* **Inversion**
+* **Inversion**, ToDo
 * Category B: Arch Handstands, ..., an Arch of more than X° is called a Deep Arch.
-* Category C: Piked Handstands, also called L-Handstands, since the body forms an inverted L, in english most often called "Seven", since the body has the form of a "7". A variation of the Seven is the "4", which is like a seven, but with one leg bent, resulting in a shape remeniscient of the "4".
+* Category C: Piked Handstands, also called L-Handstands, since the body forms an inverted L, in English most often called "Seven", since the body has the form of a "7". A variation of the Seven is the "4", which is like a seven, but with one leg bent, resulting in a shape remeniscient of the "4". Another handstand variation technically belonging to this category, that is not part of the official handstand elements, but is a fundamental position in training, is what we call the "Deep Pike". Galina Sinyavskaya calls it "Visulka", Sergej X describes it as the "Icycle". This is a handstand in which the legs point vertically down, held close to the chest like in a seated or standing pike, while holding a handstand and keeping the hip above the shoulders, heavily resisting in the shoulders to not fall forward. 
 * Category D: Flags, ... A Flag with the legs oriented downwards in an angle of 30-45° is called a Deep Flag.
-* Category D1: Gripped Flags
+* Category D1: Gripped Flags, ...
 * **Figa** is a One Arm Handstand from the category of piked handstands with a 45° rotation of the back with the legs held horizontally to the floor. A Figa where the back is twisted so much that the legs are not oriented sideways but behind the body we refer to as an Over-Figa. A Figa in which the legs are not held horizontally but pointing downwards as in a "Deep Pike" (Visulka or Icycle), we refer to as a "Deep Figa". Both Over-Figa and Deep-Figa are not yet categorized as unique handstands in the ToD. 
 * Uncategorized Handstands:
     * **Visulka / Deep Pike / Icycle** ...
