@@ -7,7 +7,7 @@ The project consists of several sub-projects (selectable in the menu at the top)
 
 ## International Terminology of Acrobatic Gymnastics
 
-In the *International Terminology of Acrobatic Gymnastics* (an ongoing work in progress to which you can [contribute here](https://github.com/floshin/acrolib/edit/main/glossary.md)), you'll find all kinds of terms known from or associated with acrobatic gymnastics, hand-to-hand and floor acro, written by Flosha. 
+In the *International Terminology of Acrobatic Gymnastics* (an ongoing work in progress to which you can [contribute here](https://github.com/floshin/acrolib/edit/main/glossary.md)), you'll find all kinds of terms known from or associated with acrobatic gymnastics, hand-to-hand and floor acro. 
 
 Over time we will add terms of diverse languages and associate them with related terms from other languages in order to reduce the current confusion when talking about elements with people from another country (or even just another acrobatic school). On the basis on this research we try to suggest a terminology, a common language, based on the most precise and/or most commonly used terms. Later we want to add images or short animations to illustrate many of these terms. 
 
