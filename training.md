@@ -37,7 +37,7 @@ Progression by years of Training:
 * 4-5:  4-5x/week for 3-4h (12-20h/week)
 * 6-7:  5-6x/week for 3-4h (15-24h/week)
 * 7-8: 6-8x/week for 3-5h (18-30h/week)
-* 16y+:   6-9x/week for 3-6h (25~36h/week)
+* 9+:   6-9x/week for 3-6h (25~36h/week)
 
 
 
