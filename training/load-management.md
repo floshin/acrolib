@@ -93,6 +93,10 @@ How does this relate to load management? It means the following; Ideally, skill 
 * not be able to focus on the technique much or enough, thus harming the execution
 * will wear out their joints, bands and ligaments and tire out their muscles so much through the skill work that there will be no capacity left for actual strength work to build muscle and strength in a safe manner and if it is done nonetheless, this additional strength work, which is required, in combination with the skill work with too high an intensity, will result in too much load. 
 
+Thus, a reasonable approach would be...
+* On one hand to always keeping skill work at an intensity that is low enough to (a) not put too much stress on the structures of the acrobats and to (b) enable the acrobats to concentrate on the technical execution instead of struggeling with the strength (this can be done e.g. by limiting the skill work to singles or doubles with enougb margin to a maximal effort, or e.g. by letting them perform a skill with reduced intensity (e.g. reducing the weight of the top by the coach helping the base in dynamics with the belt). Until the acrobats are strong enough to perform the skills at higher volume and/or higher frequency and/or higher intensity. This approach is not only safer for the joints and not only reduces the injury risk, but it also enables the acrobats to work on their skills in a manner to build more confidence. 
+* And on the other hand to work on basic strength required for the skill in less technical ways, in a safe manner, through external weights or partner weight in exercises that come close to or are identical to the movement pattern in the skill without requiring as much concentration as the skill itself.
+
 
 ### Principles of Load Management or of Balanced Training
 
