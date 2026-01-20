@@ -9,7 +9,7 @@ In the physical preparation of acrobatic gymnasts, "load management" is crucial 
 
 ## What is load management?  
 
-You can only load any structure to a specific point, beyond which the structure will break down. The body, in order to become stronger, has to be regularly exposed to load and the load has to be increased progressively (= progressive overload) for positive adaptations to occur. If the load is too much the body will not be able to recover, there will be no positive adaptation and injury will inevitably occur sooner or later. If the load is not enough, there will be no adaptation either, as the body has no reason to change. Thus, in order to make progress and to prevent injury, load has to be managed.
+You can only load any structure to a specific point, beyond which the structure will break down. The body, in order to become stronger, has to be regularly exposed to load and the load has to be increased progressively (= progressive overload) for positive adaptations to occur. If the load is too much the body will not be able to recover, there will be no positive adaptation and injury will inevitably occur sooner or later. If the load is not enough, there will be no adaptation either, as the body has no reason to adapt. Thus, in order to make progress and to prevent injury, load has to be managed.
 
 Load management is not only and not primarily about the question how much load one is exposed to in one specific exercise or skill (which is also important, because a single such instance of loading way too much can already mean an injury), but about the question how much load one is exposed to in his training as a whole on a daily and weekly basis. 
 
