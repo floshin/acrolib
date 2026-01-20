@@ -13,7 +13,7 @@ You can only load any structure to a specific point, beyond which the structure 
 
 Load management is not only and not primarily about the question how much load one is exposed to in one specific exercise or skill (which is also important, because a single such instance of loading way too much can already mean an injury), but about the question how much load one is exposed to in his training as a whole on a daily and weekly basis. 
 
-What does the load consist of or is influenced by? 
+**What does the load consist of or is influenced by?** 
 * Load is influenced by how you distribute different forms of load in training - the exercise selection.
 * Load is influenced by how you distribute the load on your body, by the utilisation of specific muscles and movement patterns - the technique.
 * Load is influenced by how much resistance you deal with in training - the intensity.
