@@ -71,6 +71,14 @@ Other people sometimes are working always with low intensity, and just adjust th
 Rarely do they consistently practice both high intensity exercises and high volume, low intensity exercises on a daily or otherwise regular basis. Rarely are they aware of the importance of both and see the relevance of the ratio between these two forms of training, the first of which we call strength training, the second of which we call conditioning. Strength & Conditioning may be one "complex", but they're not the same. Both have to be practiced and balanced in order to progress in a safe and injury-free manner. How much of and how often we do both of them is another lever by which we can manage load. 
 
 
+### Strength Training vs. Skill Training
+
+There is a difference between strength training and skill or technique training. Acrobatic skills are highly technical, they require a lot of specific technical training in order to perfect them or even to make them possible. At the same time, acrobatic skills all require strength, often significant amounts of strength. Without the strength required for the skill, it is impossible to execute the skill with correct technique, as the strength is a pre-requisite of correct technical execution. That said, if the necessary strength for a skill is lacking, there can be done infinite amounts of technical work, it will not fix the problem, if the athletes are still lacking the required strength. 
+
+Now, the most effective way to train is to train with the highest specificity (see [specificty](/articles/specificity) for a deep dive into this idea). That means, in simple terms: If the athletes are able to only train their skills, as specifically as possible, they will make more progress and perfect these skills more. And this is important to understand: They only can do so effectively, if they are already strong enough to perform their skills and thus are able to completely concentrate on technique in their training.  
+
+
+
 ### Principles of Load Management or of Balanced Training
 
 As a summary of the explanations above:
