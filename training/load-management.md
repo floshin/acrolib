@@ -4,7 +4,7 @@
 
 ## Physical Preparation, Load Management & Recovery
 
-In the physical preparation of acrobatic gymnasts, "load management" is crucial for the progress of the athletes and for injury prevention. Load management is a complex topic in strength training already, where it can be measured relatively easy; in gymnastics it becomes so complex that without substantial knowledge in biomechanics one may not really be able to understand the load that their athletes are exposed to. 
+In the physical preparation of acrobatic gymnasts, "load management" is crucial for the progress of the athletes and for injury prevention. Load management is a complex topic in strength training already, where it can be measured relatively easily; in gymnastics it becomes so complex that without substantial knowledge in biomechanics one may not really be able to understand the load that their athletes are exposed to. 
 
 
 ## What is load management?  
