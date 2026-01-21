@@ -1,19 +1,19 @@
 # Acro Community
 
-The Acrobatic Gymnastics Community across the globe is organised in local Clubs or Acrobatic Schools. They are the germ cells organising the training, in which Acro is practiced and kept alive. 
+The Acrobatics Community across the globe is organised in local clubs or acrobatic schools. They are the germ cells organising the training, in which Acro is practiced and kept alive. 
 
-These Clubs and Schools are united in regional Unions, which organise regional competitions. The regional Unions are federated in national Federations, which hold national competitions. Those again are united in continental unions organising continental competitions. 
+These clubs and schools are united in regional unions, which organise regional competitions. The regional unions are federated in national federations, which hold national competitions. Those again are united in continental unions organising continental competitions. 
 
-Finally they are organised in the International Gymnastics Federation (FIG), which organises international competitions, educational courses, academies and events, while the Technical Committee curates the Rules of the sport.  
+Finally they are organised in <a href="https://www.gymnastics.sport/">   *World Gymnastics*</a>, formerly called the *Fédération Internationale de Gymnastique* (FIG), the International Gymnastics Federation. World Gymnastics organises international competitions, educational courses, academies and events, while the Technical Committee curates the Rules of the sport.  
 
 Below we try to list and link all of these federations, as well as all the local clubs. Please help us by adding your club and make it easy for local people to reach and join you.
 
-We are also open to list circus schools as well as acro festivals, but they must be organised non-commercially. 
+We are also willing to list circus schools as well as acro festivals, but they must be social projects and organised non-commercially. 
 
 
 ## International Organisations
 
-* [FIG: Fédération Internationale de Gymnastique](https://www.gymnastics.sport/)
+* [World Gymnastics (formerly FIG: Fédération Internationale de Gymnastique)](https://www.gymnastics.sport/)
 * [IAF: International Acro Foundation](https://www.acrofoundation.com/)
 
 
@@ -121,7 +121,7 @@ We are also open to list circus schools as well as acro festivals, but they must
 
 ## Circus Universities
 
-...
+ToDo
 
 
 <style>
