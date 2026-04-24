@@ -9,7 +9,7 @@ The project consists of several sub-projects (selectable in the menu at the top)
 
 In the *International Terminology of Acrobatic Gymnastics* (an ongoing work in progress to which you can [contribute here](https://github.com/floshin/acrolib/edit/main/glossary.md)), you'll find all kinds of terms known from or associated with acrobatic gymnastics, hand-to-hand and floor acro. 
 
-Over time we will add terms of diverse languages and associate them with related terms from other languages in order to reduce the current confusion when talking about elements with people from another country (or even just another acrobatic school). On the basis on this research we try to suggest a terminology, a common language, based on the most precise and/or most commonly used terms. In the future we want to add images or short animations to illustrate these terms. 
+Over time we will add terms of diverse languages and associate them with related terms from other languages in order to reduce the current confusion when talking about elements with people from another country (or even just another acrobatic school). On the basis of this research we try to suggest a terminology, a common language, based on the most precise and/or most commonly used terms. In the future we want to add images or short animations to illustrate these terms. 
 
 You can use the search function of your browser to search for terms you heard of but don't know what they mean or to search for terms you already know (you can also type cyrillic, but not many russian names have been added yet) in order to learn how they are called in other languages. 
 
@@ -41,6 +41,6 @@ A simple part of the library containing information about all the Acro organisat
 
 **Idea, text, front-end/webdesign, photography:** [Flosha](https://flosh.in)  
 
-**Models**: Yevfrosynïa Kryvytska, Ivan Labunets, Vlasa Hoshoba, Nikita Kryvytski <!--Florian Pontius, Alena Rau-->
+**Models**: Yevfrosynïa Kryvytska, Ivan Labunets, Vlasa Hoshoba, Nikita Kryvytski <!--Florian P., Alena R., Maya W.-->
 
 Special thanks to Frosya, Vanya, Olya and our coach Galina Sinyavskaya.
