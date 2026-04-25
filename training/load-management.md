@@ -4,7 +4,7 @@
 
 ## Physical Preparation, Load Management & Recovery
 
-In the physical preparation of acrobatic gymnasts, "load management" is crucial for the progress of the athletes and for injury prevention. Load management is a complex topic in strength training already, where it can be measured relatively easily; in gymnastics it becomes so complex that without substantial knowledge in biomechanics one may not really be able to understand the load that their athletes are exposed to. 
+In the physical preparation of acrobatic gymnasts, "load management" is crucial for the progress of the athletes and for injury prevention. Load management is a complex topic in strength training already, where it can be measured relatively easily; in gymnastics it becomes so complex that without substantial knowledge in biomechanics one may not really be able to understand the load that their athletes are exposed to. In this article we will not deal with such biomechanical knowledge, but instead suggest a simple approach to the problem of load management from experience and on principal terms. 
 
 
 ## What is load management?  
@@ -23,9 +23,9 @@ Load management is not only and not primarily about the question how much load o
 Load can be managed by changing one or more of the above mentioned factors. It can be managed by changing...
 * the exercises
 * the technique
-* the intensity
-* the volume
 * the frequency
+* the volume
+* the intensity
 
 I consider these five factors to be the most important and in descending order. Very often people only change the intensity, the volume or the frequency when trying to manage load. These are important factors to consider. But even more important is exercise selection and technique. 
 
@@ -42,22 +42,22 @@ If an exercise is not right for you, influencing any of the other factors won't 
 
 ### Technique 
 
-Technique is about how you perform the exercise. How do you distribute the load on your body while performing the exercise? Can you perform it well and with solid technique? Because if you cannot do it with correct technique you can influence the intensity, volume and frequency as much as you want; if your technique stays the same you will eventually run into problems if you try to increase the frequency, volume or intensity again. Bad technique will put too much load on structures of your body and will thus lead to overuse injury sooner or later, if you do not fix the technique and thereby distribute the load more evenly on your structures, in a way that is healthier for the joints and addresses the muscles that are meant to be addressed more effectively, thereby ensuring better progress. 
-
-
-### Intensity
-
-Intensity can be influenced by using more or less weight, more or less speed, more difficult/demanding exercises and more or less conscious muscle tension or "intent". 
-
-
-### Volume
-
-Volume can be influenced by changing how much is done weekly, daily or per set of total training or of training of specific exercises, movement patterns or muscle groups. 
+Technique is about how you perform the exercise. How do you distribute the load on your body while performing the exercise? Can you perform it well and with solid technique? Because if you cannot do it with correct technique you can influence the intensity, volume and frequency as much as you want; if your technique stays the same you will eventually run into problems if you try to increase the frequency, volume or intensity again. Bad technique will put too much load on structures of your body and will thus lead to overuse injury sooner or later, if you do not fix the technique and thereby distribute the load more evenly on your structures, in a way that is healthier for the joints and addresses the muscles that are meant to be addressed more effectively, thereby ensuring better progress.
 
 
 ### Frequency
 
-Frequency can be influenced by changing how often we train in total every week or by how often we train specific exercises or muscle groups or movement patterns (if not doing the same everyday).  
+Frequency can be influenced by changing how often we train in total every week or by how often we train specific exercises or muscle groups or movement patterns (if not doing the same everyday). It is of the utmost importance after the exercise selection and technique. If the technique is correct, then there is nothing more important than to practice the desired technique often and frequently. If one wants to improve and to solidify right techniqu?, then increasing frequency is the most important step. 
+
+
+### Volume
+
+After frequency comes volume. Volume we deem of higher importance than intensity, because intensity is most safely build on a foundation of high volume; in other words: Good lighter muscle endurance is a safe foundation to build higher and higher intensity on as necessar. It can be influenced by changing how much is done weekly, daily or per set of total training or of training of specific exercises, movement patterns or muscle groups. 
+
+
+### Intensity
+
+Lastly, intensity can be influenced by using more or less weight, more or less speed, more difficult/demanding exercises and more or less conscious muscle tension or "intent". 
 
 
 ### Relation of Volume & Intensity
@@ -79,9 +79,9 @@ Now, the most effective way to train is to train with the highest specificity (s
 
 What does it mean to be strong enough for a skill? If two athletes are performing a skill, e.g. a somersault thrown by the base from a F2H position, but they are lacking in height and amplitude, inspite of otherwise correct technical execution, then the base may simply be too weak to throw the top effectively and explosively enough. Simply speaking, if they do the same and they are able to do it correctly, but only 1-3 times, then they cannot do it anymore, strength is lacking. But if they are able, strength-wise, to perform the same skill with enough height and amplitude, 5 or 10 or 20 times in a row (depending on the difficulty of the skill), then they are very much strong enough for the skill. 
 
-That means, in simplified terms: They are strong enough for a given skill, if this skill has become so easy, strength-wise, that it basically becomes conditioning. 
+That means, in simplified terms: They are strong enough for a given skill, if this skill has become so easy, strength-wise, that it turns into mere conditioning. 
 
-If the skill is so hard that it is close to a 1RM (a one rep max), that means like 90-100% effort, one is definitely not strong enough to work on the skill in a "conditioning" manner. In this case, inspite of the rule of specificity, it is *not* effective to only train the skill itself to build strength, because the given strength is so much less then required that proper technical execution is impossible (and thus is not as specific as it should be). Building strength through the skill is then potentially harming the technique and due to the high strength demands the intensity will be so high that it will likely lead to injury when done at such a high volume as technical work requires.
+If the skill is so hard that it is close to a 1RM (a one rep max), that means like 90-100% effort, one is definitely not strong enough to work on the skill in a "conditioning" manner. In this case, inspite of the rule of specificity, it is *not* effective to only train the skill itself to build strength, because the given strength is so much less than required, that proper technical execution is impossible (and thus is not as specific as it should be). Building strength through the skill is then potentially harming the technique and due to the high strength demands the intensity will be so high that it will likely lead to injury when done at such a high volume as demanded from technical work.
 
 In order to do technical work effectively, the intensity has to be reduced to such a degree, that it only requires 50-70% effort or so. And as long as the athletes have not reached a level of strength that they are within that zone when performing the actual skill without any support (reduction in intensity), it can be argued that they are still not strong enough.
 
@@ -89,9 +89,9 @@ But it is not always possible to reach such a level for every skill. There are v
 
 Now there is a big risk of failure in such a case, therefore in acrobatic skills with a much higher risk of injury, one cannot perform skills at such an extreme intensity as with 1RM lifts in weightlifting, but nonetheless the intensity can be quite high compared to more regular skills and thus training and maintaining these skills requires a very careful approach and very competent coaches. But these are things to worry about at the elite level. In general the principle remains that we should always aim to build so much strength, that skills can be performed in a conditional manner, several times in a row, so that strength is never the limiting factor. 
 
-How does this relate to load management? It means the following; Ideally, skill training, working on the acrobatic elements, should not put a high load on the acrobats and thus only be a secondary factor in load management. If the skills themselves are very high in intensity and put a lot of pressure and strain on the bodies of the acrobats, they will (usually)...
+How does this relate to load management? It means the following; Ideally, skill training, which means working on the acrobatic elements, should not put a high load on the acrobats and thus only be a secondary factor in load management. If the skills themselves are very high in intensity and put a lot of pressure and strain on the bodies of the acrobats, they will (usually)...
 * not be able to focus on the technique much or enough, thus harming the execution
-* will wear out their joints, bands and ligaments and tire out their muscles so much through the skill work that there will be no capacity left for actual strength work to build muscle and strength in a safe manner and if it is done nonetheless, this additional strength work, which is required, in combination with the skill work with too high an intensity, will result in too much load. 
+* will wear out their joints, bands and ligaments and tire out their muscles so much through the skill work that there will be no capacity left for actual strength work to build muscle and strength in a safe manner. And if it is done nonetheless, this additional strength work, which is required, in combination with the skill work with too high an intensity, will result in too much load. 
 
 Thus, a reasonable approach would be...
 * On one hand to always keeping skill work at an intensity that is low enough to (a) not put too much stress on the structures of the acrobats and to (b) enable the acrobats to concentrate on the technical execution instead of struggeling with the strength (this can be done e.g. by limiting the skill work to singles or doubles with enougb margin to a maximal effort, or e.g. by letting them perform a skill with reduced intensity (e.g. reducing the weight of the top by the coach helping the base in dynamics with the belt). Until the acrobats are strong enough to perform the skills at higher volume and/or higher frequency and/or higher intensity. This approach is not only safer for the joints and not only reduces the injury risk, but it also enables the acrobats to work on their skills in a manner to build more confidence. 
@@ -106,7 +106,7 @@ As a summary of the explanations above:
 
 (2) Balanced training is a spectrum that can reach from "just enough", for a slow and safe progression in small steps (ensuring to not fall under the border of "not enough"), to "as much as possible", for a faster progression in bigger steps (ensuring to not exceed the border of "too much"). (2a) Everything on this spectrum can be considered as a balanced training. Different athletes and different times may require or enable one to lean more towards one side of the spectrum. But as long as we manage to stay within, we ensure progress, even if it may not be the "optimum" in terms of effectiveness or "speed of progress". But the most effective "optimum" is closer to "too much" and thus comes with an increased injury risk. 
 
-(3) Training is balanced by modifying the exercises, the technique, the intensity, the volume or the frequency. (3a) Of these 5 factors, exercise selection is the most important, technique is the second most important and so forth. (3b) How exercises should be selected is a topic complex enough for an article on its own, but in short: A simple way of approaching it is through essential movement patterns and of making sure that all of them are trained; but this alone does not ensure a balanced programme. Acro and its demands are too complex to reduce them to five or so movement patterns such as Hinging, Squatting etc. Instead we think of our joints. Balanced training is first and foremost about keeping our joints healthy. All the joints have different functions. If we train one particular joint e.g. in a way that can be described as "flexion", we have to train the same joint in "extension". If we train a movement that is essentially anti-extension, we balance it out with a movement that is essentially anti-flexion. A balanced training starts by a balanced exercise selection and a balanced exercise selection means balancing out the opposites. (3c) Another factor of balanced training and another factor of exercise selection is exercise variety. The more variety, the less overuse by repetition of the same; but the more important factor is ensuring to properly train the opposites; variety comes second and with advantages on its own, that have less to do with injury prevention than with technical progression, coordination and the development of a broad, general movement repertoire that makes learning any new skill easier. 
+(3) Training is balanced by modifying the exercises, the technique, the frequency, the volume and the intensity and in that order. (3a) Of these 5 factors, exercise selection is the most important, technique is the second most important and so forth. (3b) How exercises should be selected is a topic complex enough for an article on its own, but in short: A simple way of approaching it is through essential movement patterns and of making sure that all of them are trained; but this alone does not ensure a balanced programme. Acro and its demands are too complex to reduce them to five or so movement patterns such as Hinging, Squatting etc. Instead we think of our joints. Balanced training is first and foremost about keeping our joints healthy. All the joints have different functions. If we train one particular joint e.g. in a way that can be described as "flexion", we have to train the same joint in "extension". If we train a movement that is essentially anti-extension, we balance it out with a movement that is essentially anti-flexion. A balanced training starts by a balanced exercise selection and a balanced exercise selection means balancing out the opposites. (3c) Another factor of balanced training and another factor of exercise selection is exercise variety. The more variety, the less overuse by repetition of the same; but the more important factor is ensuring to properly train the opposites; variety comes second and with advantages on its own, that have less to do with injury prevention than with technical progression, coordination and the development of a broad, general movement repertoire that makes learning any new skill easier. 
 
 (4) The best and fastest progress is always ensured by starting low and easy and increasing any one of the five factors at a time. Slow and steady is fast, and consistency is more important than any other factor after ensuring training in a balanced way. Because no matter how well you manage the load through technique, intensity, volume or frequency, there will be no progress without training consistently.
 
