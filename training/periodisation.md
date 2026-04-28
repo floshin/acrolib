@@ -1,10 +1,10 @@
-# Acro Periodisation
+# An Approach to Acro Periodisation
 
 Author: *Flosha, 29.04.2025*   
 last update: *28.04.2026*
 
 
-In this article I will introduce the general concept of periodisation in strength training and gymnastics. Then I will point out a few different approaches or forms of periodisation.
+In this article I will introduce the general concept of periodisation in strength training and gymnastics. Then I will point out a few different approaches or forms of periodisation and present my own approach to programming in Acro, which is more or less a traditional approach to training as practiced by traditional coaches, such as my own coach, Galina Sinyaskaya, modified and made gentler slightly with a so-called steady-state protocol.   
 
 
 ## What is periodisation?
@@ -82,7 +82,12 @@ Linear increase in strength over e.g. four weeks, followed by a dip in the deloa
 
 Different from this linear progression in training blocks is an approach to progression in waves. Here the programme is not divided into blocks of linear progression followed by deload weeks, but there is a constant up and down in volume and intensity either on a week-by-week basis or even on a day-by-day or session-by-session basis. That means, one week of high intensity may follow a week of low intensity, that follows a week of high intensity and so on. Or a day of high intensity follows a day of low intensity. While being a very different approach to programming, the underlying function is the same as with the deload weeks. By having a lower intensity week after a higher intensity week, the body is given time to rest and regenerate. 
 
-It is essentially the same in function, since in form of the deload weeks, there are 
+But why would one prefer one over another? From my perspective, the linear progression block-approach isn't very suitable to gymnastics, especially so when there are competitions or shows all year. Such an approach is most suitable to e.g. bodybuilding or strength sports, to maximise the gains. At the end of each mesocycle, before the deload week, one often will feel very tired and the injury risk increases. At that time performance will decline, the accumulated fatigue will be maxed out. This of course can be modified and the negative effects weakened through intelligent programming, nonetheless it is an approach that is demanding on the nervous system and may not be optimal in case of a sports in which one ideally has to be ready and capable to perform on a daily basis, because its not about lifting personal records on a monthly basis or something like that, but about daily performance, about correct technical execution and artistic expression on a daily basis. Even less so is it a fitting approach to all those who work e.g. as professional acrobats in the circus, where they have shows on a daily basis for months all year. Unless they have longer periods of only training and rest, in which case such a block periodistation may have a place. 
+
+For most acrobats a wavy approach may therefore be more sustainable, but the higher intensity weeks or sessions shouldn't be too intense, so as to not negatively affect recovery and performance too much, and the lower intensity weeks or sessions shouldn't be too light either, as the acrobats need a certain basic level of medium intensity on a regular basis. Thus the wavy approach in acrobatics would be a more gentle approach, where the waves fall not very low under medium intensity and rise not very high above medium intensity.  
+
+
+
 
 his can happen on a block basis in form of deload weeks, but it can as well happen in form of lower intensity, higher volume sessions vs. higher intensity, lower volume sessions that switch on a weekly or daily basis in waves, or it can happen in form of a slow and steady improvement from endurance over volume to intensity
 
