@@ -3,7 +3,7 @@
 *by Flosha, 16.-17.04.2025*  
 
 In order to recover the best from our training (apart from not training too much too soon or overloading too suddenly) we have to keep our sleep, hydration and nutrition in check. As athletes we need to get specific things (often more than non-athletes) and avoid others (preferably more strictly than non-athletes).  
-Also there are a few habits and, as far as needed, supplements, that can boost the immune system. In simple terms we can say, we can say: The "healthier" we are and the better our immune system works, the better we will recover from our training. 
+Also there are a few habits and, as far as needed, supplements, that can boost our immune system. In simple terms we can say: The "healthier" we are and the better our immune system works, the better we will recover from our training. 
 
 
 1. **Breathing**: To breath well and to improve ones breathing may be the most important and yet the most overlooked factor in health and recovery. There are several defective breathing patterns, which can and should be worked on and which are often not recognised. Breathing is an important factor in cardio-vascular health and endurance as well as in managing tension during performance. By improving cardio-vascular endurance (which, in parts, involves the improvement of breathing) our recovery and overall fitness can also be improved immensely. Since there is no room here to elaborate on cardio training, we will dedicate a future article to this topic. 
