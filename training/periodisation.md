@@ -1,6 +1,6 @@
 # Periodisation
 
-*by Flosha, 29.04.2025*   
+Author: *Flosha, 29.04.2025*   
 last update: *28.04.2026*
 
 
@@ -43,11 +43,12 @@ An endurance-focused progression obviously makes sense most for endurance-athlet
 
 ## Technique-focused progression
 
-In acro the main focus lies on technique and artistry, on improving technical execution and artistic expression. The technical execution requires specific amounts of strength, of volume and intensity. There is, in theory, an optimal amount of strenght/intensity, an optimal amount of regularly/easily handable volume and there is an optimal amount of endurance. That doesn't mean that ever more strength, more volume and endurance might not be preferable, but there is a point at which we can clearly say that there is *enough* or ideally more than enough for what is needed, so as to be able to focus solely on the technical execution and the artistic expression. That is the theoretical goal. 
+In acro the main focus lies on technique and artistry, on improving *technical execution* and *artistic expression*. The technical execution requires specific amounts of strength, of volume and intensity. There is, in theory, an optimal amount of strenght/intensity, an optimal amount of regularly/easily handable volume and there is an optimal amount of endurance. That doesn't mean that ever more strength, more volume and endurance might not be preferable, but there is a point at which we can clearly say that there is *enough* or ideally more than enough for what is needed, so as to be able to focus solely on the technical execution and the artistic expression. That is the theoretical goal.  
+But how can technical and artistic progress be measured? It can be measured by criteria such as those of the code of points. Thus measuring progress is not the problem; it is obvious to any skilled acro coach. The question is rather: How can we create a progressive overload in regard to technical execution and artistic expression? Because becoming stronger or working with more volume or having more endurance, all of that will not in itself cause progress in execution and expression. They are requirements for better technical execution and artistic expression to a degree, but they aren't the same. 
+
+## Linear/Wavy Cycles vs. Steady State Cycles
 
 
-
-* Linear/Wavy Cycles vs. Steady State Cycles
 
 
 ## The Gentle Sinyavskaya Method
