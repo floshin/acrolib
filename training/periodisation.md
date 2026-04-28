@@ -114,19 +114,35 @@ Because of this there are many coaches which are essentially throughout the enti
 Here the frequency plays a major role, because when an acrobat only trains one or two times a week, periodisation becomes rather meaningless. There is simply not enough total volume and an acrobat with so little training will have more important problems than to have a fancy periodised programming; he will first and foremost have to increase the training frequency. If that is not possible or not wanted, then working at a medium intensity more or less always, and with occasional higher and lower intensity sessions as needed, on a basis of individual perception, is a perfectly valid approach. 
 
 
-### Beyond the Block Approach
+### Steady State Cycles - Beyond the Block Approach
 
-We have seen that both the linear and the wavy block approach cycle between lower and higher intensity. One does so in form of a linear progression through weeks, then by a deload week, one is doing so by a constant waving cycle going up and down between lower and higher intensity weeks or sessions. And both of them result in eventual overall higher intensity and if wished in an overall higher volume. 
+We have seen that both the linear and the wavy block approach cycle between lower and higher intensity. One does so in form of a linear progression through weeks, then by a deload week, one is doing so by a constant waving cycle going up and down between lower and higher intensity weeks or sessions. And both of them result in eventual overall higher intensity and if wished in an overall higher volume. But there is another form of periodisation, that is usually described as "Steady State Cycles". 
 
-We have also seen that as acrobats our main focus lies neither on the progress of intensity nor volume, but on technical execution and artistic expression and that in acro there is a theoretical optimal intensity and volume, or in other words: There is a point at which an acrobat is strong enough (intensity) and works enough (volume).  
+In some sense it is a reversed approach to the linear block periodisation with the deload automatically included. 
+
+Usually linear block periodisation starts with a low volume and then increases the volume throughout the weeks, in a hypertrophy focused cycle. Or it starts with a lower/medium intensity and then increases the intensity over the weeks. Then there is some rest in form of a deload and the positive adaptation can occur; afterwards one is stronger and starts anew on this new, stronger foundation. 
+
+A steady state cycle works in the opposite way: You start with a relatively high, a medium-high intensity (not too high, as that would potentially to hard to endure and positive adaptation may not occur). But now you do not increase this intensity, but you keep doing that very same 
 
 
 
+It is called 
 
-his can happen on a block basis in form of deload weeks, but it can as well happen in form of lower intensity, higher volume sessions vs. higher intensity, lower volume sessions that switch on a weekly or daily basis in waves, or it can happen in form of a slow and steady improvement from endurance over volume to intensity
+
+ it can happen in form of a slow and steady improvement from endurance over volume to intensity
 
 
 ## The Gentle Sinyavskaya Method
+
+
+We have also seen that as acrobats our main focus lies neither on the progress of intensity nor volume, but on technical execution and artistic expression and that in acro there is a theoretical optimal intensity and volume, or in other words: There is a point at which an acrobat is strong enough (intensity) and works enough (volume).  
+
+Because of this my own approach is different from those described above and may best be described with the term "steady state cycle", which is essentially a mixture of both of the approaches above, when condensed into a single session. The basic idea is the following:  
+
+We take the wavy approach but don't practice it on a week-by-week or day-by-day fashion, where we cycle lower and higher intensity, but we always practice both within a session. So we will have higher and lower intensity in every training. That does not mean that we practice only at a medium intensity (like in the method mentioned before, that many coaches are using), but we particularly include light intensity work, because it is crucial for joint and muscle health, and particularly include some higher intensity work. 
+
+
+---
 
 Our approach, which I would describe as my theortical analysis of the method of Galina Sinyavskaya mixed with a simple Steady State method of intuitive periodisation and progressive preparation for injury prevention (which attempts to get the same result as Galinas approach to work, just a bit more gentle and measurable), I will summarise as follows: 
 
