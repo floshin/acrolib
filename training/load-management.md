@@ -32,27 +32,31 @@ I consider these five factors to be the most important and in descending order. 
 
 ### Exercise Selection 
 
-Exercise selection has two different aspects. 
+Exercise selection has two different aspects. (1) Choosing appropriate exercises for ones individual level of performance, matching ones current abilities. And (2) choosing exercises in an appropriate combination to balance out the load.   
 
-(1) At first we have to ask, which exercises we do. Which exercise is right for you and at your current "level" (of coordination, strength, flexibility etc.) and does it serve your needs? This may not be too difficult to decide in strength training, but is a very complex topic in acrobatics.  
-If an exercise is not right for you, influencing any of the other factors won't change that you are working on an exercise which may be too early to do for you and is ineffective or puts too much strain on your body, no matter how you do it. For example: When you are weighing 160kg and cannot do a Plank on your hands for 1min without your wrists hurting, you cannot train handstands no matter the technique, intensity, volume or frequency. This exercise is just not right for you at this moment. We have to choose the right ones. But exercise selection is not only about choosing specific exercises in isolation. 
+#### 1. Appropriate Exercises
 
-(2) It is also about which exercises you choose to combine in your programme. The first task is to choose exercises appropriate to your level. The second task it to choose exercises appropriate to balance each other out. This is of the utmost importance. Why? Simply: Doing a specific exercise at a specific intensity, volume and frequency may be too much for you if you are only ever doing this exercise or other ones that aren't balancing out the load that this exercise puts on your body. But doing that same exercise may *not* be too much for you at that very same intensity, volume and frequency, if you also do specific other exercises that balance out that load. Thus, before we are thinking about changing intensity, volume or frequency, we have to think about if we aren't simply missing something in our training that could help our body to sustain that load. 
+At first we have to ask, which exercises we do. Which exercise is right for us and at our current "level" (of coordination, strength, flexibility etc.) and does it serve our needs? This may not be too difficult to decide in strength training, but is a very complex topic in acrobatics.  
+If an exercise is not right for us, influencing any of the other factors won't change that we are working on an exercise which may be too early to do for us and is ineffective or puts too much strain on our body, no matter how we do it. For example: When one is weighing 160kg and cannot do a Plank on ones hands for 1 min without the wrists hurting, one cannot train handstands no matter the technique, intensity, volume or frequency. This exercise is just not right for then at this moment. We have to choose the right ones. But exercise selection is not only about choosing specific exercises in isolation. 
+
+#### 2. Exercise Combination
+
+It is also about which exercises we choose to combine in our programme. The first task is to choose exercises appropriate to our level. The second task it to choose exercises appropriate to balance each other out. This is of the utmost importance. Why? Doing a specific exercise at a specific intensity, volume and frequency may be too much for us if we are only ever doing this exercise or other ones that aren't balancing out the load that this exercise puts on our body. But doing that same exercise may *not* be too much for us at that very same intensity, volume and frequency, if we also do specific other exercises that balance out that load. Thus, before we are thinking about changing intensity, volume or frequency, we have to think about if we aren't simply missing something in our training that could help our body to sustain that load. 
 
 
 ### Technique 
 
-Technique is about how you perform the exercise. How do you distribute the load on your body while performing the exercise? Can you perform it well and with solid technique? Because if you cannot do it with correct technique you can influence the intensity, volume and frequency as much as you want; if your technique stays the same you will eventually run into problems if you try to increase the frequency, volume or intensity again. Bad technique will put too much load on structures of your body and will thus lead to overuse injury sooner or later, if you do not fix the technique and thereby distribute the load more evenly on your structures, in a way that is healthier for the joints and addresses the muscles that are meant to be addressed more effectively, thereby ensuring better progress.
+Technique is about how we perform the exercise. How do we distribute the load on our body while performing the exercise? Can we perform it well and with solid technique? Because if we cannot do it with correct technique we can influence the intensity, volume and frequency as much as we want; if our technique stays the same we will eventually run into problems if we try to increase the frequency, volume or intensity again. Bad technique will put too much load on structures of our body and will thus lead to overuse injury sooner or later, if we do not fix the technique and thereby distribute the load more evenly on your structures, in a way that is healthier for the joints and addresses the muscles that are meant to be addressed more effectively, thereby ensuring better progress.
 
 
 ### Frequency
 
-Frequency can be influenced by changing how often we train in total every week or by how often we train specific exercises or muscle groups or movement patterns (if not doing the same everyday). It is of the utmost importance after the exercise selection and technique. If the technique is correct, then there is nothing more important than to practice the desired technique often and frequently. If one wants to improve and to solidify right techniqu?, then increasing frequency is the most important step. 
+Frequency can be influenced by changing how often we train in total every week or by how often we train specific exercises or muscle groups or movement patterns (if not doing the same everyday). It is of the utmost importance after the exercise selection and technique. If the technique is correct, then there is nothing more important than to practice the desired technique often and frequently. If one wants to improve and to solidify right technique, then increasing frequency is the most important step. If, for instance, an acrobat only trains two times a week, this is the most essential factor to change, before considering volume or intensity. 
 
 
 ### Volume
 
-After frequency comes volume. Volume we deem of higher importance than intensity, because intensity is most safely build on a foundation of high volume; in other words: Good lighter muscle endurance is a safe foundation to build higher and higher intensity on as necessar. It can be influenced by changing how much is done weekly, daily or per set of total training or of training of specific exercises, movement patterns or muscle groups. 
+After frequency comes volume. Volume we deem of higher importance than intensity, because intensity is most safely build on a foundation of high volume; in other words: Good lighter muscle endurance is a safe foundation to build higher and higher intensity on. It is the necessary basis. It can be influenced by changing how much is done weekly, daily or per set of total training or of training of specific exercises, movement patterns or muscle groups. 
 
 
 ### Intensity
@@ -62,13 +66,15 @@ Lastly, intensity can be influenced by using more or less weight, more or less s
 
 ### Relation of Volume & Intensity
 
-While we can influence and think of these factors in isolation, they are strongly linked. Not only in the sense that obviously when doing higher intensity, you will do so with less volume and when working with higher volume you will work with less intensity. It also is a huge, but often overlooked factor in training how much you work with high intensity (and lower volume) in relation to how much you work with low intensity and high volume. 
+While we can influence and think of these factors in isolation, they are strongly linked. Not only in the sense that obviously, when doing higher intensity, we will do so with less volume, and when working with higher volume, we will work with less intensity. It also is a huge (but often overlooked) factor in training, how much we work with high intensity and lower volume in relation to how much we work with low intensity and high volume. 
 
 Sometimes people are working always with high intensity, and just adjust the intensity and volume of the exercises done at high intensity if they feel that they need to reduce or increase the load in some way. 
 
-Other people sometimes are working always with low intensity, and just adjust the volume and frequency of the exercises done at low intensity if they feel they need to reduce or increase the load in some way (an approach which may be fine if you are a pure endurance athlete, but this is not the topic here). 
+Other people sometimes are working always with low intensity, and only adjust the volume and frequency of the exercises done at low intensity if they feel they need to reduce or increase the load in some way (an approach which may be fine for pure endurance athletes, but this is not the topic here). 
 
-Rarely do they consistently practice both high intensity exercises and high volume, low intensity exercises on a daily or otherwise regular basis. Rarely are they aware of the importance of both and see the relevance of the ratio between these two forms of training, the first of which we call strength training, the second of which we call conditioning. Strength & Conditioning may be one "complex", but they're not the same. Both have to be practiced and balanced in order to progress in a safe and injury-free manner. How much of and how often we do both of them is another lever by which we can manage load. 
+Rarely do they consistently practice both high intensity exercises and high volume, low intensity exercises on a daily or otherwise regular basis. Rarely are they aware of the importance of both and see the relevance of the ratio between these two forms of training, the first of which we call strength training, the second of which we call conditioning.   
+
+Strength & Conditioning may be one "complex", but they're not the same. Both have to be practiced and balanced in order to progress in a safe and injury-free manner. How much of and how often we do both of them is another lever by which we can manage load. 
 
 
 ### Strength Training vs. Skill Training
