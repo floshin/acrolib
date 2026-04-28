@@ -6,6 +6,14 @@ last update: *28.04.2026*
 
 In this article I will introduce the general concept of periodisation in strength training and gymnastics. Then I will point out a few different approaches or forms of periodisation and present my own approach to programming in Acro, which is more or less a traditional approach to training as practiced by traditional coaches, such as my own coach, Galina Sinyaskaya, modified and made gentler slightly with a so-called steady-state protocol.   
 
+---
+
+CONTENT:  
+I. What is periodisation?  
+II. Different foci of progression 
+III. Different forms of periodisation 
+
+---
 
 ## What is periodisation?
 
@@ -30,27 +38,30 @@ Independent of all these different approaches there are a few factors that decid
 
 2. **Balance of Higher and Lower Intensity:** Every form of periodisation involves some sort of higher intensity (pushing harder for strength, but putting much pressure on the body and joints) and lower intensity training (focusing more on musculature, mass building and/or joint health). This can happen on a block basis in form of deload weeks, but it can as well happen in form of lower intensity, higher volume sessions vs. higher intensity, lower volume sessions that switch on a weekly or daily basis in waves, or it can happen in form of a slow and steady improvement from endurance over volume to intensity. It is important to work both at higher and lower intensity. Only lower intensity may result in much endurance and healthy joints (if one isn't doing high intensity partner work), but strength will suffer. Only higher intensity may result in much strength, but ones joint health and endurance, cardio-vascular health etc. will suffer. Thus, one has to have both, balance out both. A strict programme can do that, a flexible programme can do that and an intuitive one can do that as well. 
 
-Based on these insights we can say, that periodisation can be approached from different angles. A periodisation plan can focus on intensity and measure progress by intensity alone or primarily. It can focus on volume or endurance and measure progress by volume or endurance alone or primarily. A periodisation plan can also be focused on skill execution instead and there can be diverse mixed approaches.  
 
-## Intensity-focused progression
+## Different foci of progression
+
+Periodisation can be approached from different angles. A periodisation plan can focus on intensity and measure progress by intensity alone or primarily. It can focus on volume or endurance and measure progress by volume or endurance alone or primarily. A periodisation plan can also be focused on skill execution instead and there can be diverse mixed approaches. Below I will shortly describe such different foci. 
+
+### Intensity-focused progression
 
 If one is a pure strength athlete, then the main goal is lifting more and more weight, increasing intensity. Therefore it makes sense to develop a programm that is focused on intensity. This usually works by volume progression to build more muscle and then strength focused phases to increase strength and improve usage of the muscle mass gained. For an acrobat, lifting more and more weight is not the goal, therefore an intensity-focused progression may not be optimal, although in many cases improvement of intensity is an important part of the training. 
 
-## Volume-focused progression
+### Volume-focused progression
 
 If one doesn't necessarily want more and more strength, but e.g. has to move a very specific kind of weight for a long time repeatedly, such as is the case e.g. in sports such as crossfit, where there are relatively low technical standards (when compared with acrobatics), since it is mostly about getting the weight up fast and as often as possible, a volume-focused progression is suitable. A frequency-focused progression is always a progression of volume as well. In acrobatics this kind of focus isn't appropriate either, as our focus doesn't lie on getting weight up as fast and as often as possible, our focus lies on getting the partner or oneself up as precisely and as beautifully as possible, which is a very different focus.  
 
-## Endurance-focused progression
+### Endurance-focused progression
 
 An endurance-focused progression obviously makes sense most for endurance-athletes. Just as intensity and volume are of relevance for everyone to some degree, so is endurance, but in acrobatics it is not the main focus either. It is not our main goal e.g. to hold an element with the partner for an hour or to do 50 saltos in a row or to perform the entire routine 10 times with no pause. We hold elements for 3 seconds and the routine takes 2 minutes or 2:30. 
 
-## Technique-focused progression
+### Technique-focused progression
 
 In acro the main focus lies on technique and artistry, on improving *technical execution* and *artistic expression*. The technical execution requires specific amounts of strength, of volume and intensity. There is, in theory, an optimal amount of strenght/intensity, an optimal amount of regularly/easily handable volume and there is an optimal amount of endurance. That doesn't mean that ever more strength, more volume and endurance might not be preferable, but there is a point at which we can clearly say that there is *enough* or ideally more than enough for what is needed, so as to be able to focus solely on the technical execution and the artistic expression. That is the theoretical goal. 
 
 But how can technical and artistic progress be measured? It can be measured by criteria such as those of the code of points. Thus measuring progress is not the problem; it is obvious to any skilled acro coach. The question is rather: How can we create a progressive overload in regard to technical execution and artistic expression? Because becoming stronger or working with more volume or having more endurance, all of that will not in itself cause progress in execution and expression. They are requirements for better technical execution and artistic expression to a degree, but they aren't the same. 
 
-### Overload of Technical Execution
+#### Overload of Technical Execution
 
 An overload of technical execution or simply a progress in technical execution can be described with "doing better more often". 
 
@@ -60,7 +71,7 @@ An overload of technical execution or simply a progress in technical execution c
 
 (3) **Skill Volume:** After mastering a skill further improvement can be made by simply doing it more often and/or for longer. E.g. one may increase the number of static holds, mounts and motions or dynamics per session or one may increase the hold times, the endurance of the holds, to make them easier over time and/or decrease the rest times inbetween repetitions, thereby proving more and more efficiency and ease in skill execution. 
 
-### Overload of Artistic Expression
+#### Overload of Artistic Expression
 
 In regard to artistic expression an overload or simply progress can also be described with "doing better more often" and we can discern three phases as well. 
 
@@ -71,20 +82,43 @@ In regard to artistic expression an overload or simply progress can also be desc
 (3) **Choreography Volume & Refinement:** Just as the skills, the choreography, after being mastered, may be done more often and in combination with the skills. Expression can be constantly refined. Since the routines when practiced as a whole with the elements require a particular degree of endurance, it makes sense to sometimes practice them a few times in a row to develop more and more efficiency and ease. 
 
 
-## Block Periodisation, Wavy Cycles vs. Steady State Cycle
+## Different forms of periodisation
 
-As shortly hinted at above, a periodised programme is usually planned in so called training cycles through which progression occurs. 
+As shortly hinted at above, a periodised programme is usually planned in so called training cycles through which progression occurs. I will in the following describe three particular approaches or forms of periodisation. (1) *Linear Block Periodisation*, (2) *Wavy Block Periodisation* and (3) *Steady State Cycles*. 
+
+
+### Linear Block Periodisation
 
 One common approach is to work with so called training blocks, called mesocycles, which as a whole form a macrocycle of an entire season. There may for instance be a muscle-building (mass/hypertrophy) focused block of a few weeks, when needed, then a strength focused block, then a skill focused block etc., as necessary. These blocks, forming mesocycles, consist of smaller microcycles, the weeks. Most often there is a very linear progression of volume or intensity throughout the weeks, with a deload week in order to reset and regenerate, before going into the next mesocycle. 
 
 This approach can be visualised as follows:  
 Linear increase in strength over e.g. four weeks, followed by a dip in the deload week, followed by a linear increase in strength, followed by a dip (not as deep as the former one) etc., constantly going higher. (Add image) 
 
+
+### Wavy Block Periodisation
+
 Different from this linear progression in training blocks is an approach to progression in waves. Here the programme is not divided into blocks of linear progression followed by deload weeks, but there is a constant up and down in volume and intensity either on a week-by-week basis or even on a day-by-day or session-by-session basis. That means, one week of high intensity may follow a week of low intensity, that follows a week of high intensity and so on. Or a day of high intensity follows a day of low intensity. While being a very different approach to programming, the underlying function is the same as with the deload weeks. By having a lower intensity week after a higher intensity week, the body is given time to rest and regenerate. 
+
+This approach can be visualised as such: 
+(add image) 
+
+
+### Linear Blocks vs. Wavy Blocks
 
 But why would one prefer one over another? From my perspective, the linear progression block-approach isn't very suitable to gymnastics, especially so when there are competitions or shows all year. Such an approach is most suitable to e.g. bodybuilding or strength sports, to maximise the gains. At the end of each mesocycle, before the deload week, one often will feel very tired and the injury risk increases. At that time performance will decline, the accumulated fatigue will be maxed out. This of course can be modified and the negative effects weakened through intelligent programming, nonetheless it is an approach that is demanding on the nervous system and may not be optimal in case of a sports in which one ideally has to be ready and capable to perform on a daily basis, because its not about lifting personal records on a monthly basis or something like that, but about daily performance, about correct technical execution and artistic expression on a daily basis. Even less so is it a fitting approach to all those who work e.g. as professional acrobats in the circus, where they have shows on a daily basis for months all year. Unless they have longer periods of only training and rest, in which case such a block periodistation may have a place. 
 
 For most acrobats a wavy approach may therefore be more sustainable, but the higher intensity weeks or sessions shouldn't be too intense, so as to not negatively affect recovery and performance too much, and the lower intensity weeks or sessions shouldn't be too light either, as the acrobats need a certain basic level of medium intensity on a regular basis. Thus the wavy approach in acrobatics would be a more gentle approach, where the waves fall not very low under medium intensity and rise not very high above medium intensity.  
+
+Because of this there are many coaches which are essentially throughout the entire year only practicing at a certain medium intensity, try to keep staying within that intensity, while keeping the volume always the same and increasing intensity only slowly and when possible without training too intensely; that said, only increasing intensity when the former medium intensity has become so easy that a higher intensity can be practiced now as the new medium intensity without problems. 
+
+Here the frequency plays a major role, because when an acrobat only trains one or two times a week, periodisation becomes rather meaningless. There is simply not enough total volume and an acrobat with so little training will have more important problems than to have a fancy periodised programming; he will first and foremost have to increase the training frequency. If that is not possible or not wanted, then working at a medium intensity more or less always, and with occasional higher and lower intensity sessions as needed, on a basis of individual perception, is a perfectly valid approach. 
+
+
+### Beyond the Block Approach
+
+We have seen that both the linear and the wavy block approach cycle between lower and higher intensity. One does so in form of a linear progression through weeks, then by a deload week, one is doing so by a constant waving cycle going up and down between lower and higher intensity weeks or sessions. And both of them result in eventual overall higher intensity and if wished in an overall higher volume. 
+
+We have also seen that as acrobats our main focus lies neither on the progress of intensity nor volume, but on technical execution and artistic expression and that in acro there is a theoretical optimal intensity and volume, or in other words: There is a point at which an acrobat is strong enough (intensity) and works enough (volume).  
 
 
 
