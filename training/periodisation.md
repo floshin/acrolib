@@ -30,11 +30,15 @@ Based on these insights we can say, that periodisation can be approached from di
 
 ## Intensity-focused progression
 
-If one is a pure strength athlete, then the main goal is lifting more and more weight, increasing intensity. Therefore it makes sense to develop a programm that is focused on intensity. This usually works by volume progression to build more muscle and then strength focused phases to increase strength and improve usage of the muscle mass gained. For an acrobat, lifting more and more weight is not the goal, therefore an intensity-focused progression may not be optimal.  
+If one is a pure strength athlete, then the main goal is lifting more and more weight, increasing intensity. Therefore it makes sense to develop a programm that is focused on intensity. This usually works by volume progression to build more muscle and then strength focused phases to increase strength and improve usage of the muscle mass gained. For an acrobat, lifting more and more weight is not the goal, therefore an intensity-focused progression may not be optimal, although in many cases improvement of intensity is an important part of the training. 
 
 ## Volume-focused progression
 
-If one doesn't necessarily want 
+If one doesn't necessarily want more and more strength, but e.g. has to move a very specific kind of weight for a long time repeatedly, such as is the case e.g. in sports such as crossfit, where there are relatively low technical standards (when compared with acrobatics), since it is mostly about getting the weight up fast and as often as possible, a volume-focused progression is suitable. In acrobatics this kind of focus isn't appropriate either, as our focus doesn't lie on getting weight up as fast and as often as possible, our focus lies on getting the partner or oneself up as precisely and as beautifully as possible, which is a very different focus.  
+
+## Other focuses
+
+There is also the possibility to focus on frequency as a factor to improve or e.g. on endurance. 
 
 
 * Linear/Wavy Cycles vs. Steady State Cycles
