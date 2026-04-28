@@ -71,9 +71,13 @@ In regard to artistic expression an overload or simply progress can also be desc
 (3) **Choreography Volume & Refinement:** Just as the skills, the choreography, after being mastered, may be done more often and in combination with the skills. Expression can be constantly refined. Since the routines when practiced as a whole with the elements require a particular degree of endurance, it makes sense to sometimes practice them a few times in a row to develop more and more efficiency and ease. 
 
 
-## Linear/Wavy Cycles vs. Steady State Cycles
+## Block Periodisation, Wavy Cycles vs. Steady State Cycle
 
+As shortly hinted at above, a periodised programme is usually planned in so called training cycles through which progression occurs. 
 
+One common approach is to work with so called training blocks. There may for instance be a muscle-building (mass/hypertrophy) focused block of a few weeks, when needed, then a strength focused block, then a skill focused block etc., as necessary. These blocks, forming macrocycles, consist of smaller microcycles, the weeks. Most often there is a very linear progression of volume or intensity throughout the weeks, with a deload week in order to reset and regenerate, before going into the next macrocycle. 
+
+his can happen on a block basis in form of deload weeks, but it can as well happen in form of lower intensity, higher volume sessions vs. higher intensity, lower volume sessions that switch on a weekly or daily basis in waves, or it can happen in form of a slow and steady improvement from endurance over volume to intensity
 
 
 ## The Gentle Sinyavskaya Method
