@@ -1,4 +1,4 @@
-# Periodisation
+# Acro Periodisation
 
 Author: *Flosha, 29.04.2025*   
 last update: *28.04.2026*
@@ -75,7 +75,14 @@ In regard to artistic expression an overload or simply progress can also be desc
 
 As shortly hinted at above, a periodised programme is usually planned in so called training cycles through which progression occurs. 
 
-One common approach is to work with so called training blocks. There may for instance be a muscle-building (mass/hypertrophy) focused block of a few weeks, when needed, then a strength focused block, then a skill focused block etc., as necessary. These blocks, forming macrocycles, consist of smaller microcycles, the weeks. Most often there is a very linear progression of volume or intensity throughout the weeks, with a deload week in order to reset and regenerate, before going into the next macrocycle. 
+One common approach is to work with so called training blocks, called mesocycles, which as a whole form a macrocycle of an entire season. There may for instance be a muscle-building (mass/hypertrophy) focused block of a few weeks, when needed, then a strength focused block, then a skill focused block etc., as necessary. These blocks, forming mesocycles, consist of smaller microcycles, the weeks. Most often there is a very linear progression of volume or intensity throughout the weeks, with a deload week in order to reset and regenerate, before going into the next mesocycle. 
+
+This approach can be visualised as follows:  
+Linear increase in strength over e.g. four weeks, followed by a dip in the deload week, followed by a linear increase in strength, followed by a dip (not as deep as the former one) etc., constantly going higher. (Add image) 
+
+Different from this linear progression in training blocks is an approach to progression in waves. Here the programme is not divided into blocks of linear progression followed by deload weeks, but there is a constant up and down in volume and intensity either on a week-by-week basis or even on a day-by-day or session-by-session basis. That means, one week of high intensity may follow a week of low intensity, that follows a week of high intensity and so on. Or a day of high intensity follows a day of low intensity. While being a very different approach to programming, the underlying function is the same as with the deload weeks. By having a lower intensity week after a higher intensity week, the body is given time to rest and regenerate. 
+
+It is essentially the same in function, since in form of the deload weeks, there are 
 
 his can happen on a block basis in form of deload weeks, but it can as well happen in form of lower intensity, higher volume sessions vs. higher intensity, lower volume sessions that switch on a weekly or daily basis in waves, or it can happen in form of a slow and steady improvement from endurance over volume to intensity
 
