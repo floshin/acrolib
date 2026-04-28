@@ -1,6 +1,6 @@
 # Acrobatic Training Philosophies: Modern and Traditional Approach
 
-*by Flosha, 16.04.2025*
+Author: *Flosha, 16.04.2025*
 
 Among professional acro coaches there are different training philosophies. In this article, more of an essay than an analysis, I want to shed some light on two philosophies in particular by highlighting their differences. Please notice that in many regards I will exaggerate the two positions in order to simplify and highlight their difference, while in reality many coaches may of course work and think in a more vague and less distinct mixture of the two.  
 
@@ -24,7 +24,7 @@ This is not the approach of the reasonable coaches falling into this category. T
 
 ## How Soviet Work Society defined the Acrobatic Training System
 
-To really understand this difference, we have to dive a bit deeper into the cultural roots of acrobatic gymnastics, as it evolved in the Soviet Union. The soviets promoted a very particular philosophy of labour and developed a labour culture, in which the labour or "work" was given the utmost importance. The revolution was grounded in the idea to overcome and put an end to the exploitation of labour. Obviously in reality due to the authoritarian and violent nature of the state (compared to anarchist approaches to socialism) the revolution just led to a different form of exploitation. Nonetheless there was this general notion that you are working not for your survival or for your own profit and also not for a "nation" so much, but for a higher cause, for an ideal and a dream of international brotherhood. Work was considered sacred. 
+To really understand this difference, we have to dive a bit deeper into the cultural roots of acrobatic gymnastics, as it evolved in the Soviet Union. The soviets promoted a very particular philosophy of labour and developed a labour culture, in which the labour or "work" was given the utmost importance. The revolution was grounded in the idea to overcome and put an end to the exploitation of labour. Obviously in reality due to the authoritarian and violent nature of the state (compared to anarchist approaches to socialism) the revolution just led to a different form of exploitation. Nonetheless there was this general notion that you are working not for your survival or for your own profit and also not for a "nation" so much, but for a higher cause, for an ideal and a dream of international brotherhood. Work was therefore considered sacred. 
 
 To quote the last version of the constitution:
 > It is the duty, as well as the honor, for every able-bodied citizen in the USSR to work conscientously in his chosen, socially useful activity, and strictly to observe labour discipline. Evading socially useful work is incompatible with the principles of socialist society.
