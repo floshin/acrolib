@@ -45,6 +45,12 @@ In order to illustrate this point by an example. If I remember correctly, the ve
 Now, in capitalist society the idea of working hard is well known too. But it is working hard in order to succeed, whereas success here is equated with profit. In difference to socialist society (speaking in principial ways) you are not respected much for working hard in and out of itself, you are respected most for the profit you gain, even if you gain that profit without working hard at all, while hard-working labourers are used in capitalism in no less exploitative ways for maximising profit in the hands of the few. But this is not the place for any social or socio-economic critique. 
 
 
+## Summary
+
+I merely wanted to present these two very different approaches to training. They sound very opposed to each other, while in practice there can be a healthy mixture of the two. 
+
+To me personally one who is very strictly following the first examplatory philosophy is harming the art of acrobatics as he turns the art into a business and turns what could be a sacred thing into profanity; it values the individual but doesn't value the tradition. The other examplatory philosophy, if followed strictly, is harming individuals as it follows tradition regardless of the individual as it doesn't value the individual.  
+Personally I would prefer the second approach, when combined with a gentler and more humane approach to the individual, but without the profanity and the modern business mindset of the first approach. 
 
 
 
