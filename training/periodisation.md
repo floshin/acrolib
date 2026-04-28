@@ -54,7 +54,7 @@ But how can technical and artistic progress be measured? It can be measured by c
 
 An overload of technical execution or simply a progress in technical execution can be described with "doing better more often". 
 
-(1) **Skill Acquisition:** At first an acrobat may not be able to perform an element at all. Then he may be able to perform it sometimes. Then he may be able to perform it most often, then almost always and finally (ideally) always. This phase we can describe as skill acquisition and in this phase or rather *preceeding* this phase, progression of intensity and volume is essentiall, as it provides the necessary basis for the skill. In this phase of skill acquisition, not much volume is required, rather the minimum amount of work needed to learn with utmost concentration.  
+(1) **Skill Acquisition:** At first an acrobat may not be able to perform an element at all. Then he may be able to perform it sometimes. Then he may be able to perform it most often, then almost always and finally (ideally) always. This phase we can describe as skill acquisition and in this phase or rather *preceeding* this phase, progression of intensity and volume is essential, as it provides the necessary basis for the skill. In this phase of skill acquisition, not much volume is required, rather the minimum amount of work needed to learn with utmost concentration.  
 
 (2) **Skill Execution:** When the skill has been acquired and one is able to perform it, an acrobat will at first most likely perform it badly or not too well, then he may perform it sometimes badly, sometimes well, then he may perform it well often, but not always, with the final goal of performing it perfectly always. In this regard we can measure and ensure progress e.g. by setting a fixed number of repetitions of a skill, and then measuring how many of them meet the standards of perfect execution. At the beginning an acrobat may be able to execute one out of ten attempts well, then two and so forth, until, ideally, he will execute well ten out of ten times. At this point we can speak of skill "mastey".
 
@@ -62,6 +62,13 @@ An overload of technical execution or simply a progress in technical execution c
 
 ### Overload of Artistic Expression
 
+In regard to artistic expression an overload or simply progress can also be described with "doing better more often" and we can discern three phases as well. 
+
+(1) **Choreography Development:** A choreography and the desired expression has to be developed and learned. Measurement can take place in the same way as in skills. 
+
+(2) **Choreography Practice:** The choreography has to be practiced. It may at first be divided into single passages and later be practiced as a whole, with or without the acrobatic skills. Just as in skill execution at first there may more often be choreographic moves that do not work as intended, later it may work out more often or most often and finally the choreography and expression may be done as intended almost all of the time. Then we can say that the choreography has been internalised successfully. Measurement can take place in the same way as in skills. 
+
+(3) **Choreography Volume & Refinement:** Just as the skills, the choreography, after being mastered, may be done more often and in combination with the skills. Expression can be constantly refined. Since the routines when practiced as a whole with the elements require a particular degree of endurance, it makes sense to sometimes practice them a few times in a row to develop more and more efficiency and ease. 
 
 
 ## Linear/Wavy Cycles vs. Steady State Cycles
