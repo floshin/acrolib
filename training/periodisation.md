@@ -43,8 +43,23 @@ An endurance-focused progression obviously makes sense most for endurance-athlet
 
 ## Technique-focused progression
 
-In acro the main focus lies on technique and artistry, on improving *technical execution* and *artistic expression*. The technical execution requires specific amounts of strength, of volume and intensity. There is, in theory, an optimal amount of strenght/intensity, an optimal amount of regularly/easily handable volume and there is an optimal amount of endurance. That doesn't mean that ever more strength, more volume and endurance might not be preferable, but there is a point at which we can clearly say that there is *enough* or ideally more than enough for what is needed, so as to be able to focus solely on the technical execution and the artistic expression. That is the theoretical goal.  
+In acro the main focus lies on technique and artistry, on improving *technical execution* and *artistic expression*. The technical execution requires specific amounts of strength, of volume and intensity. There is, in theory, an optimal amount of strenght/intensity, an optimal amount of regularly/easily handable volume and there is an optimal amount of endurance. That doesn't mean that ever more strength, more volume and endurance might not be preferable, but there is a point at which we can clearly say that there is *enough* or ideally more than enough for what is needed, so as to be able to focus solely on the technical execution and the artistic expression. That is the theoretical goal. 
+
 But how can technical and artistic progress be measured? It can be measured by criteria such as those of the code of points. Thus measuring progress is not the problem; it is obvious to any skilled acro coach. The question is rather: How can we create a progressive overload in regard to technical execution and artistic expression? Because becoming stronger or working with more volume or having more endurance, all of that will not in itself cause progress in execution and expression. They are requirements for better technical execution and artistic expression to a degree, but they aren't the same. 
+
+### Overload of Technical Execution
+
+An overload of technical execution or simply a progress in technical execution can be described with "doing better more often". 
+
+(1) **Skill Acquisition:** At first an acrobat may not be able to perform an element at all. Then he may be able to perform it sometimes. Then he may be able to perform it most often, then almost always and finally (ideally) always. This phase we can describe as skill acquisition and in this phase or rather *preceeding* this phase, progression of intensity and volume is essentiall, as it provides the necessary basis for the skill. In this phase of skill acquisition, not much volume is required, rather the minimum amount of work needed to learn with utmost concentration.  
+
+(2) **Skill Execution:** When the skill has been acquired and one is able to perform it, an acrobat will at first most likely perform it badly or not too well, then he may perform it sometimes badly, sometimes well, then he may perform it well often, but not always, with the final goal of performing it perfectly always. In this regard we can measure and ensure progress e.g. by setting a fixed number of repetitions of a skill, and then measuring how many of them meet the standards of perfect execution. At the beginning an acrobat may be able to execute one out of ten attempts well, then two and so forth, until, ideally, he will execute well ten out of ten times. At this point we can speak of skill "mastey".
+
+(3) **Skill Volume:** After mastering a skill further improvement can be made by simply doing it more often and/or for longer. E.g. one may increase the number of static holds, mounts and motions or dynamics per session or one may increase the hold times, the endurance of the holds, to make them easier over time and/or decrease the rest times inbetween repetitions, thereby proving more and more efficiency and ease in skill execution. 
+
+### Overload of Artistic Expression
+
+
 
 ## Linear/Wavy Cycles vs. Steady State Cycles
 
