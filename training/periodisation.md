@@ -39,13 +39,12 @@ If one doesn't necessarily want more and more strength, but e.g. has to move a v
 
 ## Endurance-focused progression
 
-An endurance-focused progression obviously makes sense most for endurance-athletes. Just as intensity and volume are of relevance for everyone to some degree, so is endurance, but in acrobatics it is not the main focus either. It is not our main goal e.g. to hold an element with the partner for an hour or to do 50 saltos in a row or to perform the entire routine for 10 times with no pause. We hold elements for 3 seconds and the routine is 2 minutes or 2,30 at most. 
+An endurance-focused progression obviously makes sense most for endurance-athletes. Just as intensity and volume are of relevance for everyone to some degree, so is endurance, but in acrobatics it is not the main focus either. It is not our main goal e.g. to hold an element with the partner for an hour or to do 50 saltos in a row or to perform the entire routine 10 times with no pause. We hold elements for 3 seconds and the routine takes 2 minutes or 2:30. 
 
+## Technique-focused progression
 
+In acro the main focus lies on technique and artistry, on improving technical execution and artistic expression. The technical execution requires specific amounts of strength, of volume and intensity. There is, in theory, an optimal amount of strenght/intensity, an optimal amount of regularly/easily handable volume and there is an optimal amount of endurance. That doesn't mean that ever more strength, more volume and endurance might not be preferable, but there is a point at which we can clearly say that there is *enough* or ideally more than enough for what is needed, so as to be able to focus solely on the technical execution and the artistic expression. That is the theoretical goal. 
 
-## Other focuses
-
-There is also the possibility to focus on frequency as a factor to improve or e.g. on endurance. They are of even less relevance for acrobatics. 
 
 
 * Linear/Wavy Cycles vs. Steady State Cycles
