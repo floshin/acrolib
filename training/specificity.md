@@ -21,20 +21,20 @@ At first we will consider the difference between Mass and Strength training, how
 
 Mass training is necessary to some degree (more for bases than for tops). While mass does *not* equal strength it can be understood as *strength potential*. You are not necessarily stronger if you have more muscle mass, but you have more potential of strength-output than with less mass. 
 
-To simplify this (obviously it depends on additional factors): If someone with less muscle mass is stronger than someone with more mass in absolute terms the one with less mass uses his strength potential better and the other one uses it less.   
+To simplify this (obviously it depends on additional factors): If someone with less muscle mass is stronger than someone with more mass, in absolute terms, then the one with less mass uses his strength potential better and the other one uses it less.   
 After a phase focused on strength the one with more mass may become stronger and the other one will not easily be able to overcome him in strength again, in lack of muscle mass, because he uses his full potential already. Before he can become stronger he has to build more muscle first. 
 
-Thus both mass building and strength development is necessary. Training them efficiently may differ in volume, intensity, rep range, reps in reserve, speed, rest time, exercise selection and so on. While a strength focused training will also be able to carry-over to more mass and mass building focused training will carry-over to more strength, they are two different approaches to training. 
+Thus both mass building and strength development are necessary. Training them efficiently may differ in volume, intensity, rep range, reps in reserve, speed, rest time, exercise selection and so on. While a strength focused training will also be able to carry-over to more mass and mass building focused training will carry-over to more strength, they are two different approaches to training. 
 
 Approaching them on their own in seperate cycles has been proven to be more efficient. But efficiency is not the only factor that may be relevant to coaches and athletes. 
 
 In general we can distinguish training for mass and training for strength like this: 
 * Mass is more easily build by lower to medium intensity and by a progression of volume; the focus lies on the pump of the muscles, thus prolonging time under tension, controlling the weight more and reducing rest time. 
-* Strength is build by higher intensity and by a progression of intensity (the volume may even decrease); the focus lies on the neurological strength output; time under tension is reduced, the stretch reflex is used, the eccentric is not slowed down, the concentric done as explosive as safely possible; rest time is increased as needed.
+* Strength is build by higher intensity and by a progression of intensity (the volume may even decrease); the focus lies on the neurological strength output; time under tension is reduced, the stretch reflex is used, the eccentric may be controlled, but not particularly slowed down, the concentric done as explosive as safely possible; rest time is increased as needed.
 
 While this is a general scheme that works for most people, we also have to be aware that some people respond better to higher intensity and less volume even for building mass. While others respond better to less intensity and higher volume. This is something that has to be found out on an individual basis by experience.
 
-Strength can be developed with lower intensity and higher volume too, just more slowly (but also very safely). If strength is increased in this way it basically means that one never fully utilises the muscle mass to his full potential and will not be as strong as he could be. But that doesn't mean that it might not be a potent and safe approach to training for some use-cases. 
+Strength can be developed with lower intensity and higher volume too, just more slowly (but also very safely). If strength is increased in this way it basically means that one never fully utilises the muscle mass to his full potential and will not be as strong as he could be. But that doesn't mean that it might not be a potent and safe approach to training if absolute strength and an optimal strengh-mass ratio are not necessary (which is the case in acrobatics at least theoretically; practically due to sub-optimal weight ratios in partnerships etc., an optimal strength-mass ratio often becomes necessary and thus more actual focused strength work is needed).  
 
 These differences in building mass vs. developing strength can be approached by different methods of training, of which I want to point out two particular ways to approach progression and overload:
 
