@@ -17,8 +17,8 @@
   
   <h2 class="h2-events">Events</h2>
   <ul class="events">
-    <li><div class="date"><time>16-20 <br> APR</time></div> <a href="https://www.europeangymnastics.com/event/2025-european-championships-acrobatic-gymnastics-luxembourg-lux/overview"><div><span>Luxembourg</span> <br> European Championships 2025</div></a></li>
-    <li><div class="date"><time>07-17 <br> AUG</time></div> <a href="https://www.theworldgames.org/sports/Gymnastics-59"><div><span>Chengdu, China</span> <br> World Games 2025</div></a></li>
+    <li><div class="date"><time>17-20 <br> SEP</time></div> <a href="https://www.europeangymnastics.com/event/2025-european-championships-acrobatic-gymnastics-luxembourg-lux/overview"><div><span>Pesaro, Italy</span> <br> World Youth Competitions 2026</div></a></li>
+    <li><div class="date"><time>24-27 <br> SEP</time></div> <a href="https://www.theworldgames.org/sports/Gymnastics-59"><div><span>Pesaro, Italy</span> <br> World Championships 2026</div></a></li>
   </ul>
 </div>
 
