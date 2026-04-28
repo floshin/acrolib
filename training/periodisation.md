@@ -10,8 +10,9 @@ In this article I will introduce the general concept of periodisation in strengt
 
 CONTENT:  
 I. What is periodisation?  
-II. Different foci of progression 
-III. Different forms of periodisation 
+II. Different foci of progression   
+III. Different forms of periodisation  
+IV. The Gentle Sinyavskaya Method
 
 ---
 
