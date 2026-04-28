@@ -1,6 +1,7 @@
 # Periodisation
 
-*by Flosha, 29.04.2025*
+*by Flosha, 29.04.2025*   
+last update: *28.04.2026*
 
 
 In this article I will introduce the general concept of periodisation in strength training and gymnastics. Then I will point out a few different approaches or forms of periodisation.
@@ -34,11 +35,17 @@ If one is a pure strength athlete, then the main goal is lifting more and more w
 
 ## Volume-focused progression
 
-If one doesn't necessarily want more and more strength, but e.g. has to move a very specific kind of weight for a long time repeatedly, such as is the case e.g. in sports such as crossfit, where there are relatively low technical standards (when compared with acrobatics), since it is mostly about getting the weight up fast and as often as possible, a volume-focused progression is suitable. In acrobatics this kind of focus isn't appropriate either, as our focus doesn't lie on getting weight up as fast and as often as possible, our focus lies on getting the partner or oneself up as precisely and as beautifully as possible, which is a very different focus.  
+If one doesn't necessarily want more and more strength, but e.g. has to move a very specific kind of weight for a long time repeatedly, such as is the case e.g. in sports such as crossfit, where there are relatively low technical standards (when compared with acrobatics), since it is mostly about getting the weight up fast and as often as possible, a volume-focused progression is suitable. A frequency-focused progression is always a progression of volume as well. In acrobatics this kind of focus isn't appropriate either, as our focus doesn't lie on getting weight up as fast and as often as possible, our focus lies on getting the partner or oneself up as precisely and as beautifully as possible, which is a very different focus.  
+
+## Endurance-focused progression
+
+An endurance-focused progression obviously makes sense most for endurance-athletes. Just as intensity and volume are of relevance for everyone to some degree, so is endurance, but in acrobatics it is not the main focus either. It is not our main goal e.g. to hold an element with the partner for an hour or to do 50 saltos in a row or to perform the entire routine for 10 times with no pause. We hold elements for 3 seconds and the routine is 2 minutes or 2,30 at most. 
+
+
 
 ## Other focuses
 
-There is also the possibility to focus on frequency as a factor to improve or e.g. on endurance. 
+There is also the possibility to focus on frequency as a factor to improve or e.g. on endurance. They are of even less relevance for acrobatics. 
 
 
 * Linear/Wavy Cycles vs. Steady State Cycles
