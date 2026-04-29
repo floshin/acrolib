@@ -13,4 +13,4 @@
 
 ## Rules
 
-* [Extra Points for Extra Strength](/initiatives/extra-points-for-extra-strength.md)
+* [Extra Points for Extra Strength](/initiatives/extra-points-for-extra-strength)
