@@ -12,7 +12,7 @@
     <li>Revive Recreational Acrobatics<br>
     <span><a href="">read more</a></span></li>
     <li>Extra Points for Extra Strength<br>
-    <span><a href="">read more</a></span></li>
+    <span><a href="/initiatives/extra-points-for-extra-strength">read more</a></span></li>
   </ul>
   
   <h2 class="h2-events">Events</h2>
