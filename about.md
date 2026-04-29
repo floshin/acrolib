@@ -39,8 +39,10 @@ A simple part of the library containing information about all the Acro organisat
 
 ## Credits
 
-**Idea, text, front-end/webdesign, photography:** [Flosha](https://flosh.in)  
+**Idea, text, front-end/webdesign, photography:**  
+[Flosha](https://flosh.in)  
 
-**Models**: Yevfrosynïa Kryvytska, Ivan Labunets, Vlasa Hoshoba, Nikita Kryvytski <!--Florian P., Alena R., Maya W.-->
+**Models**:  
+Yevfrosynïa Kryvytska, Ivan Labunets, Vlasa Hoshoba, Nikita Kryvytski <!--Florian P., Alena R., Maya W.-->
 
 Special thanks to Frosya, Vanya, Olya and our coach Galina Sinyavskaya.
