@@ -44,3 +44,31 @@ The other method is very different in character and was to some degree utilised 
 
 Obviously there are several exercises you will do in this way and the overall training programme will be designed in a way that the exercises balance out the one-sided load put onto your body; if you would only do one or two exercises of the programme one would potentially injure oneself in a couple of weeks or months. Only by doing all of them they balance each other out and one can remain injury free, because they are choosen carefully to provide a balanced load, while slow progression and conditioning will make sure that the joints and muscles remain healty enough to handle the workload overall. 
 
+The progression happens here by starting with a specific rep range, volume and intensity for a few weeks without changing anything but the quality, control, technique and efficiency of the exercises when performing them and slowly adding more reptitions without changing the intensity. After this period an exercise or a weight that could only be done/lifted for maybe 10 repetitions may now be possible to be done/lifted for 20 or 30. It has become easy and the tendons got time to adapt. Only now you increase the intensity (often quite a jump in intensity can be done after such a cycle) and you repeat through this same cycle of Overload in the beginning, Medium Load in the midst of it and Underload in the end of the Cycle, when the weight/exercise has become easy. Such a cycle may take a few weeks for one exercise or weight; in other cases it may take a year. But eventually there are long-term gains on a strong foundation. 
+
+Obviously you make sure from the very beginning that you choose exercises which you can sustainably do in this way, in this rep range, in this volume - everyday. That means, it cannot be of very high intensity. This way you develop a standard of everyday workload. Then you slowly increase the frequency, volume or intensity of that workload. Over time and if you stick to it consistently you will reach a level that you can do all kinds of exercises on a high level, are almost always ready to perform in your sport and can just sustain it because it is your every-day base-level. 
+
+It is obvious that in this kind of training as well there will be times to push a bit harder and there will be times to go a bit slower (before competition) to be ready and fully recovered to perform, e.g. being and remaining in the Underload phase during the competition period. 
+
+
+### Mass and Strength in Bases and Tops
+
+For bases and tops we have to make a clear distinction in regard to mass vs. strength as it relates to their role. Bases can theoretically maximise mass building, obviously depending on their other goals. There is always a trade-off in being too heavy depending on which kinds of disciplines a base is also trying to specialise in. 
+
+For example: As a handbalancer, heavy legs are very disadvantaging, therefore most high-level handbalancers have thin legs. Trying to be a base and a handbalancer thus may mean that one may try to find a middle ground of strong but not too heavy legs. Or he may choose to keep them very lean for handbalancing but as a trade-off specialise in balance in hand-to-hand, to reduce the necessary leg strength due to the lack of dynamics (or only doing lower level dynamics, which is the usual thing done by pairs in the Circus). 
+
+Being too heavy can also have negative impact in regard to elegance, depending on how balletic one wants to perform. There is a reason for dancers to be lean and relatively thin, as it accentuates the lines. While male ballet dancers usually have strong legs, they are conditioned for jumping and have weaker upper bodies in comparison. Thus in some cases it also may just be a personal choice due to an aesthetical preference and personal well-being. If one doesn't feel well in ones body past a specific weight there is no sense in forcing more weight unto it. So this topic may be approached differently in recreational and professional sports and different again in the context of circus art.  
+
+As a general rule we can say that bases should aim to become muscular enough to be able to handle their tops *easily*. And while staying lean in the process may be favourable in gymnastics for the aesthetics in the performance, it will not really have much of a negative impact on skill execution, especially since senior gymnasts are no longer required to perform any individual elements. The ideal is to be muscular and *lean*, but there is no need to be "light" for bases.
+
+The situation is different for tops. For tops it is and always will be crucial to be both lean and light, as far as reasonably possible. Too much muscle won't be of use for tops and will negatively impact skill execution. Thus, for tops much more than for bases, the ideal would be to maximise the strength-to-mass (also called strength-to-weight) ratio; being as strong as possible with little/less mass. Nonetheless they have of course to build some degree of mass in the process of learning and mastering their skills. 
+
+If girls develop wider hips in course of puberty and a more regular feminine physique, not only their bases will have to develop much more strength to lift, throw and catch them effectively and safely, but also much more mass will be required and necessary to be build by the tops themselves in order to maintain their skills. This is not so in the rare cases of those girls who basically preserve the physique of a girl into adulthood; such girls are therefore particularly chosen and are predestined to become and to remain tops.
+
+---
+
+Read next: [Specificity in Acro Skill Strength](/training/specificity)
+
+
+
+
