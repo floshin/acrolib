@@ -90,6 +90,11 @@ It could roughly work as follows, for instance, in form of penalties or bonus po
 -->
 
 Obviously, the given deductions and bonus points are just examplatory and a first suggestion. We also could choose steps of 0.1. The actual points would have to be carefully considered and evaluated.   
+
+As far as Trios are concerned, the same principles may apply, whereas theoretically the deductions or bonus points can be imagined to be given both of the bases, divided by two, whereas e.g. the average weight of both bases is taken for the measurement. 
+
+In Men's Fours it can be done in the same way. The average weight of all three bases is taken and measured against the weight of the top. 
+
 This way, all the different partnerships with their diverse weight differences could compete with each other; very large weight differences receive a deduction and smaller weight differences receive extra points. The deduction for height may or may not be removed. If this will lead to more partnerships competing with partners of a similar weight, it will only serve the sport, as it will allow more adults (with more regular adult-like proportions) to participate. 
 
 If this should lead to a situation where only or mostly those win with much less difficult elements, just due to their extra points for weight, it means that we would have to reduce these extra points slightly or that the difficulty of elements in general should be rewarded more, to find the correct balance over time, that is fair to all varieties of partnerships. 
