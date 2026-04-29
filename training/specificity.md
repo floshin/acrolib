@@ -1,4 +1,4 @@
-# Specificity in Acro Skill Strength
+# Specificity in Skill Strength Training for Acrobatics
 
 *by Flosha, 18.04.2025 - 20.04.2025*
 
