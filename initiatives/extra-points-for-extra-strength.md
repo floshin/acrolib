@@ -89,7 +89,7 @@ This way, all the different partnerships with their diverse weight differences c
 
 If this should lead to a situation where only or mostly those win with much less difficult elements, just due to their extra points for weight, it means that we would have to reduce these extra points slightly or that the difficulty of elements in general should be rewarded more, to find the correct balance over time, that is fair to all varieties of partnerships. 
 
-The goal should be to create a situation in which we see all kinds of partnerships but where those at or around 50% are favoured for safety and the display of higher diffculty elements. By not giving extra value above 80% (or a bit more or less), we could discourage from going for too heavy partnerships to reduce injury risk.
+The goal should be to create a situation in which we see all kinds of partnerships but where those at or around 50% are favoured for safety and the display of higher diffculty elements. By not giving extra value above 80% (or a bit more or less), we discourage from going for too heavy partnerships to reduce injury risk.
 
 – [Flosha](https://flosh.in), *Apr 16, 2025*
 
