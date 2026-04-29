@@ -30,7 +30,7 @@ There are privacy concerns too: But no one has to be told or shown the actual we
 
 No matter the strength, the fact remains that a higher weight difference is favourable for skill execution and safety. We are able to find a percentage which is considered as the standard and the ideal and can be used as a guidance for the formation of partnerships. This could for example be a weight difference of about ~50%. At this point you would neither get extra points nor deductions. 
 
-It could roughly work as follows, for instance, in form of penalties or bonus points to the difficulty:
+It could roughly work as follows, for instance, in form of penalties or bonus points to the difficulty depending on how much (in %) the top weighs in relation to the base; if the top e.g. only weighs a fourth of the base, there will be a higher deduction than when she weighs a third of the base, and if she weighs two thirds of the base there will be bonus points as compared to weighing only half as much:
 
 | Diff. | Values |
 | ----- | ------ |
@@ -79,7 +79,7 @@ It could roughly work as follows, for instance, in form of penalties or bonus po
 | ≤100% | +5.0   |
 -->
 
-Obviously, the given deductions are just examplatory and a first suggestion. We also could start with 0.1 steps. The actual points would have to be carefully considered and evaluated.   
+Obviously, the given deductions and bonus points are just examplatory and a first suggestion. We also could choose steps of 0.1. The actual points would have to be carefully considered and evaluated.   
 This way, all the different partnerships with their diverse weight differences could compete with each other; very large weight differences receive a deduction and smaller weight differences receive extra points. The deduction for height may or may not be removed. If this will lead to more partnerships competing with partners of a similar weight, it will only serve the sport, as it will allow more adults (with more regular adult-like proportions) to participate. 
 
 If this should lead to a situation where only or mostly those win with much less difficult elements, just due to their extra points for weight, it means that we would have to reduce these extra points slightly or that the difficulty of elements in general should be rewarded more, to find the correct balance over time, that is fair to all varieties of partnerships. 
