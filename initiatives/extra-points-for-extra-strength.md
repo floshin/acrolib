@@ -2,10 +2,10 @@
 
 ## A plea for a change in the Rules of Acrobatic Gymnastics
 
-Author: Flosha  
+Author: Flosha   
 *Apr 16, 2025*  
  
-Acro is a Strength Sport.
+Acro is a Strength Sport.  
 Since Acro is very strength-focused and has even been called "Artistic Strength Sport" (in Germany "Kunstkraftsport") in the past, the inevitable question arises, why there are no weight classes in Acro. Base partners are weightlifting humans. And in every other strength sport as well as in martial art there are weight classes in which the athlethes compete. 
 
 To explain the reason behind these weight classes in short: There is absolute strength and there is relative strength. An athlete which weighs only 60kg but lifts 200kg is factually stronger in relative terms than an athlete which weighs 100kg and lifts e.g. 220kg. The latter is stronger in absolute terms, but weaker in the relation between his bodyweight and the external weight lifted. In the same way, in acrobatics, a 80kg base may throw a 35kg top into a triple salto with beautiful height, amplitude and technique. There may be another 80kg base working with a 50kg top, throwing her in a triple salto too. How can these two elements be judged on the same basis, if one of the bases has to lift so much more (or is much lighter himself)? 
@@ -79,12 +79,16 @@ It could roughly work as follows, for instance, in form of penalties or bonus po
 | ≤100% | +5.0   |
 -->
 
-Obviously, the given deductions are just examplatory and a first suggestion. The actual points would have to be carefully considered and evaluated.  
+Obviously, the given deductions are just examplatory and a first suggestion. We also could start with 0.1 steps. The actual points would have to be carefully considered and evaluated.   
 This way, all the different partnerships with their diverse weight differences could compete with each other; very large weight differences receive a deduction and smaller weight differences receive extra points. The deduction for height may or may not be removed. If this will lead to more partnerships competing with partners of a similar weight, it will only serve the sport, as it will allow more adults (with more regular adult-like proportions) to participate. 
 
 If this should lead to a situation where only or mostly those win with much less difficult elements, just due to their extra points for weight, it means that we would have to reduce these extra points slightly or that the difficulty of elements in general should be rewarded more, to find the correct balance over time, that is fair to all varieties of partnerships. 
 
 The goal should be to create a situation in which we see all kinds of partnerships but where those at or around 50% are favoured for safety and the display of higher diffculty elements. By not giving extra value above 80% (or a bit more or less), we could discourage from going for too heavy partnerships to reduce injury risk.
 
+– [Flosha](https://flosh.in), *Apr 16, 2025*
 
+--- 
+
+Note: I would be happy to hear your thoughts about this idea and, if you support it, please tell me so, since when some leading coaches and athletes support the suggestion, we could add their names under the text and turn it into a sort of petition.    
 
