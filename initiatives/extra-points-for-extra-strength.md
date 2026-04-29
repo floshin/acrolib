@@ -6,7 +6,7 @@ Author: Flosha
 *Apr 16, 2025*  
  
 Acro is a strength sport.  
-Since it is very strength-focused and has even been called "Artistic Strength Sport" ("Kunstkraftsport" in Germany) in the past, the inevitable question arises, why there are no weight classes in Acro. Base partners are weightlifting humans. And in every other strength sport as well as in the martial arts there are weight classes in which the athlethes compete. 
+Since it is very strength-focused and has even been called "Artistic Strength Sport" ("Kunstkraftsport" in Germany) in the past, the inevitable question arises, why there are no weight classes in Acro. Base partners are weightlifting humans. And in every other strength sport as well as in the martial arts there are weight classes in which athletes compete. 
 
 Please note: This is not to suggest introducing separate weight classes into acro; the suggestion is a different one, but the weight classes are important to mention in order to understand the reasoning behind the plea made thereafter.    
 
