@@ -1,9 +1,12 @@
 # Extra Points for Extra Strength
 
 ## A plea for a change in the Rules of Acrobatic Gymnastics
+
+Author: Flosha  
+*Apr 16, 2025*  
  
 Acro is a Strength Sport.
-Since Acro, as we have described further above, is very strength-focused and has even been called "Artistic Strength Sport" (in Germany "Kunstkraftsport") in the past, the inevitable question arises, why there are no weight classes in Acro. Base partners are weightlifting humans. And in every other strength sport as well as in martial art there are weight classes in which the athlethes compete. 
+Since Acro is very strength-focused and has even been called "Artistic Strength Sport" (in Germany "Kunstkraftsport") in the past, the inevitable question arises, why there are no weight classes in Acro. Base partners are weightlifting humans. And in every other strength sport as well as in martial art there are weight classes in which the athlethes compete. 
 
 To explain the reason behind these weight classes in short: There is absolute strength and there is relative strength. An athlete which weighs only 60kg but lifts 200kg is factually stronger in relative terms than an athlete which weighs 100kg and lifts e.g. 220kg. The latter is stronger in absolute terms, but weaker in the relation between his bodyweight and the external weight lifted. In the same way, in acrobatics, a 80kg base may throw a 35kg top into a triple salto with beautiful height, amplitude and technique. There may be another 80kg base working with a 50kg top, throwing her in a triple salto too. How can these two elements be judged on the same basis, if one of the bases has to lift so much more (or is much lighter himself)? 
 
