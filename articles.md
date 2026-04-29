@@ -2,15 +2,15 @@
 
 ## Training
 
-* [Principles of Training Acrobatics](/training/load-management) (by Flosha)
-* [Acro Periodisation](/training/periodisation) (by Flosha) 
-  * [Specificity in Strength Training for Acrobatics](/training/specificity) (by Flosha)
-  * [Categories of Training in Acro](/training/training-categories) (by Flosha)
-  * [Guide to Recovery](/training/recovery-guide) (by Flosha)
+* [Principles of Training Acrobatics](/training/load-management)
+* [An Approach to Acro Periodisation](/training/periodisation) 
+  * [Specificity in Strength Training for Acrobatics](/training/specificity)
+  * [Categories of Training in Acro](/training/training-categories)
+  * [Guide to Recovery](/training/recovery-guide)
  
-* [Acrobatic Training Philosophies](/training/training-philosophies) (by Flosha)
+* [Acrobatic Training Philosophies](/training/training-philosophies)
 
 
 ## Rules
 
-* Extra Points for Extra Strength (by Flosha)
+* Extra Points for Extra Strength
