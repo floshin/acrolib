@@ -92,3 +92,14 @@ The goal should be to create a situation in which we see all kinds of partnershi
 
 Note: I would be happy to hear your thoughts about this idea and, if you support it, please tell me so, since when some leading coaches and athletes support the suggestion, we could add their names under the text and turn it into a sort of petition.    
 
+
+<style>
+   h2 {
+    margin-top: 0;
+    padding-top: 0;
+   }
+ 
+   table {
+     margin: 2em 0;
+   }
+</style>
