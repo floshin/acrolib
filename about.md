@@ -40,7 +40,7 @@ A simple part of the library containing information about all the Acro organisat
 ## Credits
 
 **Idea, text, front-end/webdesign, photography:**  
-[Flosha](https://flosh.in)  
+Flosha 
 
 **Models**:  
 Yevfrosynïa Kryvytska, Ivan Labunets, Vlasa Hoshoba, Nikita Kryvytski <!--Florian P., Alena R., Maya W.-->
