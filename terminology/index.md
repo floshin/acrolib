@@ -12,7 +12,7 @@ We divide the Acrobatic terms into the following categories according to the cat
   * [Handstands](handstands)
   * [Supports](supports)
   * [Footstands](footstands)
-  * [Base Positions](base-positions)
+  * [Base Positions](basepositions)
   * [Mounts](mounts)
   * [Motions](motions)
 3. Dynamic (wip)
