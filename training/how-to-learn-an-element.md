@@ -2,7 +2,7 @@
 
 *by Flosha, 22.04.2025*
 
-Here it is less about the element or skill progression that we were dealing in another article. This is about the different approaches one can take to learn any element or skill. 
+Here it is less about the element or skill progression that we'll address in another article. This is about the different approaches one can take to learn any element or skill. 
 
 
 ## The Method of Direct Completion
