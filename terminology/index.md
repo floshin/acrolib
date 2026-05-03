@@ -25,5 +25,6 @@ We divide the Acrobatic terms into the following categories according to the cat
   * [Tumbling](individuals#tumbling)
 5. Dance & Choreography (wip)
 6. Strength & Conditioning (wip)
+7. [Exercise Repertoire](exercises)
 
 <!-- Strength & Conditioning = gpp -->
