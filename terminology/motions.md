@@ -52,4 +52,32 @@
   * **Spichag** is the russian name for pressing to handstand from a straddle support, in English it is called "Stalder Press" by some and "Endo" by others, due to a different usage in artistic gymnastics. In German it is called "Aufgrätschen" (literally "Straddle-Up"), but this word, while being very descriptive, may be more fitting for a Sit-Up (German "Aufsetzen") or V-Up (German "Aufbücken") with straight, straddled legs (thus "Aufgrätschen"); we are therefore preferring *Spichag* for a common terminology. 
   * ...
 
+
+<style>
+ 
+  main ul { 
+    list-style: none;
+    padding: 0.5em 0 1em;
+  }
+
+  main ul li {
+    padding-left: 0.5em;
+    padding-bottom: 0.4em;
+  }
+ 
+  main ul li:first-line {
+    padding-left: -0.5em;
+  }
+
+  main ul:first-child {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    list-style: initial;
+  }
+   main ul:first-child a {
+     color: inherit;
+   }
+
+</style>
   
