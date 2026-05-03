@@ -12,7 +12,7 @@ All these answers are correct. It can be all of that to different people. And fo
 
 For example, for one person acrobatics may be a hobby and it may also be a sport, but when being a hobby it can not at the same time be a profession. For an acrobat in the circus it is a profession, so it is not a hobby. And for him it is also not a sport; because a sport relates to competition, in a sport one competes against others. Yet another acrobat may not do acro as a sport, and may also not do it professionally; he may, for instance, only make shows and non-commercially so, and yet he may say: No, acro is not a hobby for me, its a practice, a performance art and way too important to me and I train way too much to call it a hobby. 
 
-A hobby is not merely every activity that one doesn't gain money with, that would be a very wrong and arbitrary definition. A monk who doesn't gain money and works and prays all day doesn't consider his lifetyle as a hobby. 
+A hobby is not merely every activity that one doesn't gain money with, that would be a very wrong and arbitrary definition. A monk who doesn't gain money and works and prays all day doesn't consider his lifestyle as a hobby. 
 
 
 ## Different goals underlying the practice
