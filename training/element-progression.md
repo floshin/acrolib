@@ -29,7 +29,7 @@ I am personally using an approach that I came up with myself. Starting with an e
 The top can then practice to keep the alignment, while the base can practice to push the top slightly away from the wall by means of her wrists and balance her freely for longer and longer durations. Then the same process can be repeated from lying on straight arms till standing on straight arms.  
 
 
-### The wo methods in comparison
+### The two methods in comparison
 
 The H2H Plank has the crucial benefit that it can be practiced independently by the partners, even children, very safely and simply, improving their stability without the need of the coach to be involved, even easier than F2H. If practiced independently F2H (in every position) is best done and secured by the top holding on to a rope or wall bars as needed.  
 
