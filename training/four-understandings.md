@@ -55,7 +55,7 @@ Whereas the opposite pair Art/Sport I would describe to myself. I do not regard 
 
 (5) Art/Profession: This pair would describe the typical professional circus acrobat, a performance artist who regards the art as his profession in the sense of a calling that also provides for his livelihood. Whereas the opposite pair Profession/Art would describe, similar to Profession/Sports, someone for whom the job takes precedence before the art, that is then a performance artist who performs for a living but has no (or no more) passion or not much (anymore) for the art he performs.  
 
-(6) Lastly, a combination of Art, Sports and Profession would describe someone like Vanya and Frosya. They are professional sportsmen but they also, like me, regard acrobatics as an art and will most likely, if their body allows, continue to practice it beyond what one calls the "sports career".  
+(6) Lastly, a combination of Art, Sports and Profession would describe some of the world-class acrobats of today. They are professional sportsmen but they also regard acrobatics as an art that they practice for the sake of it and will most likely, if their body allows, continue to practice it beyond what one calls the "sports career".  
 
 
 ## Summary
