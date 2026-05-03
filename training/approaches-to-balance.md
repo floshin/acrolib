@@ -1,6 +1,7 @@
 # Balancing or Being-Balanced in Mixed Pairs
 
-*Flosha, 26.05.2025*
+Author: *Flosha*, 26.05.2025  
+Last change: 03.05.2026
 
 There are two philosophies of balance, which are particularly relevant to Mixed Pairs. One approach suggests that the base should be the one who balances most, the other approach suggests that the top should be the one who balances most.  
 
@@ -64,6 +65,8 @@ The usual way of learning handstands, and the way it usually happens when a hand
 
 The other approach, and this is how Handbalancing is learned e.g. by the handbalancers of Kyiv or the tops of our coach Galina Sinyavskaya, may be described as bottom-up balance. Here no movement at the top is allowed; the handstand is always kept in alignment and any little over- or underbalance is fought against by the hands only, just as one who can effectively stand on ones feet will only need to use the muscles of his feet slightly in order to keep standing, whereas the toddler will wobble around at the upper body and hips, since alignment has not yet been established. 
 
+How handstands can be learned in this more effective bottom-up technique is too complex to deal with here. Books could be filled to explain it, but we may at least roughly outline the process in a future article. 
+
 In the first approach usually the balance is learned first and only then the alignment is tried to be perfected; but every now and then, and usually very often so, the handstand will be out-of-alignment, sometimes from the very beginning, and then one attempts and is able to move body parts around either to bring them back into alignment or simply to keep standing out-of-alignment.
 
 In the second approach the alignment is learned first and balance is only allowed in-alignment. A loss of alignment equals then a loss of balance, because the alignment *is* ones balance, whereas in the first approach they are separate things. That means that one will exit the handstand as soon as alignment is lost, but it also means that the alignment won't be lost easily, since the entire practice rests on perfecting and stabilising the alignment.
@@ -79,9 +82,9 @@ This "letting it happen" of the girl in mixed pairs is an art in itself and can 
 
 If we assume that a top in mixed pairs should rather be balanced than balance herself, then most optimal balance could be achieved by not balancing herself at all. Therefore there is this third method, that appears to be little known even in acrobatic circles, which has proven effective in several cases, in which the tops are prepared in a way that particularly teaches them to not balance at all. This has to be done from the very beginning. These girls, particularly to be prepared for mixed pair balance, have to be taught from scratch. Any former handbalancing experience will most likely be problematic. In that these tops cannot balance themselves, they are most optimally prepared to be balanced, to let themselves be balanced. 
 
-Others often aren't fully capable to let it happen. There will then always be moments of fear, moments in which they will instinctively react and these reactions will be visible and show how they do not completely rely on their base and haven't been prepared in the non-balance approach. Much instability at the top is the result. They cannot just "let it happen". This method of preparation results in a different kind of trust between base and top, in a different kind of relation and in a deep reliance of the top from the base, which, arguably, can be very beautiful to watch in a mixed pair as it may 
+Others aren't fully capable to let it happen. There will then always be moments of fear, moments in which they will instinctively react and these reactions will be visible and show how they do not completely rely on their base and haven't been prepared in the non-balance approach. Much instability at the top is the result. They cannot just "let it happen". This method of preparation results in a different kind of trust between base and top, in a different kind of relation and in a deep reliance of the top from the base, which, arguably, can be very beautiful to watch in a mixed pair and can complement the artistry. 
 
-
+How this non-balance can be learned, how tops are prepared in practice to be balanced in complete reliance on the base (which, as I said, is a not well-known technique used only in a few acrobatic schools in the world), cannot be elaborated on here, although it is a very straightforward process. It is more about what not to do than what to do. It is about what has to be avoided and how alignment of the top has to be established without creating any reactive patterns. 
 
 
 
