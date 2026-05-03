@@ -4,8 +4,6 @@
 
 ### 1. Handstands
 
-#### Handstands
-
 * **Handstand**, short *HS*, is a balance element on two or one hand with the body in an inverted position (head down, feet up) and the most fundamental and characteristic element of Acrobatic Gymnastics. In no other gymnastics sport are handstands performed on such a high level. In artistic gymnastics One Arm Handstands are very rarely seen, while they are common in Acro. Based on the orientation of the body in the handstand, there are different *categories of handstands*:
   * A: Straight Variations
   * B: Arched Variations 
