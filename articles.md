@@ -9,6 +9,7 @@
 * [Categories of Training in Acro](/training/training-categories)
 * [Guide to Recovery](/training/recovery-guide)
 * [Acrobatic Training Philosophies](/training/training-philosophies)
+* [Balancing or Being-Balanced in Mixed Pairs](/training/approaches-to-balance)
 
 
 ## Rules
