@@ -154,8 +154,9 @@ img {
 
 .subtext {
   font-size: 12px; 
-  border: 2px solid var(--light); 
-  padding: 0.5em; 
+  border: 1px solid var(--light); 
+  padding: 1em; 
+  margin: 1em 0;
 }
 
 table {
