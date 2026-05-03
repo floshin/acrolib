@@ -152,6 +152,12 @@ img {
   filter: invert(80%);  
 }  
 
+.subtext {
+  font-size: 12px; 
+  border: 2px solid var(--light); 
+  padding: 0.5em; 
+}
+
 table {
   overflow-x: auto;
   border-collapse: collapse;
@@ -171,6 +177,9 @@ table {
 blockquote {
   padding-left: 20px;
   border-left: 20px solid var(--light);
+  padding-top: 0;
+  padding-bottom: 0;
+  margin: 1em 0;
 }
     
 footer {
