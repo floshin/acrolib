@@ -1,4 +1,4 @@
-#
+# [International Terminology of Acrobatic Gymnastics](/terminology)
 
 ## [II. Balance](/terminology/balance)
 
