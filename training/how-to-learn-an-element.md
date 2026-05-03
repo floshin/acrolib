@@ -15,7 +15,7 @@ Very often, if skills are apparently attempted like this and work well, they wer
 
 But the direct method does not mean that the athletes try to do a skill directly alone and free. It only means that a skill is attempted directly as a whole, which may well happen with the help of a coach. 
 
-It can mean, for example, that a coach puts the top directly into the hands of a lying base and spots them in the handstand before the top can do a handstand herself and so on. Or to use a more extreme example: A coach may have the goal to teach a pair a 1on1 handstand. But before the pair can even do a 2on2 handstand the coach starts spotting them in a 1on1 handstand immediately and only focuses on this whole skill, spotting them so long in that skill until they can do it on their own. It may sound stupid, but it is an effective method that can indeed work if done in the right way. 
+It can mean, for example, that a coach puts the top directly into the hands of a lying base and spots them in the handstand before the top can do a handstand herself and so on. Or to use a more extreme example: A coach may have the goal to teach a pair a 1on1 handstand. But before the pair can even do a 2on2 handstand the coach starts spotting them in a 1on1 handstand immediately and only focuses on this whole skill, spotting them so long in that skill until they can do it on their own. It may sound stupid, but it is an effective method that can indeed work if done in the right way. But it may not be reasonable from a strategical perspective, because the steps leading to it have a value on their own and may be important in various regards.  
 
 We may say: The better you can spot and the better the athletes understand the skill, the more effective the direct method can be utilised. 
 
@@ -25,7 +25,7 @@ Thus if an athlete has an experienced coach directly at his side, there can be (
 
 Teaching a skill directly but at the same time correctly is an advanced method for those who not only understand all the aspects of a skill, but are also physically able (in regard to strength, coordination, sensitivity, subtleness) to spot it in a way that it is already effective to train it inspite of the athletes being so far away of mastering it. 
 
-For example: A coach may fail in teaching a skill correctly not primarily due to the lack of ability in their athletes, but also by a lack of ability in himself to manage spotting them correctly in an early stage.
+For example: A coach may fail in teaching a skill correctly not primarily due to the lack of ability in their athletes, but also by a lack of ability in himself to manage spotting them correctly in an early stage. Because the earlier the stage, the more complex the spotting. 
 
 If we take the example of two athletes that are supposed to learn a one arm handstand on one arm: If the top herself can do the one arm very well on her own already, the coach can let her stand on the hand of the base, while the coach only holds the hands of the base and focuses on helping him to stabilise the position as much as needed. In this case it is easy to spot.
 
@@ -34,7 +34,7 @@ Imagine the base is well be able too but the top is not at all and she cannot ho
 Now imagine that neither the base nor the top are prepared for the element. In this case he would need to spot the top and the base at the same time, but he only has two hands. How to do that? It becomes very difficult, if not impossible. But not completely impossible.  
 For instance: The athletes could be spotted by two coaches simultaneously and this method, if both do it very effectively, can indeed work and would then result in a very direct and specific way of learning the skill.
 
-We also can use the help of the wall. Or in theory it would work as well to stabilise the hand of the base in other ways (e.g. by binding it with ropes from different sites like the pole of a tent). Or by standing in front of a fixed metal or wooden pole and binding the balancing arm to that pole in order to fix the position, then focusing on the top and so on. 
+We also can use the help of the wall. Or in theory it would work as well to stabilise the hand of the base in other ways (e.g. by binding it with ropes from different sites like the pole of a tent). Or by standing in front of a fixed metal or wooden pole and binding the balancing arm to that pole in order to fix the position, then focusing on the top and so on. That are just some wild theoretical ideas, it is unlikely and unnecessary to do utilise them in practice. But it is to show how, with the direct method, even advanced skills can, theoretically be approached without much or any preparation. If that is a sound approach, is a different question.  
 
 
 ## The Method of Isolation
