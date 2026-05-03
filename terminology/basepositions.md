@@ -4,8 +4,6 @@
 
 ### 4. Base Positions
 
-#### Base Positions
-
 * **Base Position** is the position of a base during the performance of an element, e.g. while holding the top in a static hold, including the particular bases of support. Due to the plethora of possible positions it is difficult to categorise them.
 * **Base positions in pairs** are differed in the ToD more or less in these categories:
   1. Balance on two bent arms or on the head + one arm
