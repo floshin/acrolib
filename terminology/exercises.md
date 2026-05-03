@@ -72,3 +72,32 @@
 * **F2H Pullovers** are an exercise where the base is lying on the back, holding the partner in F2H on straight arms, the arms then move into shoulder flexion, resisting the flexion while lowering down, then pushing back up; ideally performed with fully straight arms. 
 * **F2H Tempos**
 * **RF2H Tempos**
+
+
+<style>
+ 
+  main ul { 
+    list-style: none;
+    padding: 0.5em 0 1em;
+  }
+
+  main ul li {
+    padding-left: 0.5em;
+    padding-bottom: 0.4em;
+  }
+ 
+  main ul li:first-line {
+    padding-left: -0.5em;
+  }
+
+  main ul:first-child {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    list-style: initial;
+  }
+   main ul:first-child a {
+     color: inherit;
+   }
+
+</style>
