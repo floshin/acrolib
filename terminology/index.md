@@ -28,3 +28,9 @@ We divide the Acrobatic terms into the following categories according to the cat
 7. [Exercise Repertoire](exercises)
 
 <!-- Strength & Conditioning = gpp -->
+
+<style>
+  ol {
+    list-style-type: upper-roman;
+  }
+</style>
