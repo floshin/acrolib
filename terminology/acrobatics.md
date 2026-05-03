@@ -1,6 +1,6 @@
 # [International Terminology of Acrobatic Gymnastics](/terminology)
 
-## Acrobatics
+## I. Acrobatics
 
 * **Acro**, short for *Acrobatic Gymnastics*  
 * **Acrobatics** describes movement that is especially elegant and virtuous, including high degrees of balance, dynamics, flexibility, strength and coordination as well as a performance art of displaying these acrobatic moves in the context of shows or competitions in *Acrobatic Gymnastics*. A person that practices and/or performs Acrobatics and/or competes in *Acrobatic Gymnastics* in particular and/or performs acrobatics professionally, is called an "Acrobat".
@@ -11,7 +11,7 @@
   * **Contortion** focuses on the display of extreme degrees of flexibility, often shown by genetically gifted girls or women and often combined with handbalancing. In German Contortionists have been generally described as "Schlangenmenschen" (snake humans) due to their seemingly unlimited ability to bend their bodies. 
   * **Hand to Hand** is a particular category of partner acrobatics without any apparatus and without any objects, where the acrobats (at least two) perform acrobatic feats with each other on the floor. Hand to Hand is the primary discipline in Acrobatic Gymnastics and shown in Circus Acts, but for some reason it seems to be not as widely known and not as frequently performed on stage as other acrobatic disciplines.
 
-![ancientacrobats](assets/ancientacrobats.png) 
+![ancientacrobats](/assets/ancientacrobats.png) 
 {: .invert }
 
 
