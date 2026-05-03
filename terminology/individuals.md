@@ -45,3 +45,31 @@ In German the Front Split is also commonly referred to as "Frauenspagat" (Womens
 * **Piked**, ...
 * **Straight**, ...
 
+
+<style>
+ 
+  main ul { 
+    list-style: none;
+    padding: 0.5em 0 1em;
+  }
+
+  main ul li {
+    padding-left: 0.5em;
+    padding-bottom: 0.4em;
+  }
+ 
+  main ul li:first-line {
+    padding-left: -0.5em;
+  }
+
+  main ul:first-child {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    list-style: initial;
+  }
+   main ul:first-child a {
+     color: inherit;
+   }
+
+</style>
