@@ -41,20 +41,40 @@ But how is this difference expressed in practice? When something is in perfect b
 
 Thus, perfect balance is still and looks easy and perfect technique is what enables it. And while such perfect balance is not possible to achieve, mastery in balance comes close to it, such that the balancing movements or "corrections" are so small, subtle and controlled, almost only in the hand(s), that it almost looks perfectly static. 
 
-If such a perfect balance could be achieved, then the two different approaches we deal with wouldn't really look any different from each other, as the balance is so perfect, that almost no balancing occurs, there is just stability. It would look as stable and effortless as a man who stands around.  
+If such a perfect balance could be achieved, then the two different approaches we deal with wouldn't really look any different from each other, as the balance is so perfect, that almost no balancing occurs, there is just stability. It would look as stable and effortless as a man who stands around. Thus, at the two extremes, the two approaches connect with each like the two ends of a circle, since perfect balance is motionless. But where balancing occurs, there the difference appears.
 
-The difference becomes apparent when actual balancing occurs, which in practice is almost always the case and then it is a matter of responsibility and of priority. 
+## The difference in practice
+
+The difference becomes apparent when actual balancing occurs, which in practice is almost always the case. Then it is a matter of responsibility and of priority. 
 
 One approach is to say: First and foremost the base has to keep absolutely still as much as possible. When anything happens, he just should try to keep being as still as possible while the top should try to catch her balance.  
 A totally different approach is to say: First and foremost the top has to keep absolutely still in her ideal line as much as possible. When anything happens, the base should try to correct the balance while the top should just keep being as still as possible and fixate her form. 
 
-In the first case a top *has* to be able to balance herself in a one arm handstand. In the second case a top has to be able to particularly *not* balance her in a one arm handstand. If the two approaches are mixed, it doesn't get better, but makes it worse, as the balancing movements from the bottom and the top will lead to over- and underbalance by overreaction. Therefore they both require a very different training.  
+In the first case a top *has* to be able to balance herself in a one arm handstand. In the second case a top has to be able to particularly *not* balance herself in a one arm handstand. If the two approaches are mixed, it doesn't get better, but makes it worse, as the balancing movements from the bottom and the top will lead to over- and underbalance by overreaction. Therefore they both require a very different training.  
 
-One will train handstands on her own and balance herself on canes. One will never train handstands alone or just two-arms and only with a very strict bottom-up technique (instead of a top-down technique) and only be held be the coach or partner. It is about achieving utmost stability in the right line, not about developing balancing capabilities. 
+One will train handstands on her own and balance herself on canes. One will never train handstands alone or just two-arms and only with a very strict bottom-up technique (instead of a top-down technique), only be held by the coach or partner. It is about achieving utmost stability in the right line, not about developing balancing capabilities. 
 
-> Aber letztendlich bedeutet perfekte Balance ja sowieso komplette bewegungslose Statik beider. Das heißt, man kann auf beiden Wegen Meisterschaft erlangen, die am Ende in einer Balance resultiert, die so ruhig ist, dass es schwer bis unmöglich ist, überhaupt noch zu sehen nach welcher Methode jetzt gearbeitet wird. In dem Fall gleichen sich die zwei Methoden am extremen Ende des Spektrums an, wie die zwei Enden eines Kreises.
+Both approaches are valid for mixed pairs. The second approach has the disadvantage that it can be more difficult to change technique if e.g. the top has to change the partnership and becomes a top in a trio. It has the advantage that it can result in higher stability in mixed pairs and it results in a different aesthetics, when it is the base who balances. 
 
-> Letzte Nachricht für heute. Dabei ist eben auch die spezielle Handstandtechnik von Galina oder den Ukrainern generell ein wichtiger Faktor. Denn es ist nunmal so, dass ganz viele, Calisthenics Leute oder auch professionelle Handstandartisten, mit ihren Beinen balancieren. Wie eine Waage oben etc. Wenn Frosya aber auch nur eine kleinste Bewegung oben mit den Beinen macht um zu balancieren ist das ja schon ein technische Fehler. Echte Balance besteht ja eben darin genau auf dem Punkt zu sein und zu bleiben, so dass keine solche Ausgleichsbewegung mehr nötig ist und alles nur über die Hände passiert. Und es ist nur in diesem Sinn, dass echte Meisterschaft in der Balance möglich ist und auch in dem Sinn gleichen sich die beiden Methoden wieder, eben abhängig davon wie die Mädchen den Handstand beigebracht bekommen. In beiden Methoden geht es um den perfekten Punkt. Nur: Wenn in Methode A was schief geht und vom Punkt abgewichen wird, reagiert die Oberpartnerin und versucht es zu retten. Und wenn in Methode B vom Punkt abgewichen wird, tut das mehr der Unterpartner.
+## Two very different Handbalancing techniques
+
+We mentioned how handbalancing is learned as another factor. There are two very different approaches. 
+
+The usual way of learning handstands, and the way it usually happens when a handstand is self-taught or taught by someone who isn't an expert in the field, can be described as top-down balance. If anything is off, you will see movement in the feet, in the back, in the shoulders, trying to catch the balance by movement at the top; balance is re-established by using different body parts in a counter-weight manner and this results in all kinds of problems.  
+
+The other approach, and this is how Handbalancing is learned e.g. by the handbalancers of Kyiv or the tops of our coach Galina Sinyavskaya, may be described as bottom-up balance. Here no movement at the top is allowed; the handstand is always kept in alignment and any little over- or underbalance is fought against by the hands only, just as one who can effectively stand on ones feet will only need to use the muscles of his feet slightly in order to keep standing, whereas the toddler will wobble around at the upper body and hips, since alignment has not yet been established. 
+
+In the first approach usually the balance is learned first and only then the alignment is tried to be perfected; but every now and then, and usually very often so, the handstand will be out-of-alignment, sometimes from the very beginning, and then one attempts and is able to move body parts around either to bring them back into alignment or simply to keep standing out-of-alignment.
+
+In the second approach the alignment is learned first and balance is only allowed in-alignment. A loss of alignment equals then a loss of balance, because the alignment *is* ones balance, whereas in the first approach they are separate things. That means that one will exit the handstand as soon as alignment is lost, but it also means that the alignment won't be lost easily, since the entire practice rests on perfecting and stabilising the alignment.
+
+If the first approach is learned as a handbalancer, the handbalancing will be much less stable and aesthetically unpleasing. It is what many calisthenics athletes are doing, but also how some professional handstand artists are learning their handstands.  
+If the second approach is learned as a handbalancer, the handbalancing will be much more stable. For handbalancers this approach does not exclude the ability to catch balance via motion of the legs etc. too, if necessary. But it is then learned in a way that the priority of balance is a very different one, and that usually one simply won't fall out-of-alignment, since any loss of alignment that cannot be re-established by effort of the wrists and fingers alone, will, in the trainimg, result in a fall out of the handstand. So, when an athlete trains in such a way he will constantly work on improving his efficiency in remaining in alignment, while those training the other method will constantly train their efficiency to be out-of-alignment and to react in out-of-alignment scenarios. 
+
+This should make obvious how 
+
+
+. Nur: Wenn in Methode A was schief geht und vom Punkt abgewichen wird, reagiert die Oberpartnerin und versucht es zu retten. Und wenn in Methode B vom Punkt abgewichen wird, tut das mehr der Unterpartner.
 
 
 
