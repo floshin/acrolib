@@ -12,3 +12,32 @@
 * Category E: Standing Splits, standing on the back leg, in which the front leg is held up sideways, either passively with gripping it or actively held up by sheer strength.
 * Category F: "Needles" are another form of standing splits standing on the front leg, in which the back leg is held up actively; but opposite to the Scorpion the upper body is not arched back, but in a front-fold, pike position; which makes it much easier to keep the back leg up.  
 * Category G: One footed Backbends/Arches are similar to Scorpions, but held standing on the back leg, then arched backwards looking towards at least the ceiling or the floor. 
+
+
+<style>
+ 
+  main ul { 
+    list-style: none;
+    padding: 0.5em 0 1em;
+  }
+
+  main ul li {
+    padding-left: 0.5em;
+    padding-bottom: 0.4em;
+  }
+ 
+  main ul li:first-line {
+    padding-left: -0.5em;
+  }
+
+  main ul:first-child {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    list-style: initial;
+  }
+   main ul:first-child a {
+     color: inherit;
+   }
+
+</style>
