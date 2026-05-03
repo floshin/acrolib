@@ -36,4 +36,9 @@
   * **Motions and Links:** Elements can either be performed on their own in seperation or be part of a *Sequence*. Balance elements can be seemlessly connected or "sequenced" via *Motions*. Dynamic elements can be seemlessly connected or sequenced via *Links*. 
   * **Partner Elements** are those elements that are performed with a partner (in pairs) or partners (in groups). They are what acrobatic routines are designed around, they are what is judged primarily, what gives the most points and what the sport is essentially made of (in comparison to individual elements, which are less important). Partner Elements are divided into the two categories of "[Balance](/terminology/balance)" and "[Dynamic](/terminology/dynamics)". Every element falls in one of these two categories, but can also be combined. For instance a balance position can become the starting or landing position for a dynamic element.  
   * **Individual Elements** are those elements that are performed individually on the floor. They are less important than partner elements, give less value and in order to put more focus on the partner elements they have become optional in the senior level, while remaining mandatory in the age groups for reasons of skill development. Since this change in the rules many senior partnerships do not perform any individual elements anymore. Individual elements are divided into four categories: (1) Agility, (2) Static, (3) Flexibility and (4) Tumbling, for more details see *[Individual Elements](/terminology/individuals)*.
-    
+* **Dance**, ToDo
+* **Choreography**, short Choreo, (ToDo) / The choreography connects acrobatic elements with dance. Choreos are often divided into smaller "passages" or "sequences", often consisting of a specific choreo portion and an element or a sequence of elements. 
+* **Artistry**, ToDo
+* **Execution**, ToDo
+* **Technique**, ToDo
+* **Sequence**, ToDo
