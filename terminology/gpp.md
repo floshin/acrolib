@@ -34,3 +34,32 @@
 ...
 
 * **Iron vs. Human Weight**: Now that we clarified what some standards are that we should strive for as a base, the question may arise how to build up to this strength in the first place: Using iron weight or human weight? The advantages of weightlifting iron in form of dumbbells, barbells and kettlebells are that (1) it has been proven to be effective, (2) can be done safely, (3) allows for an easy progression of intensity by overload in small incremental steps and (4) does not require others to train. The disadvantages are: (1) It does require weights and other equipment (such as barbell holders). While weight can be adjusted easily between sets, (2) the intensity cannot be reduced mid-set without the help of other people and (3) Children (which are the majority of Acrobats), cannot just be told to practice with weights at home; they have to be carefully teached, guided and supervisioned during training. The advantages of weightlifting human partners are that (1) it is fun to do, especially for children, which is a very important factor in the training process, (2) weight can be adjusted easily mid-set, in that the top partners reduce their own weight by lifting themselves partially; allowing the base to always finish a set and have a longer, more consistent time under tension. 
+
+
+<style>
+ 
+  main ul { 
+    list-style: none;
+    padding: 0.5em 0 1em;
+  }
+
+  main ul li {
+    padding-left: 0.5em;
+    padding-bottom: 0.4em;
+  }
+ 
+  main ul li:first-line {
+    padding-left: -0.5em;
+  }
+
+  main ul:first-child {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    list-style: initial;
+  }
+   main ul:first-child a {
+     color: inherit;
+   }
+
+</style>
