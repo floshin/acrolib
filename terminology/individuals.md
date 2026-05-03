@@ -10,7 +10,7 @@
 * **Tumbling** are individual dynamic elements such as handsprings, somersaults and twists which, other than agilities, are performed with a run-up into them in succession by translating forward momentum into upward momentum. A typical example would be a Round-off → Backhandspring → Back Tuck. 
 
 
-### Statics/Balance
+### Statics or Balance
 
 * **Statics** are basically Balance Elements but held individually. All the handstands, footstands and support holds can be performed as individual static holds too (see [Balance](/terminology/balance)). But there are a few static holds which are only or mostly performed individually and not or rarely on partners, such as Forearmstands, Headstands or Cheststands. Additionally we will also list static holds that are not considered as elements in acrobatic gymnastics, but that are useful in course of the development of said elements and are therefore commonly used (or ought to be used as we think) in the strength and balance development of athletes, such as diverse yoga positions.
 * **Frogstand**, Sanskrit "Bakasana", ...
