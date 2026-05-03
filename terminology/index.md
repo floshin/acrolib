@@ -19,7 +19,7 @@ We divide the Acrobatic terms into the following categories according to the cat
    1. Starting Positions (wip)
    2. Landing Positions (wip)
 4. [Individual Elements](individuals)
-   1. [Statics](individuals#statics)
+   1. [Statics](individuals#statics-balance)
    2. [Flexibilities](individuals#flexibilities)
    3. [Agilities](individuals#agilities)
    4. [Tumbling](individuals#tumbling)
@@ -34,7 +34,7 @@ We divide the Acrobatic terms into the following categories according to the cat
     list-style-type: upper-roman;
   }
 
-  ol>ol {
+  ol ol {
     list-style-type: initial;
   }
 </style>
