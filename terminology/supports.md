@@ -19,3 +19,32 @@
 * **One Arm Planche** is a Planche or Horizont on one arm. According to the ToD of the FIG the one arm planche *cannot* be performed. One arm planches as done in Calisthenics are not considered planches by gymnastic standards due to bent arms and other technical shortcomings. The element is said to be impossible because it is assumed that it can either only be performed with a bent arm and/or with the body heavily twisted or not completely horizontal; in the past and for many years the only person known who came close to a clean one arm planche was a handbalancer called [Professor Paulinetti](), who performed it like this; as can be seen the arm is very visibly bent. In recent years some handbalancers such as ??? and calisthenics athletes such as [Valentin Blanc]() have shown cleaner one arm planches with an almost straight arm, but still a microbend remains. We think that it might be possible that in the future the possibility of one arm planches may have to be reconsidered, but the difficulty is so extreme that it is unlikely to be performed and reserved for athletes with specific body proportions favourable to the element. A different element that sometimes is confused with a One Arm Planche is the "One Arm Airbaby".
 * **One Arm Airbaby**, like the one arm planche, is also a balance element on one arm with the body in a horizontal position, but the body is turned sideways and it is considered a base position; it was performed in the past by a chinese pair with the top in a one arm handstand on the free arm of the base. 
 * **Lever** is simply an alternative term that is sometimes used in English speaking circles instead of "Support". *Tuck Support* is also called Tuck Lever, L-Support is sometimes referred to as Pike-Lever, the Crocodile as Elbow-Lever and so on. See all of the above for more detail. 
+
+
+<style>
+ 
+  main ul { 
+    list-style: none;
+    padding: 0.5em 0 1em;
+  }
+
+  main ul li {
+    padding-left: 0.5em;
+    padding-bottom: 0.4em;
+  }
+ 
+  main ul li:first-line {
+    padding-left: -0.5em;
+  }
+
+  main ul:first-child {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    list-style: initial;
+  }
+   main ul:first-child a {
+     color: inherit;
+   }
+
+</style>
