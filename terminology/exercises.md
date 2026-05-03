@@ -1,5 +1,4 @@
-
-
+# [International Terminology of Acrobatic Gymnastics](/terminology)
 
 ## Exercise Repertoire
 
