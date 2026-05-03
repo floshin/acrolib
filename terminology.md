@@ -7,24 +7,24 @@ Work in progress
 We divide the Acrobatic terms into the following categories according to the categorising terms in the "Table of Difficulty" of Acrobatic Gymnastics. In form of *Dance* and *Exercises* we add two additional highly relevant categories for reference.
 -->
 
-* [Acrobatics](#acrobatics)
-* [Balance](#balance)
+1. [Acrobatics](#acrobatics)
+2. [Balance](#balance)
   * [Handstands](#handstands)
   * [Supports](#supports)
   * [Footstands](#footstands)
   * [Base Positions](#base-positions)
   * [Mounts](#mounts)
   * [Motions](#motions)
-* [Dynamic](#dynamic)
+3. [Dynamic](#dynamic)
   * [Starting Positions](#starting-positions)
   * [Landing Positions](#landing-positions)
-* [Individual Elements](#individual-elements)
+4. [Individual Elements](#individual-elements)
   * [Flexibilities](#flexibilities)
   * [Statics](#statics)
   * [Agilities](#agilities)
   * [Tumbling](#tumbling)
-* [Dance & Choreography](#dance--choreography)
-* [Strength & Conditioning](#strength--conditioning)
+5. [Dance & Choreography](#dance--choreography)
+6. [Strength & Conditioning](#strength--conditioning)
 
 
 ## Acrobatics
@@ -451,6 +451,10 @@ In German the Front Split is also commonly referred to as "Frauenspagat" (Womens
 
 <style>
 
+ol {
+  list-style-type: upper-roman;
+}
+ 
 main ul { 
   list-style: none;
   padding: 0.5em 0 1em;
