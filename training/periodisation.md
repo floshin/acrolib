@@ -207,13 +207,31 @@ We have shown how Steady State Cycles can be a very safe approach to progressive
 
 We have also seen that as acrobats our main focus lies neither on the progress of intensity nor volume, but on technical execution and artistic expression and that in acro there is a theoretical optimal intensity and volume, or in other words: There is a point at which an acrobat is strong enough (intensity) and works enough (volume).  
 
-Therefore the acrobatic approach has to be different. The first thing to do is to see, which skills are meant to be learned. Then we can see which amount and what kind of strength (or flexibility) has to be acquired for the acquisition and perfect technical execution of these skills. Then we will look at the total volume at which these skills ideally should be practiced in order to perfect them, which also tells us again something about the volume of our strength work that we need in order to be strong enough go practice the skills at this volume. And this again will teach us how much "muscular endurance" we have to do, to serve as the basis of our strength.  
+Therefore the acrobatic approach has to be different. The first thing to do is to see, which skills are meant to be learned. Then we can see which amount and what kind of strength (or flexibility) has to be acquired for the acquisition and perfect technical execution of these skills. Then we will look at the total volume at which these skills ideally should be practiced in order to perfect them, which also tells us again something about the volume of our strength work that we need in order to be strong enough to practice the skills at this volume. And this again will teach us how much "muscular endurance" work we have to do, to serve as the basis of our strength.  
 
-We build endurance first via the steady state cycle. Aiming for a particular amount of muscular endurance with very light intensity per athlete and per muscle group or movement pattern depending on the role and the age (or age group or class) of an athlete and build up an ideal volume by which we can say that when they can sustain that volume they are fit and ready to perform with enough ease. 
+We build endurance first via a linear progression over weeks. Aiming for a particular amount of muscular endurance with very light intensity per athlete and per muscle group or movement pattern depending on the role and the age (or age group or class) of an athlete and build up an ideal volume by which we can say that when they can sustain that volume they are fit and ready to perform with enough ease. 
 
-Thereby we basicslly take the wavy approach but don't practice it on a week-by-week or day-by-day fashion, where we cycle lower and higher intensity, but we always practice both within a session. So we will have higher and lower intensity in every training. That does not mean that we practice only at a medium intensity (like in the method mentioned before, that many coaches are using), it just means that we particularly include light intensity work, because it is crucial for joint and muscle health and serves as a basis for strength.  
+A volume-focused progression with very low intensity, a very simplified example with a few rough exercise categories for bases, with X reps per session that are increased over the weeks until a certain baseline is achieved and maintained (obviously an actual program has to be more complex and the numbers chosen are rather random here): 
 
-On the basis of this total volume with light intensity, when the "optimum volume" has been reached (including, as the most important step, a slow increase in training frequency), we will then add some intensity through steady state cycles. The athletes will thereby always have and sustain a good amount of endurance, have a high work capacity with a high frequency and then slowly and safely increase their strength, so to become strong enough to acquire and/or to practice all their skills with that optimum volume. 
+| Weeks  | Push | Pull | Legs | Core |
+| ------ | ---- | ---- | ---- | ---- |
+| Week 1 | 5r   | 5r   | 5r   | 3x5  |
+| Week 2 | 10r  | 10r  | 10r  | 3x10 |
+| Week 3 | 15r  | 15r  | 15r  | 3x15 | 
+| Week 4 | 20r  | 20r  | 20r  | 3x20 |
+| Week 5 | 25r  | 25r  | 25r  | 3x25 |
+| Week 6 | 30r  | 30r  | 30r  | 3x30 |
+
+If thereby we have achieved a baseline of muscular endurance and work capacity at very low intensity (e.g. bodyweight), we start to weight the exercises slowly. E.g. after having achieved the maximum volume that we strive for, the whole cycle is started anew from scratch, with 5 or 10 reps, but with 1 kg added until in week 6 (or however long it takes) the full volume can be done, but with 1 kg extra. Then we start anew and so forth. In this way we improve our muscular endurance with very slow and gentle increases in intensity, so that over time we have more endurance at higher intensity and we will then be able to work with e.g. 10 or 15 or 20 or more kg, but at such a high volume with so many repetitions that it is very light work for us that rather has a regenerative effect on our joints than a damaging one. This is a crucial aspect of our training. 
+
+In a similar way we may progress over weeks from e.g. one day of doing this work, to two days of doing this work, to three days of doing this work etc., until we can easily do the same amount of work on a daily basis. 
+
+Simultaneously we also may want or need some higher (medium-high) intensity work, for which we use a gentle steady state cycle as explained above. But it may also be possible that at some point we are strong enough for our partners and the skills we want to execute, that we can work solely in the endurance fashion described above. 
+
+But thereby having the low intensity, high endurance work in our training, combined with some lower volume medium-high intensity work, we basically take the wavy approach but don't practice it on a week-by-week or day-by-day fashion, where we cycle lower and higher intensity, but we practice both within a session. So we will have higher and lower intensity in every training.   
+That does not mean that we practice only at a medium intensity (like in the method mentioned before, that many coaches are using), it just means that we particularly include light intensity work, because it is crucial for joint and muscle health and serves as a basis for strength.  
+
+The athletes will thereby always have and sustain a good amount of endurance, have a high work capacity with a high frequency and then slowly and safely increase their strength, so to become strong enough to acquire and/or to practice all their skills with that optimum volume. 
 
 ---
 
