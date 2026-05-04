@@ -163,7 +163,7 @@ img {
 
 table {
   max-width: 100%;
-  font-size: 12px;
+  font-size: 13px;
   margin: 2em 0;
   overflow: auto;
   display: block;
@@ -173,7 +173,7 @@ table {
 table,
 th,
 td {
-  border: 2px solid;
+  border: 1px solid var(--dark);
   border-collapse: collapse;
 }
 
