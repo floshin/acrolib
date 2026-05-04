@@ -159,12 +159,44 @@ img {
   margin: 1em 0;
 }
 
+/* BASE TABLES */
+
+table {
+  max-width: 100%;
+  font-size: 12px;
+  margin: 2em 0;
+  overflow: auto;
+  display: block;
+  width: fit-content;
+}
+
+table,
+th,
+td {
+  border: 2px solid;
+  border-collapse: collapse;
+}
+
+th {
+  text-wrap: nowrap;
+}
+
+th,
+td {
+  padding: 0.3em;
+}
+
+td {
+  overflow: hidden;
+}
+
+/*  Old Style
 table {
   overflow-x: auto;
   border-collapse: collapse;
   width: 100%;
   max-width: 100%;
-  /*white-space: nowrap;*/  
+   
 }
     thead {
       background: var(--dark);
@@ -174,6 +206,7 @@ table {
       border: 1px solid;
       padding: 0.5em
     }
+*/
 
 blockquote {
   padding-left: 20px;
