@@ -103,12 +103,24 @@ This approach can be visualised as follows:
 | Week 5 | 5-6 sets, 20kg   | Week 5 | 5-6 sets, 22kg   |
 | Deload | ~3 sets, 20kg    | Deload | ~3 sets, 22kg    |
 
-In this examplatory block periodisation with two hypertrophy-focused mesocycles (there may be several more), we see a slow build up of volume. The intensity stays consistent throughout the weeks, as it is not a strength-focused cycle. Every six weeks there is a deload where the volume is reduced in half (sometimes the intensity is reduced by ~50% at well). By the additional muscle mass build throughout the first mesocycle, strength is increased slightly as well and then a new mesocycle is initiated, with the same progression of volume, but with a slightly higher intensity. 
+In this examplatory block periodisation with two hypertrophy-focused mesocycles (there may be several more), we see a slow build up (overload) of volume. The intensity stays consistent throughout the weeks, as it is not a strength-focused cycle. Every six weeks there is a deload where the volume is reduced in half (the intensity may or may not be reduced by ~50% at well). By the additional muscle mass build throughout the first mesocycle, strength is increased slightly as well and then a new mesocycle is initiated, with the same progression of volume, but with a slightly higher intensity, and again more muscle is build.  
 
+| Meso 1 | Intensity/Volume | Meso 2 | Intensity/Volume |
+| ------ | ---------------- | ------ | ---------------- |
+| Week 1 | 22kg x 5, 2 days | Week 1 | 26kg x 5, 2 days |
+| Week 2 | 23kg x 5, 2 days | Week 2 | 27kg x 5, 2 days |
+| Week 3 | 24kg x 5, 2 days | Week 3 | 28kg x 5, 2 days |
+| Week 4 | 25kg x 5, 2 days | Week 4 | 29kg x 5, 2 days |
+| Week 5 | 26kg x 5, 2 days | Week 5 | 30kg x 5, 2 days |
+| Deload | 18kg x 3, 2 days | Deload | 22kg x 3, 2 days |
 
+In this second example we see two strength-focused blocks, where the emphasis is on the overload of intensity instead. Whereas in the former example, the intensity stayed consistent and the volume was increased, here it is the volume that stays the same and the intensity is regularly increased. 
 
+You see a linear increase in strength over e.g. five weeks, followed by a dip in the deload week, followed by a linear increase in strength, followed by a dip (not as deep as the former one) etc., thereby constantly progressing, given that everything goes according to plan.  
 
-Linear increase in strength over e.g. four weeks, followed by a dip in the deload week, followed by a linear increase in strength, followed by a dip (not as deep as the former one) etc., constantly going higher. 
+Obviously these are examples simplified to a single exercise. In the first example e.g. you may imagine a base practicing shoulder press with 20kg for more and more sets over the weeks. Then by the strength gained thereby starting a new cycle with 22kg in the shoulder press. In the second example, the base may, after having done two muscle focused cycles, do a strength focused cycle to use the new strength potential of the muscles gained to the maximum. She may start with the 22 kg which she has moved for e.g. 10 reps in the fifth week of the muscle building cycle and move it for just five. In the second week she moves one kg more for five. In the third week yet another kg more and so on. Whereas in the end of the hypertrophy cycles she hasn't improved her strength much, but build more muscle, in these strength cycles she improves her strength significantly, but that is only possible if there is enough muscle available that has yet unused strength potential. 
+
+One has to imagine that a complete periodisation program would contain several other exercises too with their own progression of volume and intensity, which would make it much more complex.  
 
 
 ### Wavy Block Periodisation
