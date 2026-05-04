@@ -123,23 +123,56 @@ Obviously these are examples simplified to a single exercise. In the first examp
 One has to imagine that a complete periodisation program would contain several other exercises too with their own progression of volume and intensity, which would make it much more complex.  
 
 
-### Wavy Block Periodisation
+### Block Periodisation in Waves
 
 Different from this linear progression in training blocks is an approach to progression in waves. Here the programme is not divided into blocks of linear progression followed by deload weeks, but there is a constant up and down in volume and intensity either on a week-by-week basis or even on a day-by-day or session-by-session basis. That means, one week of high intensity may follow a week of low intensity, that follows a week of high intensity and so on. Or a day of high intensity follows a day of low intensity. While being a very different approach to programming, the underlying function is the same as with the deload weeks. By having a lower intensity week after a higher intensity week, the body is given time to rest and regenerate. 
 
 This approach can be visualised as such: 
-(add image) 
+
+| Weeks   | Volume/Intensity | 
+| ------- | ---------------- | 
+| HI Week | 5 sets, 20kg     | 
+| LI Week | 10 sets, 10kg    | 
+| HI Week | 5 sets, 22kg     | 
+| LI Week | 10 sets, 11kg    | 
+| HI Week | 5 sets, 24kg     |
+| LI Week | 10 sets, 12kg    | 
+| HI Week | 5 sets, 26kg     |
+| LI Week | 10 sets, 13kg    | 
+| HI Week | 5 sets, 28kg     |
+| LI Week | 10 sets, 14kg    |
+| HI Week | 5 sets, 30kg     |
+| LI Week | 10 sets, 15kg    | 
+
+In this example with a focus on strength increase, with examplatory 5 or 10 sets per session, High Intensity (HI) weeks are succeeded by Low Intensity (LI) weeks, followed by High Intensity weeks and so on. The LI weeks are like Deload weeks in Linear Block Periodisation, but in that they are so regular, the whole programming is much simpler. If e.g. the intensity cannot be increased any more, one may just stick with the same weight for a while a few weeks in a row or increase the sets or reps with the same weight, then increase it again. In such a way one may e.g. maintain his strength in one exercise and just keep doing the same, while trying to improve his strength in another exercise. 
+
+Here is another example of a wave progression on a daily instead of a weekly basis:
+
+| Days   | Volume/Intensity   | 
+| ------ | ------------------ | 
+| HI Day | 5 sets, 20 kg      | 
+| LI Day | 10 sets, 10 kg     | 
+| HI Day | 5 sets, 20.25 kg   | 
+| LI Day | 10 sets, 10.125 kg | 
+| HI Day | 5 sets, 20.5 kg    |
+| LI Day | 10 sets, 10.25 kg  | 
+| HI Day | 5 sets, 20.75 kg   |
+| LI Day | 10 sets, 10,375 kg | 
+| HI Day | 5 sets, 21 kg      |
+| LI Day | 10 sets, 10.5 kg   |
+
+It's just the same as the weekly waves, but since there is a switch on a day-by-day basis, it won't be possible to increase the weight as regularly and as much. Improvements may be smaller and less frequently and for some the high intensity on every other day may be too much, which means that the intensity may have to be a bit lower overall to make this program effective and sustainable.  
 
 
-### Linear Blocks vs. Wavy Blocks
+### Linear Blocks vs. Wave Blocks
 
-But why would one prefer one over another? From my perspective, the linear progression block-approach isn't very suitable to gymnastics, especially so when there are competitions or shows all year. Such an approach is most suitable to e.g. bodybuilding or strength sports, to maximise the gains. At the end of each mesocycle, before the deload week, one often will feel very tired and the injury risk increases. At that time performance will decline, the accumulated fatigue will be maxed out. This of course can be modified and the negative effects weakened through intelligent programming, nonetheless it is an approach that is demanding on the nervous system and may not be optimal in case of a sports in which one ideally has to be ready and capable to perform on a daily basis, because its not about lifting personal records on a monthly basis or something like that, but about daily performance, about correct technical execution and artistic expression on a daily basis. Even less so is it a fitting approach to all those who work e.g. as professional acrobats in the circus, where they have shows on a daily basis for months all year. Unless they have longer periods of only training and rest, in which case such a block periodistation may have a place. 
+Why would one prefer one over another? From my perspective, the linear progression block-approach isn't very suitable to gymnastics, especially so when there are competitions or shows all year. Such an approach is most suitable to e.g. bodybuilding or strength sports, to maximise the gains. At the end of each mesocycle, before the deload week, one often will feel very tired and the injury risk increases. At that time performance will decline, the accumulated fatigue will be maxed out. This of course can be modified and the negative effects weakened through intelligent programming; nonetheless it is an approach that is demanding on the nervous system and may not be optimal in case of a sports in which one ideally has to be ready and capable to perform on a daily basis, because its not about lifting personal records on a monthly basis or something like that, but about daily performance, about correct technical execution and artistic expression on a *daily* basis. Even less so is it a fitting approach to all those who work e.g. as professional acrobats in the circus, where they have shows on a daily basis for months all year. Unless they have longer periods of only training and rest, in which case such a block periodistation may have a place, but for the majority of the year it won't work well. 
 
-For most acrobats a wavy approach may therefore be more sustainable, but the higher intensity weeks or sessions shouldn't be too intense, so as to not negatively affect recovery and performance too much, and the lower intensity weeks or sessions shouldn't be too light either, as the acrobats need a certain basic level of medium intensity on a regular basis. Thus the wavy approach in acrobatics would be a more gentle approach, where the waves fall not very low under medium intensity and rise not very high above medium intensity.  
+For most acrobats a wavy approach may therefore be more sustainable, but the higher intensity weeks or sessions shouldn't be too intense, so as to not negatively affect recovery and performance too much, and the lower intensity weeks or sessions shouldn't be too light either, as the acrobats need a certain basic level of medium intensity on a regular basis. Thus the wavy approach in acrobatics would work in a more gentle way, where the waves fall not very low under medium intensity and rise not very high above medium intensity.  
 
 Because of this there are many coaches which are essentially throughout the entire year only practicing at a certain medium intensity, try to keep staying within that intensity, while keeping the volume always the same and increasing intensity only slowly and when possible without training too intensely; that said, only increasing intensity when the former medium intensity has become so easy that a higher intensity can be practiced now as the new medium intensity without problems. 
 
-Here the frequency plays a major role, because when an acrobat only trains one or two times a week, periodisation becomes rather meaningless. There is simply not enough total volume and an acrobat with so little training will have more important problems than to have a fancy periodised programming; he will first and foremost have to increase the training frequency. If that is not possible or not wanted, then working at a medium intensity more or less always, and with occasional higher and lower intensity sessions as needed, on a basis of individual perception, is a perfectly valid approach. 
+Here the frequency plays a major role, because when an acrobat only trains one or two times a week, periodisation becomes rather meaningless. There is simply not enough total volume and an acrobat with so little training will have more important problems than to have a fancy periodised programming; he will first and foremost have to increase the training frequency. If that is not possible or not wanted, then working at a medium intensity more or less always, and with occasional higher and lower intensity sessions as needed, on a basis of individual perception, is a valid approach. 
 
 
 ### Steady State Cycles - Beyond the Block Approach
