@@ -62,9 +62,9 @@ In acro the main focus lies on technique and artistry, on improving *technical e
 
 But how can technical and artistic progress be measured? It can be measured by criteria such as those of the code of points. Thus measuring progress is not the problem; it is obvious to any skilled acro coach. The question is rather: How can we create a progressive overload in regard to technical execution and artistic expression? Because becoming stronger or working with more volume or having more endurance, all of that will not in itself cause progress in execution and expression. They are requirements for better technical execution and artistic expression to a degree, but they aren't the same. 
 
-#### Overload of Technical Execution
+#### Progress in Technical Execution
 
-An overload of technical execution or simply a progress in technical execution can be described with "doing better more often". 
+Progress in technical execution can be described with "doing better more often". 
 
 (1) **Skill Acquisition:** At first an acrobat may not be able to perform an element at all. Then he may be able to perform it sometimes. Then he may be able to perform it most often, then almost always and finally (ideally) always. This phase we can describe as skill acquisition and in this phase or rather *preceeding* this phase, progression of intensity and volume is essential, as it provides the necessary basis for the skill. In this phase of skill acquisition, not much volume is required, rather the minimum amount of work needed to learn with utmost concentration.  
 
@@ -72,9 +72,9 @@ An overload of technical execution or simply a progress in technical execution c
 
 (3) **Skill Volume:** After mastering a skill further improvement can be made by simply doing it more often and/or for longer. E.g. one may increase the number of static holds, mounts and motions or dynamics per session or one may increase the hold times, the endurance of the holds, to make them easier over time and/or decrease the rest times inbetween repetitions, thereby proving more and more efficiency and ease in skill execution. 
 
-#### Overload of Artistic Expression
+#### Progress in Artistic Expression
 
-In regard to artistic expression an overload or simply progress can also be described with "doing better more often" and we can discern three phases as well. 
+In regard to artistic expression progress can also be described with "doing better more often" and we can discern three phases as well. 
 
 (1) **Choreography Development:** A choreography and the desired expression has to be developed and learned. Measurement can take place in the same way as in skills. 
 
@@ -90,10 +90,25 @@ As shortly hinted at above, a periodised programme is usually planned in so call
 
 ### Linear Block Periodisation
 
-One common approach is to work with so called training blocks, called mesocycles, which as a whole form a macrocycle of an entire season. There may for instance be a muscle-building (mass/hypertrophy) focused block of a few weeks, when needed, then a strength focused block, then a skill focused block etc., as necessary. These blocks, forming mesocycles, consist of smaller microcycles, the weeks. Most often there is a very linear progression of volume or intensity throughout the weeks, with a deload week in order to reset and regenerate, before going into the next mesocycle. 
+One common approach is to work with so called training blocks, called mesocycles, which as a whole form a macrocycle of an entire season. There may for instance be a muscle-building (mass/hypertrophy) focused block of a few weeks, when needed, then a strength focused block, then a skill focused block etc., as necessary. These blocks, forming mesocycles, consist of smaller microcycles, the weeks. Most often there is a very linear progression of volume or intensity throughout the weeks, with a deload week in order to reset and regenerate, before going into the next mesocycle with a new intensity. 
 
 This approach can be visualised as follows:  
-Linear increase in strength over e.g. four weeks, followed by a dip in the deload week, followed by a linear increase in strength, followed by a dip (not as deep as the former one) etc., constantly going higher. (Add image) 
+
+| Meso 1 | Volume/Intensity | Meso 2 | Volume/Intensity |
+| ------ | ---------------- | ------ | ---------------- |
+| Week 1 | 1-2 sets, 20kg   | Week 1 | 1-2 sets, 22kg   |
+| Week 2 | 2-3 sets, 20kg   | Week 2 | 2-3 sets, 22kg   |
+| Week 3 | 3-4 sets, 20kg   | Week 3 | 3-4 sets, 22kg   |
+| Week 4 | 4-5 sets, 20kg   | Week 4 | 4-5 sets, 22kg   |
+| Week 5 | 5-6 sets, 20kg   | Week 5 | 5-6 sets, 22kg   |
+| Deload | ~3 sets, 20kg    | Deload | ~3 sets, 22kg    |
+
+In this examplatory block periodisation with two hypertrophy-focused mesocycles (there may be several more), we see a slow build up of volume. The intensity stays consistent throughout the weeks, as it is not a strength-focused cycle. Every six weeks there is a deload where the volume is reduced in half (sometimes the intensity is reduced by ~50% at well). By the additional muscle mass build throughout the first mesocycle, strength is increased slightly as well and then a new mesocycle is initiated, with the same progression of volume, but with a slightly higher intensity. 
+
+
+
+
+Linear increase in strength over e.g. four weeks, followed by a dip in the deload week, followed by a linear increase in strength, followed by a dip (not as deep as the former one) etc., constantly going higher. 
 
 
 ### Wavy Block Periodisation
