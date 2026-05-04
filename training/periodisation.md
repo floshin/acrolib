@@ -187,10 +187,18 @@ A steady state cycle works in the opposite way: You start with a relatively high
 
 For example: One may start being able to do 2 Handstand Push-ups (HsPu) in a row. That means, it is a fairly high intensity. In the steady state cycle, a daily volume will be set, for instance 20 reps. To complete this volume, he will have to do 10 sets with that high intensity, which is very intense. One keeps doing that very same thing. But over time, he may be able to do 4 reps and can then complete the total volume by just 5 sets. Then he may be able to do 5 reps in a row and can then complete the volume by just 4 sets and so forth. Eventually he may be able to do 10 reps in a row or something on these lines and at a specific point it is then decided that a new steady state cycle will be initiated. Then, for instance, because he can now do 10 HsPu in a row, they may then decide to increase the volume to e.g. 30 or 50 reps of total volume and work on that, until its easy enough. Or they may start adding ancle weights, thereby increasing the intensity and start the same cycle all over again. With the extra weight he may be down to 3 reps in a row agaim, and then slowly increase in course of the weeks until he can do 10 again. 
 
-This is the process of slowly, by consistent practice, turning something, that has been intense strength training before, into mere less intense conditioning. By the consistent work with the same intensity one may not increase strength as fast as it may be possible in a linear block approach, but it is guaranteed that no strength is lost and the same volume is kept up, which is a form of consistency which is beneficial to fatigue and load management in general and in the gymnastics context in particular, as it will be less taxing on the nervous system, if the intensity started with is not too high. Thereby it may be a slower approach, but also a very safe approach, by which we can reduce the injury risk. 
+| Weeks  | 20x HsPu  | 
+| ------ | --------- | 
+| Week 1 | 10x 2r    | 
+| Week 2 | 5x  4r    | 
+| Week 3 | 4x  5r    | 
+| Week 4 | 2x 6r + 2x 4r | 
+| Week 5 | 2x 7r + 1x 5r |
+| Week 6 | 2x 8r + 1x 4r | 
 
-It can be visualised like this:
-(Add image) 
+This would be an examplatory progression, where the volume is always the same (20 reps per session), the intensity is very high in the beginning and requires many sets, but is then slowly getting less and less intense. Here there is overload at the beginning with many sets, and underload in the end with just a few sets. This is not an ideal example as starting with 10x2 reps may be way too intense, but the overall scheme becomes apparent.  
+
+This is the process of slowly, by consistent practice, turning something, that has been intense strength training before, into mere less intense conditioning. By the consistent work with the same intensity one may not increase strength as fast as it may be possible in a linear block approach, but it is guaranteed that no strength is lost and the same volume is kept up, which is a form of consistency which is beneficial to fatigue and load management in general and in the gymnastics context in particular, as it will be less taxing on the nervous system, if the intensity started with is not too high. Thereby it may be a slower approach, but also a very safe approach, by which we can reduce the injury risk. 
 
 
 ## The Gentle Sinyavskaya Method
