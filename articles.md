@@ -11,6 +11,7 @@
 * [Four Understandings of Acro](/training/four-understandings)
 * [Acrobatic Training Philosophies](/training/training-philosophies)
 * [Balancing or Being-Balanced in Mixed Pairs](/training/approaches-to-balance)
+* [Athletes Motivation](/training/motivation)
 
 
 ## Rules
