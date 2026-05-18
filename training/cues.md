@@ -15,3 +15,7 @@ In order to achieve this, the coach...
 (2) then he has to make sure that the athlete can do the skill and correct it on his own, that he is able to get into the correct position, move correctly, as soon as a verbal cue is given that relates to the particular mistake made. 
 
 Some coaches prefer to do much hands-on corrections, but this also can make athletes too dependent on the coach, when doing too much. It also is often not practical when the coach has to deal with many athletes simultaneously. Other coaches prefer to do very little hands-on corrections and work with verbal cues almost all of the time. This can be very effective and efficient, but it can be overwhelming when it is done and insisted upon while an athlete is not yet understanding the cues or is simply unable to implement them mentally or physically. 
+
+Nonetheless it requires training too, especially for young athletes, to become better in processing verbal cues. And if a coach realises that an athlete cannot process, cannot understand or not implement a verbal cue, there are two different possible solutions:  
+* He could choose to go back to hands-on support and guide the athlete (into position or through the movement), but that means that the athlete in that moment cannot solve it on his own. 
+* But he could also, instead, choose to stick to the verbal approach, but change his wording, simplify his cues so much until the athlete can fix the issue by himself. 
