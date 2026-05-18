@@ -20,6 +20,24 @@ Nonetheless it requires training too, especially for young athletes, to become b
 * He could choose to go back to hands-on support and guide the athlete (into position or through the movement), but that means that the athlete in that moment cannot solve it on his own. 
 * But he could also, instead, choose to stick to the verbal approach, but change his wording, simplify his cues so much until the athlete can fix the issue by himself. 
 
-The first approach may fix the problem faster for sure. But then, especially in case of younger athletes, the same problem occurs again and then cues may still not work, since the movement or position may still be too complex to process by wording alone. When on the other hand I take my time, persist on verbal cues and explain by words alone and by showing if necessary what the athlete should try to do in single steps, I can break down the skill into single, applicable fragments and by breaking the skill down in such a way and cueing the athlete through it and enable him to implement them one after another, the athlete will, while it may take longer and seem ineffective, in the end, understand the element much better.  
+The first approach may fix the problem faster for sure. But then, especially in case of younger athletes, the same problem occurs again and then cues may still not work, since the movement or position may still be too complex to process by wording alone. When on the other hand I take my time, persist on verbal cues and explain by words alone (and by showing if necessary) what the athlete should try to do in single steps, I can break down the skill into single, applicable fragments and by breaking the skill down in such a way and cueing the athlete through it and enable him to implement them one after another, the athlete will, while it may take longer and seem ineffective, in the end, understand the element much better.  
 
 Of course a hybrid approach is always possible, where I teach single fragments of a skill hands-on and explain them at the same time, hoping that the athlete will remember and associate the moves/positions and related feelings with the verbal cues and can then implement it all independently next time. But when I go the other route of doing it by verbal cues almost completely and by simplifying these verbal cues more and more until it works, the athlete is enabled to figure it out much more on his own, is forced to process the words, form a concept based on them and translate this intellectual concept into the physical realm. This will take more time without a doubt, but it will also eventually teach them much more, lead them to more understanding of the skill and finally to more control.  
+
+This approach, I would speculate, may also create more or deeper neural pathways, but that would be something for researchers to evaluate. 
+
+In any way one may be able to see the merit in this approach intuitively. As Wittgenstein wrote: 
+
+> The borders of my language are the borders of my world.
+
+A young child may not have to be able to describe every relevant fragment and aspect of a skill, but it should be able to understand what is meant and be able to apply it when the coach is decribing it, ideally in a single word. Then such as words as these suffice:  
+
+* Knees
+* Hips
+* Feet
+* Shoulders
+* Elbow
+
+When the athlete is *not* able to understand it and to apply it in this way, translating words into motion, it is safe to assume that the athlete has a limited understanding of the skill, a concept too vague. Not having words for something or not knowing what words are meant to connote, always reveal a limited understanding and a limited intellectual understanding will necessarily have influence on physical performance as well, to a larger or minor degree.  
+
+
