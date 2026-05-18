@@ -14,3 +14,4 @@ In order to achieve this, the coach...
 (1) first has to make sure, that the athlete is physically capable of the movement (in regard to strength, flexibility and control)  
 (2) then he has to make sure that the athlete can do the skill and correct it on his own, that he is able to get into the correct position, move correctly, as soon as a verbal cue is given that relates to the particular mistake made. 
 
+Some coaches prefer to do much hands-on corrections, but this also can make athletes too dependent on the coach, when doing too much. It also is often not practical when the coach has to deal with many athletes simultaneously. Other coaches prefer to do very little hands-on corrections and work with verbal cues almost all of the time. This can be very effective and efficient, but it can be overwhelming when it is done and insisted upon while an athlete is not yet understanding the cues or is simply unable to implement them mentally or physically. 
