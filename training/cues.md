@@ -32,11 +32,16 @@ In any way one may be able to see the merit in this approach intuitively. As Wit
 
 A young child may not have to be able to describe every relevant fragment and aspect of a skill, but it should be able to understand what is meant and be able to apply it when the coach is decribing it, ideally in a single word. Then such as words as these suffice:  
 
-* Knees
-* Hips
-* Feet
-* Shoulders
-* Elbow
+* Knees (lock) 
+* Hips (extend e.g. in layout)
+* Feet (to point)
+* Shoulders (push/open)
+* Elbow (lock, straighten arms)
+* Grip (firmer)
+* Arm-Swing (e.g. in dynamics)
+* Straighten (e.g. in h2h landing)
+* Thighter (e.g. tuck more firmly)
+* earlier/later X (e.g. open tuck)
 
 When the athlete is *not* able to understand it and to apply it in this way, translating words into motion, it is safe to assume that the athlete has a limited understanding of the skill, a concept too vague. Not having words for something or not knowing what words are meant to connote, always reveal a limited understanding and a limited intellectual understanding will necessarily have influence on physical performance as well, to a larger or minor degree.  
 
