@@ -52,7 +52,7 @@ Here we list and link all kinds of relevant projects that are not already linked
   * saltos to catch
   * saltos starting from the hands of the top
 
-
+* ['How to train a Men’s Group: A beginners guide'](https://m.youtube.com/watch?v=vVjGY5DPQMQ&feature=youtu.be). / 13 May 2026 / Held by Amir Mozes (ISR) and Lourenco Franca (POR).  
 
 
 
